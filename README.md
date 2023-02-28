@@ -1,2 +1,2 @@
 # ai-models
-NLP Vietnamese text summarization
+- [ ] NLP Vietnamese text summarization use seq2seq model
