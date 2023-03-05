@@ -1,0 +1,24 @@
+Trong báo cáo vĩ mô mới công bố gần đây, CTCK Ngân hàng Công thương Việt Nam (VietinBank Securities, CTS) đánh giá NHNN sẽ tiếp tục kiên trì chính sách nâng lãi suất nhằm mục tiêu ổn định tỷ giá - phòng tuyến cuối cùng trước khi lạm phát tràn vào Việt Nam.
+Dự báo tỷ giá USD/VND tăng, đạt 23,400 - 24,400 đồng
+Ngày 22/09/2022, NHNN ban hành Quyết định nâng lãi suất điều hành với ba điều chỉnh rõ rệt: Tăng lãi suất tái cấp vốn từ 4% lên 5%, tăng lãi suất tái chiết khấu từ 2.5% đến 3.5% và tăng lãi suất cho vay qua đêm trong thanh toán điện tử liên ngân hàng và cho vay bù đắp thiếu hụt vốn trong thanh toán bù trừ từ 5% lên 6%.
+CTS đánh giá động thái này cho thấy NHNN đang phát đi tín hiệu thắt chặt tiền tệ để giảm áp lực lên “phòng tuyến” tỷ giá trong khi xuất nhập khẩu và nguồn vốn FDI đóng vai trò then chốt cho tăng trưởng nền kinh tế Việt Nam.
+Trong các tháng đầu năm 2022, Đồng đô la Mỹ (USD) trên thị trường thế giới vẫn giữ tăng trong các ngày đầu tháng 9/2022 trong bối cảnh dữ liệu kinh tế Mỹ cho thấy lạm phát tăng cao.
+Tính đến ngày 30/09/2022, tỷ giá USD đạt trên 24,000, tăng hơn 4% so với đầu năm 2022. Theo CTS, NHNN sẽ tiếp tục kiên trì chính sách nâng lãi suất nhằm mục tiêu ổn định tỷ giá - phòng tuyến cuối cùng trước khi lạm phát tràn vào Việt Nam.
+Sử dụng mô hình OLS, CTS dự báo tỷ giá duy trì 23,400 đồng còn mô hình ARIMA định lượng tỷ giá sẽ tăng lên mức 24,400 đồng. Từ góc độ định lượng, cả hai mô hình đều cho thấy xu hướng tỷ giá USD/VND tăng nhẹ trong nửa cuối năm 2022, và kéo dài sang năm 2023.
+Do vậy, CTS đặt dự báo tỷ giá dao động quanh ngưỡng 23,400 - 24,400 trong nửa cuối năm 2022.
+Báo cáo của CTS dự báo NHNN khả năng cao sẽ nâng lãi suất điều hành thêm 0.5-1%, tùy thuộc vào tình hình tỷ giá và lạm phát tại Việt Nam và trên thế giới và giữ nền lãi suất này sang đến năm 2023. Cụ thể, chênh lệch lãi suất giữa VNĐ và USD đang dương khoảng 1.4%.
+Tuy nhiên, có xác suất cao rằng lạm phát thực sự có thể sẽ hạ cánh tại Việt Nam trong bối cảnh vĩ mô thế giới suy giảm mà tăng trưởng nền kinh tế gần như đạt đỉnh.
+CPI cả năm ở mức 4 - 4.5%
+Tăng trưởng GDP quý 3/2022 đạt 13.67% cho thấy sự phục hồi rõ nét so với mức tăng trưởng giảm 6.17% của cùng kỳ năm trước khi nền kinh tế chịu ảnh hưởng nặng nề từ đại dịch Covid-19.
+Nhờ vậy, GDP 9 tháng đầu năm 2022 tăng 8.83% so với cùng kỳ năm trước, là mức tăng cao nhất của 9 tháng trong giai đoạn 2011-2022.
+Dự báo cho năm 2022, CTS điều chỉnh dự báo tăng trưởng kinh tế Việt Nam từ 6.7% lên 7.5% dựa trên kịch bản tích cực.
+
+CTS duy trì dự báo CPI của Việt Nam cả năm 2022 sẽ có thể ổn định ở mức 4 - 4.5% khi giá nguyên vật liệu đang có xu hướng giảm. Tuy nhiên, CPI có thể vượt ngưỡng kế hoạch này nếu giá nguyên vật liệu quay đầu tăng trở lại.
+Một số nguyên nhân có thể ảnh hưởng trực tiếp đến chỉ số giá tiêu dùng CPI của Việt Nam cho cả năm 2022, gồm:
+Thứ nhất, giá xăng dầu tăng mạnh trở lại khi OPEC cắt giảm nguồn cung.
+Thứ hai, giá nguyên liệu nhập khẩu của nhiều ngành tăng mạnh do ảnh hưởng của giá USD/VND nguyên nhân từ cuộc chiến Nga - Ukraine, hay đứt gãy chuỗi cung ứng dẫn đến nguồn cung giá cả hàng hóa leo thang, đặc biệt giá thức ăn chăn nuôi đẩy giá lương thực, thực phẩm tăng theo. Đây cũng là nguyên nhân lạm phát chủ yếu, xuất phát từ nguồn cung hay do chi phí đẩy làm xói mòn giá cả hàng hóa.
+Cuối cùng là chính sách tài khóa được triển khai mạnh mẽ bao gồm các gói hỗ trợ của chính phủ, giải ngân vốn đầu tư công kích hoạt một lượng lớn nguồn vốn đổ vào nền kinh tế, như vậy áp lực lạm phát có thể kéo theo.
+Theo đó, CTS dự báo tiêu dùng sẽ duy trì đà tăng trưởng ổn định khi nền kinh tế tiếp tục phục hồi, thu nhập người lao động cải thiện, và giá nguyên vật liệu đầu vào có xu hướng giảm dần. Tuy nhiên, cần lưu ý rủi ro lạm phát lan tràn đến Việt Nam có thể gây thâm hụt nhu cầu, ảnh hưởng đến tổng mức bán lẻ hàng hóa.
+Ngoài ra, lãi suất tái chiết khấu dự báo đạt tăng 3.5 - 4.5%, tăng trưởng vốn FDI đăng ký mới trên 9%. Tăng trưởng tín dụng có thể đạt trên 14%, giải ngân vốn đầu tư công khả năng cao đạt kế hoạch 80 - 85% tính đến hết năm 2022.
+Đông Tư
+FILI

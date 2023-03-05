@@ -1,0 +1,30 @@
+VN-Index tiếp tục có phiên giao dịch ảm đạm và hình thành mẫu hình nến Falling Window. Thêm vào đó, chỉ số cũng đã rơi xuống dưới SMA 100 ngày nên rủi ro tăng cao. Tuy nhiên, điểm tích cực là khối lượng giao dịch bật tăng mạnh so với phiên trước và nằm trên mức trung bình 20 ngày gần nhất cho thấy dòng tiền đang có sự trở lại.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 14/09/2022
+- Thị trường chứng khoán giao dịch tương đối ảm đạm trong phiên 14/09/2022. Cụ thể, VN-Index giảm 7.63 điểm, dừng chân tại 1,240.77 điểm; HNX-Index giảm 2.17 điểm, xuống còn 279.42 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 574 triệu đơn vị, tăng 39.84% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 30.02%, đạt hơn 71 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị hơn 54 tỷ đồng, bán ròng trên sàn HNX với giá trị gần 9 tỷ đồng.
+- Sau khi báo cáo lạm phát quan trọng tháng 8 tăng mạnh hơn dự báo, làm ảnh hưởng đến sự lạc quan của nhà đầu tư đối với việc lạm phát hạ nhiệt và Cục Dự trữ Liên bang Mỹ (Fed) bớt quyết liệt hơn. Các chỉ số chứng khoán chính trên thị trường Mỹ đồng loạt giảm mạnh. Tâm lý tiêu cực cũng ảnh hưởng lớn đến thị trường chứng khoán trong nước. VN-Index mở cửa phiên sụt giảm gần 20 điểm với toàn bộ các nhóm ngành cùng hiện sắc đỏ. Trong phiên chiều, nhiều nhóm ngành quay đầu tăng trở lại như chứng khoán, xây dựng, dầu khí hay nông - lâm - ngư đã kéo VN-Index thu hẹp dần đà giảm trước đó. Kết phiên, VN-Index giảm 7.63 điểm, xuống mức 1,240.77 điểm.
+- Chung xu hướng với thị trường, VN30-Index kết phiên giảm 11.6 điểm (-0.91%), dừng chân ở mức 1,260.88 điểm. Bên bán chiếm ưu thế lớn trong rổ VN30 với 24 mã giảm, 2 mã tăng và 4 mã đứng giá. Trong đó, SAB, HDB, VNM là những mã giảm mạnh nhất trong rổ.
+- Về mức độ ảnh hưởng, VNM, SAB, GAS và VHM là những mã có tác động tiêu cực nhất đến VN-Index khi lấy đi hơn 3 điểm của chỉ số này. Trong khi đó, EIB, DXG, HAG và VGC là những mã có đóng góp tích cực nhất.
+- Ông lớn GAS trong ngành tiện ích giao dịch tiêu cực khi sụt 1.49%. Các cổ phiếu khác trong nhóm cũng đồng loạt hiện sắc đỏ. Các mã PGV, NT2, DTK, GEG giảm quanh mức 1%-2%.
+- Nhóm cổ phiếu nông - lâm - ngư nghiệp đi ngược thị trường chung trở thành ngành tăng mạnh nhất thị trường trong phiên. Trong đó, bộ đôi HAG và HNG cùng giao dịch tích cực. Trong khi HAG mở hết biên độ thì HNG cũng tiến tốt ở mức 3.74%.
+- Nhóm cổ phiếu xây dựng, sắt thép cũng có phiên giao dịch sôi động. Tiêu biểu trong đố có thể kể tới VCG leo dốc 5.22%, HSG và BCG cùng tăng trung bình trên 3%...
+- VN-Index tiếp tục có phiên giao dịch ảm đạm và hình thành mẫu hình nến Falling Window. Thêm vào đó, chỉ số cũng đã rơi xuống dưới SMA 100 ngày nên rủi ro tăng cao. Tuy nhiên, điểm tích cực là khối lượng giao dịch bật tăng mạnh so với phiên trước và nằm trên mức trung bình 20 ngày gần nhất cho thấy dòng tiền đang có sự trở lại.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Falling Window xuất hiện
+Trong phiên giao dịch ngày 14/09/2022, VN-Index hình thành mẫu hình nến Falling Window cho thấy nhà đầu tư đang khá bi quan trong ngắn hạn.
+Thêm vào đó, chỉ số cũng đã rơi xuống dưới SMA 100 ngày nên rủi ro tăng cao.
+
+HNX-Index - Rủi ro tăng cao
+Trong phiên giao dịch ngày 14/09/2022, HNX-Index tiếp tục giảm điểm phiên thứ 3 liên tiếp cho thấy tâm lý bi quan của nhà đầu tư đang gia tăng.
+Đường SMA 50 ngày đã bị phá vỡ cho thấy xu hướng trung hạn có thể bị đảo ngược từ tăng sang giảm. Chỉ số có nguy cơ về lại vùng đáy cũ tháng 06/2022 là rất cao.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 14/09/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ càng bi quan hơn
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 14/09/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

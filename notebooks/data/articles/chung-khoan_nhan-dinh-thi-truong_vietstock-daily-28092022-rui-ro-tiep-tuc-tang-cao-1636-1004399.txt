@@ -1,0 +1,29 @@
+VN-Index tiếp tục giảm điểm trong phiên và hình thành mẫu hình nến Black Marubozu cho thấy sự bi quan của nhà đầu tư. Bên cạnh đó, khối lượng giao dịch sụt giảm mạnh và dòng tiền thông minh có thể rơi xuống dưới đường EMA 20 ngày trong các phiên tới chứng rỏ rủi ro đang tăng cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 27/09/2022
+- Thị trường chứng khoán tiếp tục giao dịch ảm đạm trong phiên 27/09/2022. Cụ thể, VN-Index kết phiên giảm 7.81 điểm, xuống 1,166.54 điểm; HNX-Index giảm nhẹ 0.16 điểm, xuống còn 255.52 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 415 triệu đơn vị, giảm mạnh 40.85% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm hơn 44.3%, đạt gần 46 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 389 tỷ đồng, bán ròng trên sàn HNX với giá trị gần 14 tỷ đồng.
+- Thị trường chứng khoán khoán tiếp tục giao dịch ảm đạm sau khi giảm mạnh ở phiên trước đó. Dù mở cửa với sắc xanh tương đối tích cực, tuy nhiên VN-Index lại nhanh chóng quay đầu giảm điểm xuống dưới tham chiếu và giao dịch quanh mức này trong phần lớn thời gian của phiên. Sự tiêu cực được thể hiện ở cuối phiên khi bên bán dần chiếm ưu thế hơn khiến chỉ số sụt giảm. Kết thúc giao dịch, VN-Index giảm 7.81 điểm, xuống 1,166.54 điểm.
+- VN30-Index kết phiên giảm 4.76 điểm (-0.4%), dừng chân ở mức 1,182.46 điểm. Bên bán chiếm ưu thế lớn trong nhóm với 15 mã giảm, 9 mã tăng và 6 mã đứng giá. Giảm giá mạnh nhất trong rổ là VHM khi sụt 3.2%. Theo sau là các mã VNM, PLX, GAS và VIC. ở chiều ngược lại, VIB, HDB, POW, ACB là những mã tăng giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, VHM là mã có tác động tiêu cực nhất đến VN-Index khi lấy đi gần 2 điểm của chỉ số này. Theo sau VHM là các cổ phiếu GAS, VIC, VCB và VNM. Trong khi đó, BID, VIB, HDB và SHB là những mã có đóng góp tích cực nhất đến chỉ số.
+- Về nhóm ngành, bên bán vẫn tiếp tục chiếm ưu thế ở hầu hết nhóm ngành. Trong đó, ngành khai khoáng là ngành giảm mạnh nhất với mức giảm 3.16%. Các mã họ dầu khí như PVB sụt hết biên độ, PVD lao dốc 6.54%, PVS giảm 1.67%, PVC nhích nhẹ xuống dưới giá tham chiếu. Việc giá dầu Brent rớt mốc 85 USD/thùng vào ngày thứ Hai (26/09), do lo ngại suy thoái gây áp lực cùng với đồng USD tăng mạnh đã ảnh hưởng tiêu cực tới nhóm cổ phiếu này.
+- Trong nhóm cổ phiếu bán lẻ, VGC có phiên giao dịch cực kỳ ảm đạm khi sụt giảm mạnh 5.36%. Ông lớn MWG giảm 1.32%, FRT giảm 1.01%.
+- VN-Index tiếp tục giảm điểm trong phiên và hình thành mẫu hình nến Black Marubozu cho thấy sự bi quan của nhà đầu tư. Bên cạnh đó, khối lượng giao dịch sụt giảm mạnh và dòng tiền thông minh có thể rơi xuống dưới đường EMA 20 ngày trong các phiên tới chứng rỏ rủi ro đang tăng cao.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Black Marubozu xuất hiện
+Trong phiên giao dịch ngày 27/09/2022, VN-Index tiếp tục giảm và xuất hiện Black Marubozu. Mẫu hình này kết hợp với Falling Window trước đó cho thấy tâm lý nhà đầu tư đang rất bi quan.
+Chỉ số đang test lại đáy cũ tháng 07/2022 (tương đương vùng 1,140-1,170 điểm). Nếu vùng này bị phá vỡ trong thời gian tới thì tình hình sẽ rất bi quan.
+
+HNX-Index - Vùng 260-270 điểm đã bị thủng hoàn toàn
+Trong phiên giao dịch ngày 27/09/2022, HNX-Index hình thành mẫu hình nến Doji cho thấy tâm lý nhà đầu tư đang giằng co mạnh.
+Vùng 260-270 điểm (tương đương đáy cũ tháng 06/2022) đã bị thủng hoàn toàn nên mục tiêu mới sẽ là vùng 220-230 điểm.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index rơi mạnh và có thể rơi xuống dưới đường EMA 20 ngày trong các phiên tới. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang tăng lên.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 27/09/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 27/09/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

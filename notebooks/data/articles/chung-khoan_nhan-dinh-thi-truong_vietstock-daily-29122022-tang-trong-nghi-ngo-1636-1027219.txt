@@ -1,0 +1,29 @@
+VN-Index có phiên hồi phục với mức tăng hơn 11 điểm với thanh khoản duy trì ở mức thấp cho thấy tâm lý lạc quan vẫn chưa thật sự trở lại. Tuy nhiên, việc khối ngoại vẫn đang mua ròng và dòng tiền thông minh tiếp tục duy trì trên đường EMA 20 ngày cho thấy rủi ro sụt giảm mạnh trong ngắn hạn không cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 28/12/2022
+- Thị trường chứng khoán giao dịch tích cực trong phiên 28/12/2022. Kết phiên, VN-Index tăng 11.09 điểm, lên mức 1,015.66 điểm; HNX-Index tăng 2.9 điểm, đạt mức 206.04 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 392 triệu đơn vị, giảm 22.66% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 25.43%, đạt gần 44 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 319 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 25 tỷ đồng.
+- Thị trường chứng khoán tiếp tục có phiên hồi phục khi các chỉ số chính cùng hiện sắc xanh. Tuy nhiên, khối lượng giao dịch vẫn duy trì ở mức thấp cho thấy dòng tiền vẫn chưa thật sự trở lại. VN-Index hiện sắc xanh sau phiên ATO thì sụt giảm xuống dưới tham chiếu ngay sau đó. Nhiều cổ phiếu Large Cap có diễn biến tích cực trở lại, VN-Index lấy lại sắc xanh ở cuối phiên sáng và nới rộng đà tăng trong phiên chiều. Kết phiên giao dịch, VN-Index tăng 11.09 điểm, lên mức 1,015.66 điểm.
+- VN30-Index kết phiên tăng 6.95 điểm (+0.65%), dừng chân ở mức 1,013.95 điểm. Bên mua chiếm ưu thế hơn trong rổ với 19 mã tăng, 9 mã giảm và 2 mã đứng giá. Giao dịch sôi động nhất rổ là PDR, cổ phiếu này tiến hết biên độ trong phiên. Theo sau là các mã BID, VRE, SAB, PLX…
+- Sắc xanh tiêu biểu nhất trong phiên với VN-Index là BID. Cổ phiếu này góp gần 2.5 điểm tăng cho chỉ số. Cùng với BID, các mã VCB, SAB, CTG, VRE là những mã có tác động tích cực nhất. Ở chiều ngược lại, MWG, TCB, HDB là những cổ phiếu có tác động tiêu cực nhất.
+- Nhiều cổ phiếu thủy sản ghi nhận mức tăng tốt trong phiên giao dịch. Trong đó, IDI leo dốc 4.65%, ANV tiến 3.35%. Các cổ phiếu khác như VHC, CMX hay FMC cùng hiện sắc xanh tích cực.
+- Trong nhóm cổ phiếu bán lẻ, các mã như VGC, FRT hay AST đều kết phiên trong sắc xanh. Trong khi đó, ông lớn MWG lại có phiên giao dịch tiêu cực khi sụt giảm 1.83%. Trong tháng 11, MWG ghi nhận doanh thu khoảng 9,971 tỷ đồng, giảm 13% so cùng kỳ và đáng chú ý hơn, lãi sau thuế giảm đến 67%, đạt 159 tỷ đồng. Đây là lợi nhuận thấp nhất kể từ tháng 4/2017 của ông lớn bán lẻ Việt Nam. Đây là thông tin tác động tiêu cực đến giá của cổ phiếu này.
+- VN-Index có phiên hồi phục với mức tăng hơn 11 điểm với thanh khoản duy trì ở mức thấp cho thấy tâm lý lạc quan vẫn chưa thật sự trở lại. Tuy nhiên, việc khối ngoại vẫn đang mua ròng và dòng tiền thông minh tiếp tục duy trì trên đường EMA 20 ngày cho thấy rủi ro sụt giảm mạnh trong ngắn hạn không cao.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Sự hồi phục chưa thật sự chắc chắn
+Trong phiên giao dịch ngày 28/12/2022, VN-Index tiếp tục hồi phục với khối lượng thấp cho thấy tâm lý lạc quan của nhà đầu tư chưa thật sự trở lại.
+Chỉ báo Stochastic Oscillator đang tiến về gần vùng quá bán (oversold) và nếu tín hiệu mua xuất hiện trở lại thì tình hình sẽ bớt bi quan hơn.
+
+HNX-Index - Triển vọng ngắn hạn tích cực trở lại
+Trong phiên giao dịch ngày 28/12/2022, HNX-Index tiếp tục tăng điểm củng cố cho mẫu hình nến Piercing Line trước đó cho thấy triển vọng ngắn hạn đang tích cực trở lại.
+Tuy nhiên, khối lượng giao dịch duy trì mức thấp và nằm dưới mức trung bình 20 ngày chứng tỏ nhà đầu tư đang hạn chế giao dịch trong ngắn hạn.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại tiếp tục mua ròng trong phiên giao dịch ngày 28/12/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 28/12/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

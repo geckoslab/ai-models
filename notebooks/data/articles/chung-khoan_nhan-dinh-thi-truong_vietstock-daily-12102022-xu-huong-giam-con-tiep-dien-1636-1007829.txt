@@ -1,0 +1,31 @@
+VN-Index giảm mạnh trong phiên và hình thành cây nến đỏ dài cho thấy tâm nhà đầu tư đang rất bi quan. Nếu chỉ số tiếp tục giảm điểm thì mục tiêu tiếp theo là vùng 880-900 điểm (tương đương ngưỡng Fibonacci Retracement 261.8%).
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 11/10/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 11/10/2022. Cụ thể, VN-Index kết phiên giảm 3.48%, xuống mức 1,006.2 điểm; HNX-Index giảm 4.82%, xuống còn 218.78 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 581 triệu đơn vị, tăng 7.2% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 24.19%, đạt hơn 54 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 160 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 2 tỷ đồng.
+- Sau 4 phiên giảm liên tiếp, giá xăng dầu trong nước đã đồng loạt tăng tại kỳ điều chỉnh trong chiều nay 11/10/2022. Giá xăng E5 RON 92 lên mức 21,290 đồng (tương ứng mức tăng 560 đồng/lít), xăng RON 95-III là 22,000 đồng (tăng 560 đồng) một lít. Giá các mặt hàng dầu cũng đồng loạt tăng mạnh. Cụ thể, dầu diesel là 24,160 đồng một lít, tăng 1,960 đồng. Dầu hỏa có mức giá mới là 22,820 đồng, tăng 1,140 đồng, dầu mazut giữ nguyên, có giá 14,090 đồng/kg.
+- Sắc xanh của phiên trước đó không khiến tâm lý nhà đầu tư được cải thiện. Thị trường chứng khoán tiếp tục chứng kiến phiên giảm điểm mạnh của các chỉ số. VN-Index khởi đầu trong sắc đỏ và dần nới rộng đà giảm của mình trong suốt khoảng thời gian giao dịch. Đỉnh điểm,VN-Index có lúc còn mất gần 44 điểm, rớt xuống dưới ngưỡng 1,000 điểm. Nhiều cổ phiếu lớn “nằm sàn” la liệt khi kết phiên. Kết thúc giao dịch, VN-Index giảm tổng cộng 36.28 điểm, dừng chân ở mức 1,006.2 điểm.
+- VN-Index kết phiên giảm mạnh 37.25 điểm (-3.59%), xuống còn 1,001.68 điểm. Trong rổ VN30, ngoại trừ GAS còn hiện sắc xanh nhẹ và VPB dừng chân ở tham chiếu thì các cổ phiếu còn lại đều giảm giá. Trong đó, có tới 8 mã giảm sàn gồm MBB, TCB, TPB, SSI…
+- Về mức độ ảnh hưởng, VCB, VHM, BID, TCB, MBB và BCM là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Tính riêng VCB đã lấy đi gần 4 điểm của chỉ số này.
+- Vật liệu xây dựng là một trong những ngành nằm trong top đầu giảm điểm trên thị trường. Nhiều cổ phiếu cùng giảm hết biên độ như BCC, THG, VGS hay TEG. Ông lớn ngành thép là HPG cũng giảm mạnh ở mức 4.63. Tuy nhiên, cổ phiếu HSG lại là điểm nhấn khi đi ngược xu hướng chung và là cổ phiếu hiếm hoi tăng điểm. Kết phiên, HSG tăng 1.19%.
+- Nhóm cổ phiếu khai khoáng cũng có phiên ảm đạm khi mà phần lớn các cổ phiếu trong nhóm cùng nhau nằm sàn. Trong đó có thể kể tới như PVD, PVC, KSB, PVB hay TVD…
+- VN-Index giảm mạnh trong phiên và hình thành cây nến đỏ dài cho thấy tâm lý nhà đầu tư đang rất bi quan. Nếu chỉ số tiếp tục giảm điểm thì mục tiêu tiếp theo là vùng 880-900 điểm (tương đương ngưỡng Fibonacci Retracement 261.8%).
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Death Cross xuất hiện
+Trong phiên giao dịch ngày 11/10/2022, VN-Index quay trở lại đà giảm và hình thành cây nến đỏ dài cho thấy tâm lý bi quan trở lại của nhà đầu tư.
+Điểm giao cắt tử thần (death cross) giữa đường SMA 50 ngày và SMA 100 ngày đã xuất hiện trở lại dự báo xu hướng giảm trung hạn đã hình thành.
+Fibonacci Retracement 161.8% (tương đương vùng 1,045-1,050 điểm) đã bị phá vỡ. Mục tiêu tiếp theo là vùng 880-900 điểm (tương đương ngưỡng Fibonacci Retracement 261.8%).
+
+HNX-Index - Black Marubozu hình thành
+Trong phiên giao dịch ngày 11/10/2022, HNX-Index hình thành mẫu hình nến Black Marubozu trong bối cảnh Bollinger Bands tiếp tục bung nén mạnh.
+Chỉ báo ADX vẫn đang ở mức rất cao cho thấy đà giảm rất mạnh và khó có thể dừng lại trong ngắn hạn.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 11/10/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 11/10/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

@@ -1,0 +1,17 @@
+Google sẽ tổ chức sự kiện liên quan đến trí tuệ nhân tạo (AI) vào ngày 8/2, tập trung vào công cụ tìm kiếm, bản đồ và một số dịch vụ khác.
+ChatGPT gây áp lực lên các hãng công nghệ lớn, trong đó có Google. Ảnh: The Register.
+Google vừa gửi thư mời tham gia sự kiện đặc biệt, được phát trực tiếp trên YouTube vào 20h30 ngày 8/2 (giờ Việt Nam).
+Tại sự kiện, Google sẽ nói về "cách sử dụng sức mạnh của trí tuệ nhân tạo (AI) để thay đổi cách người dùng tìm kiếm, khám phá và tương tác với thông tin, giúp việc tìm những gì bạn cần trở nên tự nhiên và trực quan hơn bao giờ hết".
+Theo nhiều suy đoán, Google có thể giới thiệu chatbot tương tự ChatGPT của OpenAI để tích hợp vào Google Search - công cụ tìm kiếm phổ biến của hãng.
+Trong buổi báo cáo tài chính ngày 2/2, CEO Sundar Pichai cho biết công ty sẽ sớm cho phép người dùng "tương tác trực tiếp với các mô hình ngôn ngữ mới, mạnh mẽ nhất của chúng tôi với tư cách công cụ hỗ trợ tìm kiếm".
+Theo Ars Technica, sự phát triển nhanh chóng của ChatGPT tạo áp lực lên các hãng công nghệ. Cuối tháng 1, Google đã tuyên bố tình hình khẩn cấp liên quan đến ChatGPT, kêu gọi đồng sáng lập Sergey Brin và Larry Page trở lại.
+Google sở hữu nhiều công nghệ AI như mô hình chatbot LaMDA và AI sáng tác ảnh Imagen. Trong khi OpenAI phát hành các mô hình tương tự dưới dạng sản phẩm công khai như DALL-E hay ChatGPT, Google chỉ nghiên cứu và thử nghiệm nội bộ, nhắc đến trong các bài blog hoặc tài liệu nghiên cứu.
+Tin đồn của CNBC cho biết chatbot sử dụng mô hình LaMDA đang được Google thử nghiệm với tên Apprentice Bard. Công cụ này cho phép người dùng đặt câu hỏi và nhận phản hồi tương tự ChatGPT.
+Hàng hoạt cách tiếp cận chatbot cũng được Google thử nghiệm như công cụ tìm kiếm sử dụng format hỏi đáp, gợi ý câu hỏi dưới thanh tìm kiếm, hộp trò chuyện trong kết quả tìm kiếm với nội dung tương tác giống con người.
+Thư mời tham gia sự kiện liên quan đến AI của Google. Ảnh: Google.
+Đây không phải lần đầu Google phản ứng quá nhanh trước đối thủ tiềm tàng. Công ty này từng ra mắt mạng xã hội Google+ khi Facebook dần phổ biến. Trong khi đó, Amazon khiến Google vội vã giới thiệu công cụ tìm kiếm Shopping Express. Tất cả đã đóng cửa do không thể thu hút người dùng.
+Không chỉ OpenAI, Google cũng đối mặt áp lực từ Microsoft. Hãng phần mềm có kế hoạch tích hợp ChatGPT vào công cụ tìm kiếm Bing, có thể giúp trả kết quả chính xác và thông minh hơn.
+Google đang vận hành Assistant với giao diện hỏi đáp tương tự ChatGPT. Tuy nhiên, tính năng này không mang về doanh thu. Nếu áp dụng format hỏi đáp giống ChatGPT vào Google Search, công ty sẽ phải tìm cách tinh chỉnh để không ảnh hưởng đến mô hình kinh doanh dựa trên quảng cáo.
+Mọi thứ chỉ dừng lại ở mức dự đoán. Thư mời của Google còn chứa hình ảnh về Google Lens, Translate, Shopping và Maps. Do đó, The Verge dự đoán công ty có thể giới thiệu bản nâng cấp nhỏ cho những dịch vụ trên.
+Phúc Thịnh
+ZING.VN

@@ -1,0 +1,24 @@
+P/B (Price to Book value ratio) là một trong những phương pháp thông dụng nhất trên thị trường chứng khoán. Tuy nhiên, theo kinh nghiệm thực tế thì phương pháp này phát huy tác dụng lớn nhất với nhóm tài chính (ngân hàng, bảo hiểm…).
+
+Nguồn: Internet
+Chỉ số P/B được tính như thế nào?
+Công thức tính:
+
+Trong đó:
+P: Là giá trị thị trường của cổ phiếu
+B: Giá trị ghi sổ trên 1 cổ phiếu
+
+Ý nghĩa của chỉ số P/B
+Khi P/B cao tức là cộng đồng đầu tư đang có nhiều kỳ vọng về cổ phiếu này, doanh nghiệp được dự đoán sẽ làm ăn tốt trong tương lai. Chính vì thế, các nhà đầu tư sẵn sàng bỏ ra một số tiền cao hơn giá trị ghi sổ sách của doanh nghiệp để có thể sở hữu nó. Nếu P/B thấp tức là thị trường không mấy lạc quan về tình hình kinh doanh của doanh nghiệp. Nhà đầu tư chỉ có thể bỏ ra mức giá thấp để mua cổ phiếu.
+Chỉ số P/B hầu như luôn dương nên nó có thể dùng để định giá với những doanh nghiệp đang làm ăn thua lỗ.
+Giá trị sổ sách trên mỗi cổ phiếu (BVPS) có tính ổn định cao hơn EPS. Do vậy, P/B sẽ là một chỉ số thay thế tốt khi EPS có những biến đổi lớn (dẫn đến P/E không còn đủ tin cậy để định giá).
+Ứng dụng thực tế vào định giá cổ phiếu
+P/B là phương pháp cũ nhưng không lỗi thời. Nó vẫn đem lại lợi nhuận nếu nhà đầu tư áp dụng tốt. Theo kinh nghiệm thực tế của người viết, phương pháp P/B phát huy tác dụng lớn nhất với nhóm tài chính (ngân hàng, bảo hiểm…).
+Bài định giá Tổng CTCP Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam (BIC) được người viết thực hiện vào tháng 11/2021. Mức giá tại thời điểm này của BIC ở quanh mức 31,000-32,000 đồng.
+Để thực hiện định giá theo P/B, đầu tiên ta tìm danh sách các công ty cùng ngành trên thị trường. Sau đó, tổng hợp giá trị P/B của các công ty này. Kết quả mong muốn từ bảng này là kết quả trung vị P/B của toàn ngành. Theo đó, P/B trung vị tại thời điểm định giá ở mức 1.76.
+
+Với BVPS của quý 03/2021 ở mức 21,033 đồng, ta có mức giá hợp lý của doanh nghiệp theo phương pháp P/B là 37,063 đồng. Kết quả này khá sát với kết quả trung bình tính được từ tất cả các phương pháp là 36,011 đồng. Điều này cho thấy sự phù hợp rất lớn của P/B với BIC nói riêng và ngành tài chính nói chung.
+
+Tại thời điểm định giá, chúng ta có thể nhận thấy là giá thị trường không hấp dẫn để mua vào. Những tháng sau đó đã chứng minh cho nhận định này khi giá giảm liên tiếp. Tuy nhiên, khi giá đã về dưới mức 30,000 đồng thì lại bắt đầu hấp dẫn cho việc mua vào vì mục đích đầu tư dài hạn.
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

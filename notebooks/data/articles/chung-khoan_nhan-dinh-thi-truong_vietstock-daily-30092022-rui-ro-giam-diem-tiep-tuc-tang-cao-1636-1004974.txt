@@ -1,0 +1,31 @@
+VN-Index giảm mạnh gần 18 điểm hình thành mẫu nến Black Closing Marubozu và xuyên thủng vùng đáy cũ tháng 07/2022 nên rủi ro trong ngắn hạn là rất lớn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 29/09/2022
+- Thị trường chứng khoán tiếp tục giao dịch đảo chiều từ xanh sang đỏ trong phiên 29/09/2022. Cụ thể, VN-Index kết phiên giảm 1.53%, xuống mức 1,126.07 điểm; HNX-Index giảm 1.17%, xuống còn 249.41 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 416 triệu đơn vị, giảm 16.25% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 17.59%, đạt gần 51 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 159 tỷ đồng, bán ròng trên sàn HNX với giá trị hơn 10 tỷ đồng.
+- Theo Báo cáo của Tổng cục Thống kê vừa công bố, Tổng sản phẩm trong nước (GDP) quý 3/2022 ước tính tăng 13.67% so với cùng kỳ năm trước. GDP 9 tháng đầu năm 2022 tăng 8.83% so với cùng kỳ năm trước, là mức tăng cao nhất của 9 tháng trong giai đoạn 2011-2022, các hoạt động sản xuất kinh doanh dần lấy lại đà tăng trưởng, chính sách phục hồi và phát triển kinh tế - xã hội của Chính phủ đã phát huy hiệu quả.
+- Chứng khoán toàn cầu đồng loạt tăng mạnh sau thông tin Ngân hàng Trung ương Anh (BoE) sẽ chi ra 61 tỷ Bảng Anh để mua trái phiếu trong 2 tuần. Thông tin trên cùng với báo cáo về mức tăng trưởng GDP 9 tháng đầu năm tăng tốt đã tác động tích cực đến tâm lý giao dịch của nhà đầu tư. VN-Index hiện sắc xanh ngay những phút đầu phiên. Tuy nhiên, mức tăng của thị trường không được duy trì lâu khi chỉ số dần thu hẹp sắc xanh của mình. Thị trường còn trở nên tiêu cực hơn trong giai đoạn cuối của phiên với việc bên bán trở lại chiếm ưu thế lớn. Kết thúc giao dịch, VN-Index giảm tổng cộng 17.55 điểm, xuống còn 1,126.07 điểm.
+- Tương tự với thị trường chung, VN30-Index kết phiên giảm 13.22 điểm (-1.14%), xuống còn 1,147.44 điểm. Bên bán chiếm ưu thế lớn trong rổ VN30 với 20 mã giảm, 6 mã tăng và 4 mã đứng giá. Trong đó, GVR là cổ phiếu giảm mạnh nhất khi sụt 5.9%. Theo sau là các mã VIC, BVH, CTG, STB.
+- Về mức độ ảnh hưởng, VIC, BCM, GVR, VCB hay CTG là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Trong khi đó, EIB, GAS, VNM là những cổ phiếu có tác động tích cực nhất, nhưng mức độ đóng góp là không lớn.
+- Lực bán mạnh ở cuối phiên đã khiến nhiều nhóm ngành quay đầu giảm điểm. Trong đó, nhóm cổ phiếu sản xuất nhựa - hóa chất là ngành giảm mạnh nhất thị trường. Cụ thể DCM và DCG cùng nằm sàn, GVR và PHR cùng sụt mạnh gần 6%, DPM lao dốc gần 5%...
+- Chứng khoán cũng là một trong những ngành giảm mạnh nhất phiên. VIX lao dốc hết biên độ, VCI và HCM cùng sụt hơn 6%, các ông lớn khác như SSI, VND hay FTS cùng có mức giảm giá mạnh.
+- VN-Index giảm mạnh gần 18 điểm hình thành mẫu nến Black Closing Marubozu và xuyên thủng vùng đáy cũ tháng 07/2022 nên rủi ro trong ngắn hạn là rất lớn.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Black Closing Marubozu hình thành
+Trong phiên giao dịch ngày 29/09/2022, VN-Index tiếp tục giảm mạnh và hình thành cây nến Black Closing Marubozu cho thấy triển vọng ngắn hạn rất bi quan.
+Chỉ số đã xuyên thủng vùng đáy cũ tháng 07/2022 nên rủi ro sẽ rất cao trong thời gian tới.
+Chỉ báo ADX cũng đã vượt lên trên mức 25 và bỏ khá xa ngưỡng này cho thấy xu hướng giảm đang rất mạnh.
+
+HNX-Index - Đà giảm chưa chấm dứt
+Trong phiên giao dịch ngày 29/09/2022, HNX-Index xuất hiện mẫu hình gần giống Inverted Hammer cho thấy tâm lý nhà đầu tư đang phân vân.
+Vùng 260-270 điểm (tương đương đáy cũ tháng 06/2022) đã bị thủng hoàn toàn nên mục tiêu mới sẽ là vùng 220-230 điểm.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index đã rơi sâu xuống dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang tăng lên.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 29/09/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 29/09/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

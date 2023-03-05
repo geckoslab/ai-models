@@ -1,0 +1,31 @@
+Từ 12/09, nhà đầu tư sẽ được giao dịch lô lẻ trên sàn HOSE. Để giao dịch được diễn ra hiệu quả, nhà đầu tư cần trang bị các thông tin về quy định giao dịch chứng khoán lô lẻ. Dưới đây là giải đáp về một số vấn đề được quan tâm của giao dịch lô lẻ để nhà đầu tư có thể hiểu rõ hơn.
+1. Thế nào là giao dịch chứng khoán lô lẻ?
+Giao dịch lô lẻ là giao dịch chứng khoán có khối lượng đặt lệnh từ 1-99 chứng khoán.
+2. Loại chứng khoán nào được áp dụng giao dịch lô lẻ?
+Giao dịch chứng khoán lô lẻ được áp dụng đối với cổ phiếu, chứng chỉ quỹ đóng, chứng chỉ quỹ ETF và chứng quyền
+3. Nhà đầu tư muốn giao dịch chứng khoán lô lẻ thì phải làm gì?
+Nhà đầu tư đặt lệnh giao dịch chứng khoán lô lẻ qua công ty chứng khoán tương tự như giao dịch chứng khoán lô chẵn.
+4. Trường hợp nhà đầu tư muốn bán 109 cổ phiếu ABC thì sẽ đặt lệnh như thế nào?
+Nhà đầu tư cần đặt lệnh giao dịch sao cho thỏa mãn quy định về đơn vị giao dịch chứng khoán lô chẵn và giao dịch chứng khoán lô lẻ. Ví dụ với trường hợp trên, nhà đầu tư có thể đặt 2 lệnh bán: Lệnh bán 100 cổ phiếu ABC theo phương thức thông thường và lệnh bán 9 cổ phiếu ABC theo phương thức lô lẻ.
+5. Quy định về bước giá, đơn vị yết giá và biên độ dao động giá đối với giao dịch chứng khoán lô lẻ như thế nào?
+Quy định về bước giá, đơn vị yết giá và biên độ dao động giá đối với giao dịch chứng khoán lô lẻ tương tư như giao dịch chứng khoán lô chẵn.
+6. Các phương thức giao dịch chứng khoán lô lẻ và thời gian giao dịch chứng khoán lô lẻ?
+Giao dịch chứng khoán lô lẻ được thực hiện theo phương thức giao dịch khớp lệnh liên tục và phương thức giao dịch thỏa thuận, cụ thể:
++ Thời gian giao dịch khớp lệnh liên tục: 9h15 -11h30 và 13h00-14h30
++ Thời gian giao dịch thỏa thuận: 09h15-11h30 và 13h00-15h00
+7. Nhà đầu tư được sử dụng các loại lệnh nào để giao dịch chứng khoán lô lẻ?
+Nhà đầu tư chỉ được sử dụng lệnh giới hạn đối với giao dịch chứng khoán lô lẻ. Việc sửa, hủy lệnh giao dịch chứng khoán lô lẻ theo quy tắc tương tự như giao dịch chứng khoán lô chẵn.
+8. Khi giao dịch chứng khoán lô lẻ thì các lệnh giao dịch chứng khoán lô lẻ có khớp chéo với các lệnh giao dịch chứng khoán lô chẵn hay không?
+Giao dịch chứng khoán lô lẻ hoàn toàn tách biệt với giao dịch chứng khoán lô chẵn, các lệnh giao dịch chứng khoán lô lẻ chỉ được khớp với nhau và không được khớp với lệnh chứng khoán lô chẵn.
+9. Trường hợp chứng khoán mới niêm yết có được giao dịch chứng khoán lô lẻ trong ngày giao dịch đầu tiên không?
+Nhà đầu tư không được giao dịch chứng khoán lô lẻ trong ngày giao dịch đầu tiên của chứng khoán mới niêm yết.
+10. Thời gian thanh toán quy định đối với chứng khoán giao dịch lô lẻ?
+Thời gian thanh toán đối với chứng khoán giao dịch lô lẻ tương tự như chứng khoán giao dịch lô chẵn.
+11. Giá khớp của giao dịch chứng khoán lô lẻ có ảnh hưởng đến chỉ số hiện hành của HOSE hay không?
+Giá khớp của chứng khoán giao dịch lô lẻ không được sử dụng để tính chỉ số
+12. Nhà đầu tư nước ngoài có được giao dịch chứng khoán lô lẻ hay không?
+Nhà đầu tư nước ngoài được giao dịch chứng khoán lô lẻ. Các quy định giao dịch chứng khoán của nhà đầu tư nước ngoài đối với giao dịch chứng khoán lô lẻ tương tự như giao dịch chứng khoán lô chẵn.
+13. Nhà đầu tư giao dịch chứng khoán lô lẻ trả phí thế nào?
+Theo quy định tại Thông tư số 102/2021/TT-BTC ngày 17/11/2021 của Bộ Tài chính quy định giá dịch vụ áp dụng trong lĩnh vực chứng khoán áp dụng tại các tổ chức kinh doanh chứng khoán, ngân hàng thương mại tham gia vào thị trường chứng khoán Việt Nam, các công ty chứng khoán quyết định mức giá dịch vụ môi giới mua, bán cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm nhưng tối đa 0.45% giá trị giao dịch.
+Chí Kiên
+FILI

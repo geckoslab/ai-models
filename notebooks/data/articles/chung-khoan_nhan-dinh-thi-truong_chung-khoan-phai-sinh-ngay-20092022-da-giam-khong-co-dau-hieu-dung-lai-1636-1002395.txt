@@ -1,0 +1,37 @@
+Các hợp đồng tương lai đồng loạt giảm điểm trong phiên giao dịch ngày 19/09/2022. Basis hợp đồng VN30F2210 thu hẹp so với phiên trước đó và đạt giá trị -6.38 điểm. Điều này cho thấy nhà đầu tư bớt bi quan hơn so với triển vọng của VN30-Index.
+I. HỢP ĐỒNG TƯƠNG LAI CỦA CHỈ SỐ THỊ TRƯỜNG CHỨNG KHOÁN
+I.1. Diễn biến thị trường
+Các hợp đồng tương lai đồng loạt giảm điểm trong phiên giao dịch ngày 19/09/2022. VN30F2210 (F2210) giảm 1.09%, còn 1,223.5 điểm; VN30F2211 (F2211) giảm 1.04%, còn 1,222.1 điểm; hợp đồng VN30F2212 (F2212) giảm 1.01%, còn 1,224.3 điểm; hợp đồng VN30F2303 (F2303) giảm 0.83%, còn 1,221 điểm. Hiện tại, chỉ số cơ sở VN30-Index đang ở mức 1,229.88 điểm.
+Trong phiên giao dịch ngày 19/09/2022, VN30F2210 chỉ hiện sắc xanh trong ít phút đầu, ngay sau đó lực bán xuất hiện khiến F2210 chìm về sắc đỏ và đà giảm liên tục mở rộng. Sang tới phiên chiều, dù sự hồi phục có diễn ra nhưng bên mua nhanh chóng bị áp đảo và F2210 kết phiên đầu tuần với mức giảm 13.5 điểm.
+Đồ thị trong phiên của VN30F2210
+
+Nguồn: https://stockchart.vietstock.vn/
+Kết phiên, basis hợp đồng VN30F2210 thu hẹp so với phiên trước đó và đạt giá trị -6.38 điểm. Điều này cho thấy nhà đầu tư bớt bi quan hơn so với triển vọng của VN30-Index.
+Biến động VN30F2210 và VN30-Index
+
+Nguồn: VietstockFinance
+Lưu ý: Basis được tính theo công thức sau: Basis = Giá hợp đồng tương lai - VN30-Index
+Khối lượng và giá trị giao dịch của thị trường phái sinh lần lượt tăng 50.35% và 49.94% so với phiên ngày 16/09/2022. Cụ thể, khối lượng giao dịch F2210 tăng 50.68% với 263,620 hợp đồng được khớp lệnh. Khối lượng giao dịch của F2211 đạt 239 hợp đồng, tăng 27.81% so với phiên trước.
+Khối ngoại tiếp tục bán ròng với tổng khối lượng bán ròng trong phiên giao dịch ngày 19/09/2022 đạt 565 hợp đồng.
+Biến động khối lượng giao dịch ngày của thị trường phái sinh
+
+Nguồn: VietstockFinance
+I.2. Định giá các hợp đồng tương lai
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 20/09/2022, khung giá hợp lý của các hợp đồng tương lai đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại hợp đồng tương lai.
+I.3. Phân tích kỹ thuật VN30-Index
+Trong phiên giao dịch ngày 19/09/2022, VN30-Index giảm điểm sâu cho thấy nhà đầu tư đang trong trạng thái rất bi quan.
+Chỉ số đang tiến gần về vùng 1,180-1,200 điểm (tương đương đỉnh cũ đã bị vượt qua tháng 04/2018). Đây vẫn sẽ là vùng hỗ trợ đáng tin cậy khi đã trụ vững trong thời gian qua.
+Chỉ số tiếp tục bám vào đường Lower Band của Bollinger Bands và dải này bung nén mạnh nên xu hướng giảm sẽ còn tiếp diễn.
+
+Nguồn: VietstockUpdater
+II. HỢP ĐỒNG TƯƠNG LAI CỦA THỊ TRƯỜNG TRÁI PHIẾU
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 20/09/2022, khung giá hợp lý của các hợp đồng tương lai đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại hợp đồng tương lai.
+Theo định giá trên thì GB05F2212, GB05F2303 và GB05F2306 hiện đang có giá khá hấp dẫn. Nhà đầu tư có thể tập trung chú ý và mua vào hai hợp đồng này trong thời gian tới do các hợp đồng tương lai này đang có giá hời nhất trên thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

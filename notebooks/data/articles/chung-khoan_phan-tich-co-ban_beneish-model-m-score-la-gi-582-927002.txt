@@ -1,0 +1,47 @@
+Mô hình đánh giá gian lận tài chính được Messod Beneish và các đồng nghiệp của mình công bố ra công chúng vào tháng 6 năm 1999. Mô hình này dựa trên 8 chỉ số tài chính nhằm tìm ra được động cơ và những dấu hiệu có thể chỉ ra những gian lận tài chính nhằm làm đẹp các báo cáo của mình.
+Hiệu quả trong đánh giá thực tế
+Giáo sư Beneish cho rằng, mô hình của ông có thể xác định được đúng đến 76% trường hợp. Vào năm 1998, một nhóm nghiên cứu đã ứng dụng Beneish Model cho công ty Enron và đi đến kết luận rằng công ty này có khả năng cao đã gian lận tài chính. Chỉ sau đó ít năm, Enron đã bị phơi bày hàng loạt các gian lận tài chính làm tăng doanh thu và lợi nhuận ảo cho công ty. Vào năm 2001, Enron đã chính thức nộp đơn phá sản.
+
+Nguồn: Shutterstock
+Công thức tổng của Beneish Model:
+M-score = –4.84& + 0.920 (DSR) + 0.528 (GMI) + 0.404 (AQI) + 0.892 (SGI) + 0.115 (DEPI) – 0.172 (SGAI) + 4.679 (Accruals) – 0.327 (LEVI)
+Trong đấy:
+Days’ Sales in Receivables Index (DSRI): chỉ số thay đổi kỳ thu tiền bình quân được tính bằng công thức:
+
+Theo tác giả, việc gia tăng bất thường các khoản phải thu sẽ phản ánh có thể có những sai lệch trong cách ghi nhận doanh thu doanh nghiệp. Ghi tăng khoản phải thu sẽ giúp cải thiện doanh thu doanh nghiệp, nhờ vậy giúp các nhà điều hành của công ty có thể đạt được mục tiêu doanh thu đề ra trong năm.
+Gross Margin Index (GMI): chỉ số đánh giá sự suy giảm về biên lợi nhuận của công ty qua thời gian.
+
+Khi một công ty đang chứng kiến xu hướng giảm biên lợi nhuận gộp, các nhà điều hành sẽ có động lực hơn cho việc thực hiện một số mánh khóe nhằm cải thiện kết quả kinh doanh trên báo cáo.
+Asset Quality Index (AQI): chỉ số chất lượng tài sản đánh giá mức tăng của tài sản dài hạn ngoài tài sản cố định.
+
+PPE = Tài sản cố định hữu hình+ Tài sản cố định thuê tài chính + Tài sản dở dang dài hạn + Bất động sản đầu tư
+Việc gia tăng tài sản dài hạn ngoài các tài sản cố định quan trọng đến kinh doanh công ty có thể đánh giá việc vốn hóa quá mức các chi phí của công ty. Có thể thấy rằng, nếu công ty không tính các chi phí ấy vào kì kinh doanh hiện tại mà vốn hóa thành tài sản dài hạn rồi khấu hao cho nhiều năm sau sẽ làm giảm đáng kể chi phí của công ty trong năm ấy. Và lợi nhuận của công ty này sẽ được cải thiện dù rằng nó không xuất phát từ hiệu quả hoạt động kinh doanh cốt lõi của mình.
+Sales Growth Index (SGI): chỉ số đánh giá tốc độ tăng trưởng doanh thu. Dù công ty tăng trưởng nhanh không đồng nghĩa với khả năng gian lận tài chính. Tuy nhiên, với vị thế tăng trưởng nhanh chóng và nhu cầu tăng vốn rất cao của những công ty dạng này sẽ đặt một áp lực không hề nhỏ lên nhà điều hành. Do đó, người người đứng đầu sẽ chịu áp lực phải duy trì mức tăng trưởng đủ hấp dẫn và điều này trong thực tế không hề dễ dàng gì.
+
+Depreciation (DEPI): chỉ số này đánh giá mức giảm của khấu hao của công ty.
+Công thức:
+
+Tỉ lệ khấu hao = (Giá trị hao mòn lũy kế của TSCD hữu hình + Hao mòn lũy kế của TS cho thuê tài chính + Hao mòn lũy kế BDS đầu tư)/ (PPE + Giá trị hao mòn lũy kế đã tính)
+Công ty có thể tìm cách kéo dài thời gian khấu hao hay một số thủ thuật tài chính khác nhằm ghi nhận giảm chi phí khấu hao trong kỳ kinh doanh. Khi chi phí khấu hao giảm, lợi nhuận của công ty sẽ được cải thiện.
+Sales, General and Administrative Expenses (SGAI) Chỉ số này đánh giá sự thay đổi tỉ trọng chi phí bán hàng và quản lý doanh nghiệp trên mức doanh thu thuần.
+Công thức:
+
+Tương tự như tác động của lợi nhuận gộp biên giảm, chi phí bán hàng và quản lý doanh nghiệp gia tăng có thể phát ra triển vọng phát triển tiêu cực cho nhà đầu tư. Do đó, nhà quản lý sẽ có động lực để gian lận tài chính.
+Accruals (còn gọi là TATA): Chỉ số biến dồn tích trên tổng tài sản.
+
+Với tính chất dồn tích của kế toán hiện hành, thời điểm ghi nhận doanh thu và chi phí sẽ khác với khi thực chất dòng tiền về với doanh nghiệp. Sự khác biệt lớn giữa lợi nhuận trước thuế và dòng tiền thuần từ hoạt động kinh doanh sẽ đem lại nhiều nghi ngờ cho nhà đầu tư về khả năng công ty sử dụng một số chính sách kế toán không hợp lý.
+Leverage Index (LVGI) Chỉ số này so sánh tổng nợ vay doanh nghiệp với tổng tài sản.
+Sự gia tăng nợ vay trên tổng tài sản sẽ làm xấu đi một số chỉ số tài chính của doanh nghiệp. Doanh nghiệp có động lực gian lận báo cáo tài chính nhằm đảm bảo các chỉ số đo lường tín dụng doanh nghiệp ở mức tốt.
+
+
+Phân tích kết quả: Doanh nghiệp có mức điểm M-score trên -2.22 sẽ có nguy cơ trung bình. M-score lớn hơn mức -1.78 là những công ty có nguy cơ cao trong gian lận báo cáo tài chính.
+Chúng ta có thể quy đổi M-score ra xác suất bằng cách sử dụng hàm = NORMSDIST (M-score). Hàm này sẽ trả về giá trị xác suất doanh nghiệp gian lận tài chính. Việc quy về con số xác suất sẽ giúp chúng ta dễ phân tích hơn về khả năng doanh nghiệp gian lận tài chính cũng như so sánh giữa các doanh nghiệp với nhau.
+Về điểm thành phần, chỉ số DSRI, GMI, AQI, SGI, DEPI và TATA có hệ số dương trong công thức. Do vậy, khi các chỉ số này lớn hơn 1 sẽ phản ánh công ty đang có dấu hiệu có khả năng gian lận tài chính. Vì khi các chỉ số có hệ số dương này lớn hơn 1, M-score của doanh nghiệp sẽ tiến gần tới mức điểm -1.78.
+Ngược lại, SGAI và LVGI với hệ số âm nên khi 2 chỉ số này lớn hơn 1 sẽ có tác động tích cực lên M-score, qua đó làm giảm nguy cơ gian lận tài chính.
+Ứng dụng thực tế
+Tính M-score cho CTCP Tập đoàn Hòa Phát (HOSE: HPG). Có thể thấy rằng, HPG có mức điểm M-score ở mức rất thấp -4.34434, thấp hơn hẳn mức trọng yếu -1.78 mà tác giả đề cập tới. Theo đó, xác suất có gian lận của HPG theo Beneish Model là ở mức 0.00070%.
+Về phân tích thành phần, DSRI và SGI có mức giá trị lớn hơn 1 rất nhiều là điểm cần lưu ý khi phân tích HPG. Khoản phải thu và doanh thu tăng cao là những nơi nhà đầu tư nên xem xét phân tích thêm để có thể tìm hiểu rõ nguyên nhân dẫn tới sự biến đổi này.
+
+Kết luận: HPG có ít động lực cũng như các dấu hiệu cho thấy có gian lận tài chính. Điều này đặc biệt quan trọng với những cổ phiếu có giá biến động mạnh. Nếu mô hình chỉ ra doanh nghiệp có nguy cơ gian lận cao kết hợp với giá biến động mạnh thì sẽ rất rủi ro cho nhà đầu tư.
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

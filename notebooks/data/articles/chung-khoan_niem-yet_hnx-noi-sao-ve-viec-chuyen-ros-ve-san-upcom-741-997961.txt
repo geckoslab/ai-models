@@ -1,0 +1,7 @@
+HNX chưa có cơ sở để xác định số vốn điều lệ hợp lệ cũng như tính đại chúng của ROS và số lượng chứng khoán đăng ký giao dịch. Việc xem xét hồ sơ đăng ký giao dịch trên UPCoM của ROS sẽ được thực hiện sau khi có kết luận chính thức của cơ quan chức năng và hướng dẫn của cơ quan quản lý.
+Sáng ngày 30/08/2022, Trung tâm Lưu ký Chứng khoán Việt Nam (VSD) có thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ROS của CTCP FLC Faros từ sàn HOSE sang UPCoM. Đây là việc xử lý kỹ thuật trên hệ thống của VSD đối với cổ phiếu khi bị hủy niêm yết.
+Cụ thể, VSD sẽ chuyển dữ liệu đăng ký, lưu ký chứng khoán gần 567.6 triệu cổ phiếu ROS sang thị trường UPCoM, do cổ phiếu này bị hủy niêm yết tại HOSE.
+Đại diện Sở GDCK Hà Nội (HNX) cho biết theo quy định, công ty bị hủy bỏ niêm yết bắt buộc hoặc hủy bỏ tự nguyện nhưng vẫn đáp ứng điều kiện là công ty đại chúng thuộc đối tượng phải thực hiện đăng ký giao dịch trên thị trường UPCoM. Tuy nhiên, đối với trường hợp của ROS, đại diện HNX cho hay, theo kết quả điều tra ban đầu của cơ quan chức năng, việc nâng khống vốn điều lệ của công ty từ 1.5 tỷ đồng lên 4,300 tỷ đồng thuộc hành vi bị cấm theo quy định và đang trong quá trình điều tra, do đó HNX chưa có cơ sở để xác định số vốn điều lệ hợp lệ cũng như tính đại chúng của ROS và số lượng chứng khoán đăng ký giao dịch.
+Vì vậy, “việc xem xét hồ sơ đăng ký giao dịch của ROS trên UPCoM sẽ được thực hiện sau khi có kết luận chính thức của cơ quan chức năng và hướng dẫn của cơ quan quản lý” - đại diện của HNX cho biết.
+Đông Tư
+FILI

@@ -1,0 +1,5 @@
+Ngày 06/12/2022, Sở Giao dịch Chứng khoán Việt Nam (VNX) ban hành quyết định khiển trách CTCP Chứng khoán Tân Việt (TVSI) do phát sinh 2 lỗi 70009 (Không phải là message FIX) trong phiên giao dịch 21/11/2022 trên hệ thống của HNX.
+Cùng ngày, VNX cũng ban hành quyết định khiển trách CTCP Chứng khoán Guotai Junan Việt Nam (HNX: IVS) do phát sinh 22 lỗi 70001 (chưa đăng nhập, không thể gửi các message khác) trong phiên giao dịch 17/11/2022 trên hệ thống của HNX.
+Trước đó, ngày 24/11, VNX cũng khiển trách một loạt công ty chứng khoán gồm Chứng khoán ASAM, Chứng khoán Navibank, Chứng khoán Shinhan Việt Nam, Chứng khoán Alpha, Chứng khoán Quốc Gia do mắc phải các lỗi liên quan tới công nghệ thông tin trên hệ thống giao dịch của HNX.
+Đông Tư
+FILI

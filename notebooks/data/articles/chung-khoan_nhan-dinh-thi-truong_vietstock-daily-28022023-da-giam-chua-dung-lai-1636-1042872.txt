@@ -1,0 +1,29 @@
+VN-Index hình thành mẫu hình nến Falling Window cho thấy tâm lý bi quan của nhà đầu tư. Chỉ số đã phá vỡ cả 2 đường SMA 50 ngày và SMA 100 ngày. Tín hiệu này cho thấy tình hình đang trở nên ngày càng rủi ro.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 27/02/2023
+- Thị trường chứng khoán chìm trong sắc đỏ trong phiên 27/02/2023. Kết phiên, VN-Index giảm 1.76%, về mức 1,021.25 điểm; HNX-Index giảm 1.96%, dừng chân ở mức 203.27 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 514 triệu đơn vị, tăng 29.35% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 20.24%, đạt hơn 67 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 658 tỷ đồng, mua ròng trên sàn HNX với giá trị khoảng 200 triệu đồng.
+- Nối tiếp đà giảm từ trước đó, thị trường chứng khoán tiếp tục có phiên giảm sâu. Các chỉ số chính cùng hiện sắc đỏ sau phiên ATO. VN-Index sau đó liên tục bị nới rộng đà giảm cho đến hết phiên sáng. Sang đến phiên chiều, lực cầu bắt đáy xuất hiện giúp chỉ số hồi phục nhưng là không đủ, áp lực bán lại tiếp tục gia tăng vào những phút cuối khiến VN-Index giảm mạnh 18.31 điểm khi kết phiên và dừng chân ở mức 1,021.25 điểm.
+- VN30-Index kết phiên giảm đến 18.96 điểm (-1.84%), về mức 1,011.46 điểm. Bên bán áp đảo trong rổ VN30 với 27 mã giảm, 2 mã tăng và 1 mã đứng giá. Trong đó, MSN giảm sâu nhất với mức giảm kịch sàn 7%. Các cổ phiếu khác như NVL, SSI, MWG đều đang lao dốc.
+- Về mức độ ảnh hưởng, MSN, GAS, HPG và VCB là những mã có tác động tiêu cực nhất đến VN-Index. Tính riêng MSN đã lấy đi hơn 2 điểm của chỉ số này. Ở chiều ngược lại, VJC, VNM, PGB và PDN là những mã có đóng góp tích cực nhất.
+- Chế biến thủy sản là một trong những ngành giảm mạnh nhất thị trường. Các ông lớn đầu ngành đều ghi nhận mức giảm mạnh. Trong đó, ANV lao dốc hết biên độ, VHC và IDI cùng giảm hơn 6%. Việc kim ngạch xuất khẩu thủy sản của Việt Nam trong tháng 1/2023 chỉ đạt 456 triệu USD, giảm 48% so với cùng kỳ năm 2022. Xuất khẩu sang hầu hết các thị trường chính đều giảm. Tình trạng trên dự báo sẽ còn kéo dài trong nửa đầu năm 2023. Thông tin này đã tác động tiêu cực đến nhóm cổ phiếu này.
+- Ngành bán buôn lại có phiên giao dịch ít tiêu cực hơn so với thị trường chung. Cá biệt, có những cổ phiếu hiện sắc tím như AMV, ST8, JVC. Mức độ giảm của các cổ phiếu còn lại trong ngành cũng không quá sâu.
+- VN-Index hình thành mẫu hình nến Falling Window cho thấy tâm lý bi quan của nhà đầu tư. Chỉ số đã phá vỡ cả 2 đường SMA 50 ngày và SMA 100 ngày. Tín hiệu này cho thấy tình hình đang trở nên ngày càng rủi ro
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Falling Window xuất hiện
+Trong phiên giao dịch ngày 27/02/2023, VN-Index hình thành mẫu hình nến Falling Window cho thấy tâm lý bi quan của nhà đầu tư.
+Chỉ số đã phá vỡ cả 2 đường SMA 50 ngày và SMA 100 ngày. Tín hiệu này cho thấy tình hình đang ngày càng rủi ro hơn.
+
+HNX-Index - Rủi ro đang ở mức cao
+Trong phiên giao dịch ngày 27/02/2023, HNX-Index hình thành cây nến đỏ giúp xác nhận cho mẫu hình Three Black Candles trước đó.
+Chỉ báo MACD và Stochastic Oscillator đều đã cho tín hiệu bán nên rủi ro đang ở mức cao.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 27/02/2023. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 27/02/2023
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

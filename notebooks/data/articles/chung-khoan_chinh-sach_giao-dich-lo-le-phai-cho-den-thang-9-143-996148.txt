@@ -1,0 +1,8 @@
+Việc triển khai giao dịch lô lẻ được HOSE lên kế hoạch áp dụng vào ngày 12/09 tới đây, theo nguồn tin của chúng tôi.
+Trước đó, Sở Giao dịch Chứng khoán TP.HCM (HOSE) thử nghiệm hệ thống giao dịch lô lẻ lần hai trong khoảng thời gian từ 04 - 15/07 sau lần thử nghiệm đầu tiên từ ngày 09-20/05/2022.
+Ban đầu, HOSE dự kiến áp dụng thay đổi giao dịch lô lẻ vào ngày 29/08/2022 nhưng chưa thực hiện được. Việc triển khai giao dịch lô lẻ nay được dời qua ngày 12/09/2022 và ngày thử nghiệm cuối cùng sẽ vào ngày 10/09/2022 nếu kế hoạch được phê duyệt.
+Do sự kiện nghẽn lệnh diễn ra cuối năm 2020, từ 04/01/2021, sàn HOSE đã nâng lô giao dịch tối thiểu từ 10 cp lên 100 cp. Đây là một giải pháp tạm thời để giải quyết sự cố, giảm thiểu tình trạng nghẽn lệnh và hạn chế thiệt hại cho đa số nhà đầu tư, có lợi cho tổng thể thị trường.
+Tuy nhiên, sau khi sự cố nghẽn lệnh được khắc phục thì việc giao dịch lô lẻ (10 cp) như trước đây vẫn chưa được thực hiện. Việc cho giao dịch lô lẻ trở lại sẽ giúp nhà đầu tư giải quyết được một số bất tiện trong giao dịch như bán cổ phiếu lẻ nhận từ các đợt chia cổ tức cổ phiếu và phát hành thêm,…
+Liên quan đến chính sách quan trọng trên thị trường chứng khoán, từ 29/08 sẽ cho phép nhà đầu tư giao dịch cổ phiếu với chu kỳ T+1.5 thay vì T+3 trước đó.
+Phương Châu
+FILI

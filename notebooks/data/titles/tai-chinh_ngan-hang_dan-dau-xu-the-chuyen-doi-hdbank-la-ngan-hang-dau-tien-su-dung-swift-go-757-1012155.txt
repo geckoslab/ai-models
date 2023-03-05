@@ -1,0 +1,1 @@
+Dẫn đầu xu thế chuyển đổi, HDBank là ngân hàng đầu tiên sử dụng Swift Go

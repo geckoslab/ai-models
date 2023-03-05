@@ -1,0 +1,22 @@
+Bốn góc phần tư của Relative Rotation Graphs giúp nhà đầu tư nhận biết được xu hướng tương đối của từng loại tài sản để vạch ra chiến lược giao dịch phù hợp. Những tài sản nằm ở góc Improving và Leading nên được chú ý để có được một danh mục sinh lời cao hơn thị trường chung.
+Relative Strength là yếu tố cấu thành quan trọng
+Relative Rotation Graphs viết tắt là RRGs. Đây là một công cụ trực quan hóa để phân tích Sức mạnh tương đối (Relative Strength). Các nhà phân tích có thể sử dụng RRGs để phân tích sức mạnh tương đối của một loại tài sản so với một tài sản gốc nào đó (trong trường hợp này sẽ là cái chỉ số chung như VN-Index, VN30,...).
+Chỉ báo Relative Strength so sánh sự thay đổi giá của một chứng khoán với sự thay đổi giá của một chứng khoán/chỉ số cơ sở (thường là chỉ số thị trường chung). Thông thường, Relative Strength được sử dụng để so sánh mức sinh lời của một cổ phiếu với chỉ số thị trường (DJIA, S&P 500, Nasdaq...)
+Ngoài ra, Relative Strength cũng có thể được sử dụng để so sánh với chỉ số ngành. Điều này có thể xác định xem một cổ phiếu đang mạnh hay yếu hơn các cổ phiếu trong cùng ngành.
+Chỉ số Relative Strength có tầm quan trọng đối với các tổ chức. Nó giúp họ tìm được các cổ phiếu tăng nhiều hơn khi thị trường tăng (bull market) và giảm ít hơn khi thị trường giảm (bear market).
+
+Chỉ báo Relative Strength của VNM so với VN-Index. Nguồn:VietstockUpdater
+“Mắt đại bàng” giúp nhà đầu tư tìm kiếm mục tiêu
+Sức mạnh thực sự của công cụ này là khả năng thể hiện hiệu suất tương đối trên một biểu đồ và hiển thị vòng quay thực. RRGs sử dụng bốn góc phần tư để xác định bốn giai đoạn của một xu hướng tương đối (Lagging, Improving, Leading và Weakening).
+Các loại tài sản (cổ phiếu, vàng, hàng hóa...) di chuyển từ góc phần tư này sang góc phần tư khác theo thời gian từ đó chúng ta có thể dễ dàng nhận biết xu hướng của tài sản và thiết lập cho mình chiến lược giao dịch phù hợp.
+Thông thường giá của một loại tài sản sẽ đi qua tất cả các góc phần tư trong một chu kỳ:
+Lagging - Góc giảm giá: Nếu tài sản xuất hiện tại đây thì nhà đầu tư nên tạm thời loại bỏ tài sản này ra khỏi danh mục. Vì điều này cho thấy Relative Strength đang khá yếu và gia tốc của chỉ báo này cũng không quá cao.
+Improving - Góc cải thiện: Sự dịch chuyển từ góc phần tư Lagging đến Improving được đánh giá là bước chuyển biến tích cực và nhà đầu tư nên thêm các tài sản nằm ở góc phần tư này vào danh mục theo dõi. Vì khi đó, gia tốc của chỉ báo Relative Strength đang được cải thiện đáng kể.
+Leading - Góc dẫn dắt: Khi tài sản xuất hiện ở góc phần tư này tức là chỉ số Relative Strength và cả gia tốc của chỉ số này đang rất khả quan. Đây có thể là ngành hay cổ phiếu dẫn dắt thị trường ở thời điểm hiện tại và việc mua vào các tài sản này sẽ giúp cho nhà đầu tư kiếm được lợi nhuận tốt hơn thị trường.
+Weakening - Góc suy yếu: Sau thời gian dẫn dắt thị trường, giá của tài sản sẽ có giai đoạn suy yếu. Khi đó, các yếu tố như Relative Strength và gia tốc sẽ khá yếu và nhà đầu tư nên thoát hàng và tạm thời để ý những tài sản khác.
+Ví dụ bên dưới của VNM sẽ giúp minh họa rõ nét cho chúng ta về cách thức sử dụng RRGs. Rõ ràng, với việc đường RRGs “thường trú” tại vùng Lagging và Weakening trong suốt nhiều tuần trong giai đoạn cuối năm thì VNM không mấy hấp dẫn với giới đầu tư.
+Hiện tại, RRGs đã bắt đầu đi vào vùng Improving nên có thể bắt đầu đưa vào danh mục quan sát. Nếu sắp tới VNM chuyển sang vùng Leading thì sẽ là thời điểm nhà đầu tư “xuống tiền” để vào hàng cổ phiếu này.
+
+RRGs của cổ phiếu VNM. Nguồn: VietstockUpdater
+Bộ phận Phân tích Kỹ thuật, Phòng Tư vấn Vietstock
+FILI

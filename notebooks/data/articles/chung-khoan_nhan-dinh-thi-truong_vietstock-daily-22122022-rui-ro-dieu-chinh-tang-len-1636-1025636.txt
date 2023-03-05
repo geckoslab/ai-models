@@ -1,0 +1,30 @@
+Thị trường chứng khoán tiếp tục có phiên giảm điểm. Chỉ báo MACD đã cho bán và khối lượng giao dịch nằm dưới mức trung bình 20 ngày nên rủi ro điều chỉnh đang tăng lên.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 21/12/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 21/12/2022. Cụ thể, VN-Index giảm 4.25 điểm, xuống mức 1,018.88 điểm; HNX-Index giảm 3.07 điểm, xuống còn 204.46 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 704 triệu đơn vị, giảm 26.25% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 28.71%, đạt hơn 84 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 1,695 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 28 tỷ đồng.
+- Theo điều chỉnh của liên Bộ, mỗi lít xăng RON 95-III giảm 500 đồng, về mức 20,700 đồng một lít. Xăng E5 RON 92 có giá mới 19,970 đồng, tức giảm 370 đồng. Tương tự, giá dầu kỳ điều hành này cũng tiếp tục giảm. Cụ thể, dầu diesel giảm 70 đồng/lít còn 21,600 đồng/lít. Hiện, giá dầu vẫn cao hơn giá xăng trong nước.
+- Thị trường chứng khoán tiếp tục có phiên giao dịch tiêu cực. Tâm lý giằng co của nhà đầu tư tiếp diễn, VN-Index giao dịch quanh mức tham chiếu trước khi sụt giảm gần 18 điểm ở phiên chiều. Lực cầu bắt đáy ở vùng giá thấp tham gia ở cuối phiên giúp chỉ số có phần thu hẹp sắc đỏ trước đó. Kết thúc giao dịch, VN-Index giảm 4.25 điểm, xuống mức 1,018.88 điểm.
+- VN30-Index có sự tích cực hơn khi kết phiên với mức tăng 3.31 điểm (+0.32%), dừng chân ở mức 1,033.1 điểm. Rổ VN30 có sự phân hóa với 14 mã tăng, 13 mã giảm và 3 mã đứng giá. Giao dịch tiêu cực nhất rổ là NVL và PDR khi cùng giảm hết biên độ. Ở chiều ngược lại, STB, VPB, VNM và những cổ phiếu tăng giá mạnh nhất trong rổ.
+- Về mức độ ảnh hưởng, VIC, GAS, CTG, NVL là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Trong khi đó, các cổ phiếu nhóm ngân hàng như VPB, STB, ACB và các mã VNM, VHM hay MSN là trụ chính giúp chỉ số này không giảm quá sâu.
+- Ngành chế biến thủy sản tiếp tục có phiên giảm mạnh. Cụ thể, ANV, IDI cùng sụt gần 6%. VHC lao dốc 3.41%, FMC và ACL cùng giảm xuống dưới mức tham chiếu.
+- Các ông lớn trong nhóm thực phẩm đồ uống hiện sắc xanh tích cực. Trong đó, VNM tiến 1.27%, SAB tăng 1.16%, MSN tăng 0.96%.
+- Thị trường chứng khoán tiếp tục có phiên giảm điểm. Chỉ báo MACD đã cho bán và khối lượng giao dịch nằm dưới mức trung bình 20 ngày nên rủi ro điều chỉnh đang tăng lên.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Rủi ro điều chỉnh đang tăng lên
+Trong phiên giao dịch ngày 21/12/2022, VN-Index tiếp tục xuất hiện cây nến đỏ với bóng mờ dưới dài (long lower shadow) sau khi test đường SMA 50 ngày. Điều này cho thấy tình hình không quá bi quan. Nếu đường này vẫn trụ vững thì đà tăng trung hạn vẫn chưa bị phá vỡ.
+Tuy nhiên, chỉ báo MACD đã cho bán trở lại và khối lượng giao dịch nằm dưới mức trung bình 20 ngày nên rủi ro điều chỉnh đang tăng lên.
+
+HNX-Index - Spinning Top hình thành
+Trong phiên giao dịch ngày 21/12/2022, HNX-Index hình thành mẫu hình nến Spinning Top với khối lượng sụt giảm cho thấy tâm lý khá phân vân của nhà đầu tư.
+Chỉ báo Stochastic Oscillator rơi khỏi vùng quá mua (overbought) và MACD cho bán mạnh. Vì vậy, người viết dự kiến chỉ số sẽ tiếp tục bi quan trong thời gian tới.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 21/12/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 21/12/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

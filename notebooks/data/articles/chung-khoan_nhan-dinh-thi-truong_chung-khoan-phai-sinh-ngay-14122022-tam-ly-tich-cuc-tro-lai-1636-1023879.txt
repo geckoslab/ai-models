@@ -1,0 +1,37 @@
+Các hợp đồng tương lai đồng loạt tăng điểm trong phiên giao dịch ngày 13/12/2022. Khối lượng giao dịch của hợp đồng VN30F2301 tăng mạnh khi hợp đồng VN30F2212 sẽ đáo hạn trong tuần này.
+I. HỢP ĐỒNG TƯƠNG LAI CỦA CHỈ SỐ THỊ TRƯỜNG CHỨNG KHOÁN
+I.1. Diễn biến thị trường
+Các hợp đồng tương lai đồng loạt tăng điểm trong phiên giao dịch ngày 13/12/2022. VN30F2212 (F2212) tăng 2.2%, đạt 1,058 điểm; VN30F2301 (F2301) tăng 2.09%, đạt 1,053.6 điểm; hợp đồng VN30F2303 (F2303) tăng 2.35%, đạt 1,046 điểm; hợp đồng VN30F2306 (F2306) tăng 1.39%, đạt 1,034.9 điểm. Hiện tại, chỉ số cơ sở VN30-Index đang ở mức 1,056.43 điểm.
+Trong phiên giao dịch ngày 13/12/2022, hợp đồng VN30F2212 giằng co quanh tham chiếu trong thời gian diễn ra phiên sáng. Sang tới phiên chiều, biên độ dao động càng lớn khi lực cung cầu giằng co mạnh mẽ hơn. Tuy nhiên, khối lượng mua tăng vọt vào những phút cuối giúp F2212 đóng cửa với mức giá cao nhất trong ngày.
+Đồ thị trong phiên của VN30F2212
+
+Nguồn: https://stockchart.vietstock.vn/
+Kết phiên, basis hợp đồng VN30F2212 đảo chiều so với phiên trước đó và đạt giá trị 1.57 điểm. Điều này cho thấy nhà đầu tư đã lạc quan trở lại về triển vọng của VN30-Index.
+Biến động VN30F2212 và VN30-Index
+
+Nguồn: VietstockFinance
+Lưu ý: Basis được tính theo công thức sau: Basis = Giá hợp đồng tương lai - VN30-Index
+Khối lượng và giá trị giao dịch của thị trường phái sinh lần lượt tăng 10.22% và 7.95% so với phiên ngày 12/12/2022. Cụ thể, khối lượng giao dịch F2212 tăng 8.58% với 440,197 hợp đồng được khớp lệnh. Khối lượng giao dịch của F2301 đạt 15,813 hợp đồng, tăng 88.77% so với phiên trước.
+Khối ngoại quay lại bán ròng với tổng khối lượng bán ròng trong phiên giao dịch ngày 13/12/2022 đạt 1,172 hợp đồng.
+Biến động khối lượng giao dịch ngày của thị trường phái sinh
+
+Nguồn: VietstockFinance
+I.2. Định giá các hợp đồng tương lai
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 14/12/2022, khung giá hợp lý của các hợp đồng tương lai đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại hợp đồng tương lai.
+I.3. Phân tích kỹ thuật VN30-Index
+Trong phiên giao dịch ngày 13/12/2022, VN30-Index tăng điểm trở lại và hình thành mẫu hình nến gần giống White Closing Marubozu cho thấy tâm lý nhà đầu tư đã tạm thời tích cực trở lại trong ngắn hạn.
+Chỉ số vẫn đang duy trì trên đường SMA 50 ngày nên xu hướng hồi phục trung hạn vẫn chưa hoàn toàn bị phá vỡ.
+Tuy nhiên, khối lượng giao dịch vẫn duy trì ở mức dưới trung bình 20 ngày cho thấy dòng tiền vẫn đang giữ sự thận trọng, để đà hồi phục diễn ra thì dòng tiền cần được bổ sung thêm ở các phiên tiếp theo.
+
+Nguồn: VietstockUpdater
+II. HỢP ĐỒNG TƯƠNG LAI CỦA THỊ TRƯỜNG TRÁI PHIẾU
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 14/12/2022, khung giá hợp lý của các hợp đồng tương lai đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại hợp đồng tương lai.
+Theo định giá trên thì GB05F2212, GB05F2303 và GB05F2306 hiện đang có giá khá hấp dẫn. Nhà đầu tư có thể tập trung chú ý và mua vào hai hợp đồng này trong thời gian tới do các hợp đồng tương lai này đang có giá hời nhất trên thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

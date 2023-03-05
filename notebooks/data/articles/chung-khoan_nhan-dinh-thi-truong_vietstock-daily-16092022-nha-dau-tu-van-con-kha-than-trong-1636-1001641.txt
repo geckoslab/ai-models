@@ -1,0 +1,31 @@
+Thị trường chứng khoán có sự hồi phục trở lại sau phiên giảm trước đó. VN-Index tăng nhẹ trong phiên và hình thành mẫu hình nến Rising Window. Tuy nhiên, khối lượng giao dịch của chỉ số lại ở mức thấp, cùng với khối ngoại bán ròng cho thấy nhà đầu tư vẫn còn khá thận trọng.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 15/09/2022
+- Thị trường chứng khoán giao dịch tích cực trong phiên 15/09/2022. Cụ thể, VN-Index tăng 0.39%, lên mức 1,245.66 điểm; HNX-Index tăng 0.1%, đạt mức 279.69 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 386 triệu đơn vị, giảm 32.84% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 28.82%, đạt gần 51 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị hơn 334 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 9 tỷ đồng.
+- Sau phiên giảm điểm trước đó, thị trường chứng khoán đã có sự hồi phục trở lại khi các chỉ số chính cùng hiện sắc xanh. VN-Index mở cửa tăng hơn 8 điểm khi các nhóm ngành như bất động sản khu công nghiệp, điện hay nhựa - hóa chất cùng có mức tăng tốt. Bước sang phiên chiều, thị trường không có nhiều biến động. VN-Index kết phiên ở mức 1.245.66 điểm. tăng 4.89%.
+- VN30-Index kết phiên tăng nhẹ 1.94 điểm (+0.15%). Các cổ phiếu có sự phân hóa trong rổ VN30 với 13 mã tăng, 13 mã giảm và 4 mã đứng giá. Dẫn đầu sắc xanh trong rổ là NVL, POW, GVR khi cùng tiến tốt trung bình trên 2%. Ở chiều ngược lại, BID, SSI, MBB là những mã giảm giá mạnh nhất.
+- Về mức độ ảnh hưởng, BCM, VCB, NVL, EIB là những cổ phiếu có tác động tích cực nhất đến VN-Index. Riêng BCM đã góp gần 2 điểm tăng cho chỉ số này. Trong khi đó, BID, GAS, MBB là những cổ phiếu có đóng góp tiêu cực nhất.
+- Về nhóm ngành, khai khoáng là một trong những ngành giảm mạnh nhất phiên. Bộ đôi PVS và PVD giảm lần lượt ở mức 1.44% và 2.58%. Một số cổ phiếu khác như PVC sụt 3.54%, KSB giảm 1.14%...
+- Tăng nổi bật trong phiên có thể kể tới nhóm cổ phiếu bất động sản khu công nghiệp. Trong đó, BCM có phiên bứt phá tăng hết biên độ với khối lượng giao dịch lớn. Ngoài ra, IDC cũng tăng tốt 3.48%, KBC, ITA, LHG cùng hiện sắc xanh tích cực.
+- Ngành xây dựng dù không quá sôi động nhưng vẫn có một số điểm nhấn đến từ các mã BCG (+1.22%), CTD (+1.55%), CII (+2.66%)…
+- Thị trường chứng khoán có sự hồi phục trở lại sau phiên giảm trước đó. VN-Index tăng nhẹ trong phiên và hình thành mẫu hình nến Rising Window. Tuy nhiên, khối lượng giao dịch của chỉ số lại ở mức thấp, cùng với khối ngoại bán ròng cho thấy nhà đầu tư vẫn còn khá thận trọng.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Rising Window xuất hiện
+Trong phiên giao dịch ngày 15/09/2022, VN-Index hình thành mẫu hình nến Rising Window ngay sau khi xuất hiện mẫu hình nến Falling Window ở phiên trước đó cho thấy tâm lý trái chiều và khó đoán của nhà đầu tư.
+Chỉ báo Stochastic Oscillator đã cho mua trở lại nên rủi ro tạm thời được hạn chế.
+Tuy nhiên, khối lượng giao dịch sụt giảm dưới mức trung bình 20 ngày chứng tỏ nhà đầu tư đang thận trọng trở lại.
+
+HNX-Index - Khối lượng giao dịch duy trì mức thấp
+Trong phiên giao dịch ngày 15/09/2022, HNX-Index hồi phục nhẹ với khối lượng duy trì dưới mức trung bình 20 ngày cho thấy tâm lý lạc quan vẫn chưa thật sự quay trở lại.
+Vùng 260-270 điểm (tương đương đáy cũ tháng 06/2022) sẽ là hỗ trợ gần nhất nếu chỉ số tiếp tục giảm.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 15/09/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ càng bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 15/09/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

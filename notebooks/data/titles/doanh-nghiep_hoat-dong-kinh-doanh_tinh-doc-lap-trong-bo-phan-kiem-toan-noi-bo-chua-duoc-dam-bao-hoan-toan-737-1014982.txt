@@ -1,0 +1,1 @@
+Tính độc lập trong bộ phận kiểm toán nội bộ chưa được đảm bảo hoàn toàn

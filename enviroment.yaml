@@ -1,0 +1,21 @@
+name: ai-models
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - pip
+  - numpy=1.19
+  - webdriver-manager=3
+  - selenium=4
+  - tensorflow
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - pip:
+    - underthesea
+
+  - jupyter
+  - notebook

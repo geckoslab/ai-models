@@ -1,0 +1,34 @@
+Chỉ báo này cung cấp cho nhà đầu tư một khái niệm khá mới. Đó là “kháng cự/hỗ trợ di động” có thể tự chạy theo giá cổ phiếu mà không cần tác động bên ngoài.
+* Ichimoku - Phân tích kỹ thuật dưới lăng kính của người Nhật (Kỳ 1)
+Vận dụng thực tế
+Trong kỳ 1, chúng ta đã đi với nhau về các lý thuyết và ý nghĩa của từng loại thành phần của chỉ báo. Bây giờ ta sẽ đi sâu hơn vào cách vận dụng cũng như kết hợp để dự báo được các điểm mua/bán sao cho chính xác nhất.
+Một lệnh mua đẹp khi hội tụ đủ các yếu tố như:
+- Tenkan-Sen cắt Kijun-Sen từ dưới hướng lên.
+- Chikou-Span cắt đường giá từ dưới lên và cách xa khỏi đường giá.
+- Giá đâm thủng mây Ichimoku từ dưới hướng lên.
+- Senkou-Span A cắt lên Senkou-Span B và mây chuyển màu sang xanh.
+Ví dụ xem như hình bên dưới, điểm mua xuất hiện khi một cây nến xanh dài đâm thủng mây tạo tiền đề cho một xu hướng tăng mới hình thành. Đi kèm với đó là các thành phần khác trong chỉ báo cũng cho tín hiệu mua vào. Ở giai đoạn tiếp theo, đà tăng được củng cố khi giá đã chạm vào mây và phản ứng bật tăng trở lại.
+Nhiều nhà đầu tư thận trọng hơn sẽ chọn việc chờ giá retest lại mây để mua vào, nhưng không hẳn lúc nào giá cũng retest lại mây, đôi khi giá sẽ chạy thẳng và từ đó nhà đầu tư có thể bỏ lỡ cơ hội mua vào.
+
+Giá vàng trong giai đoạn từ tháng 03-08/2018. Nguồn: TradingView
+Trên thực tế thì rất ít khi các điều kiện trên cùng xảy ra đồng thời và cho tín hiệu rõ ràng. Hoặc nếu cho thì chúng cũng sẽ xuất hiện lần lượt, đến khi xu hướng tăng đã rõ ràng thì giá cũng đã tăng cao.
+Một lệnh bán tốt khi hội tụ đủ các yếu tố sau:
+- Tenkan-Sen cắt Kijun-Sen từ trên xuống dưới.
+- Chikou-Span cắt đường giá từ trên xuống và cách xa khỏi đường giá.
+- Giá đâm thủng mây từ trên xuống dưới.
+- Senkou-Span A cắt Senkou-Span B từ trên xuống, mây đổi màu sang đỏ.
+Ví dụ xem như hình bên dưới, điểm bán xuất hiện khi các cây nến đâm thủng mây tạo tiền đề cho một xu hướng giảm hình thành. Đi kèm với đó là các thành phần khác trong chỉ báo cũng cho tín hiệu bán ra. Ở giai đoạn tiếp theo, đà giảm không thể bị phá vỡ khi giá liên tục phản ứng giảm trở lại khi chạm vào đường Tenkan-Sen và Kijun-Sen.
+
+Giá vàng trong giai đoạn từ tháng 08-12/2018. Nguồn: TradingView
+Ichimoku Cloud - Vùng kháng cự/hỗ trợ di động
+Ichimoku Cloud được tạo bởi Senkou-Span A và Senkou-Span B có thể được sử dụng như là kháng cự/hỗ trợ di động. Khác với các quan điểm truyền thống phương Tây, công cụ này của người Nhật có thể tự động chạy theo giá mà không cần tác động từ bên ngoài. Nhìn vào hình bên dưới, giá liên tục chạm vào đám mây sau đó bật lại. Điều này cho thấy rằng giá đã phản ứng với mây và tạo động lực bật tăng từ những vùng này.
+
+Giá cổ phiếu VNM trong giai đoạn từ tháng 08/2020-01/2021. Nguồn: TradingView
+Trong một xu hướng giảm, Ichimoku Cloud đóng vai trò như một vùng kháng cự. Như hình bên dưới, giá chạm đám mây và đảo chiều sụt giảm cho thấy sự hiệu quả của công cụ này.
+
+Giá cổ phiếu VNM trong giai đoạn từ tháng 01/2021-09/2021. Nguồn: TradingView
+Thêm một ví dụ nữa, tần suất Senkou-Span B đi ngang càng dài càng cho thấy đây là vùng hỗ trợ/kháng cự mạnh. Như hình bên dưới, Senkou-Span B trở thành điểm tựa sau khi đường giá xuyên thủng mây để tạo thành xu hướng tăng, sau đó Ichimoku Cloud cũng bắt đầu đóng vai trò là vùng hỗ trợ.
+
+Giá cổ phiếu VIC trong giai đoạn từ tháng 10/2021-01/2022. Nguồn: TradingView
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

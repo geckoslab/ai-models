@@ -1,0 +1,20 @@
+Bắt đáy là một chiến lược khôn ngoan khi giá tài sản đang giao dịch ở mức định giá thấp hơn nhiều so với giá trị nội tại. Tuy nhiên, thay vì chơi tất tay (all in) trong một lần bắt đáy thì nhà đầu tư nên sử dụng phương pháp giải ngân từng phần.
+Các kiểu bắt đáy trên thị trường
+Một cổ phiếu tốt chưa chắc đã trở thành một khoản đầu tư tốt nếu lựa chọn sai thời điểm xuống tiền. Thậm chí, ngay cả khi lựa chọn đúng thời điểm ra vào thị trường, nếu như không quản trị dòng tiền đầu tư một cách hợp lý thì vẫn có thể bị thua lỗ.
+Vì vậy mới có câu chuyện bi hài là có nhà đầu tư thắng liên tiếp nhiều phi vụ trong suốt giai đoạn 2020-2021 nhưng chỉ cần ”sẩy chân” trong năm 2022 thì sẽ mất trắng toàn bộ số lợi nhuận có được. Điều này cũng góp phần giải thích tại sao một nhà đầu tư có tỷ lệ trading thành công 80% chưa chắc đã kiếm được nhiều lợi nhuận hơn một nhà đầu tư chỉ có tỷ lệ thành công 20%.
+Chiến lược bắt đáy (bottom-fishing) sử dụng phân tích cơ bản hoặc phân tích kỹ thuật để suy đoán điểm dừng của giá.
+
+Nguồn: The Wall Street Journal
+Dưới góc nhìn phân tích cơ bản. Bắt đáy là một chiến lược khôn ngoan khi giá tài sản đang giao dịch ở mức định giá thấp hơn nhiều so với giá trị nội tại một cách phi lý. Tuy nhiên, nhà đầu tư cần lưu ý là nếu lãi suất đang trên đà tăng trưởng mạnh thì nguy cơ thay đổi mức định giá trong tương lai gần là cao (đối với các phương pháp định giá theo Discounted Cash Flow). Ví dụ: khi các yếu tố khác không đổi, nếu lãi suất chiết khấu tăng từ 6% lên 10% thì giá trị định giá lý thuyết của cổ phiếu sẽ giảm rất nhiều.
+Một yếu tố khác cũng rất đáng quan tâm là sự biến động giá cổ phiếu của các doanh nghiệp cùng ngành. Yếu tố này chủ yếu ảnh hưởng đến các phương pháp Market Multiple Models như P/E, P/B, P/S… Trong trường hợp danh mục này là một danh mục quốc tế với nhiều cổ phiếu ở nhiều quốc gia (Trung Quốc, Ấn Độ, Thái Lan, Indonesia, Malaysia...) thì rủi ro này thậm chí còn lớn hơn.
+Trên đây là hai yếu tố cần phải xem xét trước khi tiến hành bắt đáy theo phân tích cơ bản.
+Dưới góc nhìn phân tích kỹ thuật. Nếu giá không ở gần ngưỡng hỗ trợ mạnh nào thì thông thường giới phân tích kỹ thuật sẽ dùng hiện tượng phân kỳ giá lên (bullish divergence) của nhóm momentum để bắt đáy.
+Còn nếu giá sắp chạm vào vùng hỗ trợ mạnh (đáy cũ, trendline trung dài hạn...) thì chỉ cần đợi khi giá test vùng này để giải ngân.
+
+Biến động giá cổ phiếu VNM trong giai đoạn 2019-2022. Nguồn: VietstockUpdater
+Không nên dồn toàn bộ tiền vào bắt đáy
+Thay vì chơi tất tay (all in) trong một lần bắt đáy thì nhà đầu tư nên sử dụng phương pháp giải ngân từng phần. Chiến thuật này đặc biệt phát huy hiệu quả trong những giai đoạn thị trường giá xuống mạnh, kéo dài và khó xác định đáy dài hạn.
+Người viết cho rằng nhà đầu tư chỉ cần giải ngân khoảng 40% cho lần mua đầu tiên. Lần mua đầu tiên thường là dạng mua bắt đáy (bottom-fishing). Đây có thể coi là điểm mấu chốt của chiến thuật này, bởi vì nếu như bắt đáy lần đầu thất bại thì sẽ không có thêm việc giải ngân tiếp theo mà sẽ là hành động cắt lỗ.
+Chiến thuật này sẽ giúp cho mức độ thua lỗ được hạn chế tối đa nếu như bắt đáy thất bại. Giả sử chúng ta bắt đáy thất bại 3 lần liên tiếp và mỗi lần thua lỗ khoảng 15% thì mức thua lỗ tính nhanh của cả 3 lần là 3 x 40% x 15% = 18% danh mục. Chỉ cần một lần bắt đáy thành công tiếp theo và áp dụng chiến lược bình quân giá lên thì mức độ thua lỗ này có thể được bù đắp.
+Thế Phong
+FILI

@@ -1,0 +1,30 @@
+VN-Index giảm nhẹ trở lại trong phiên. Khối lượng giao dịch cũng có sự sụt giảm đáng kể và nằm dưới mức trung bình 20 ngày gần nhất, điều này cho thấy sự thận trọng vẫn còn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 21/11/2022
+- Thị trường chứng khoán giao dịch trái chiều trong phiên 21/11/2022. Cụ thể, VN-Index giảm 0.9%, xuống mức 960.65 điểm; HNX-Index tăng 0.8%, đạt 192.4 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 523 triệu đơn vị, giảm 37.31% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 46.45%, đạt hơn 52 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 37 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 35 tỷ đồng.
+- Thị trường chứng khoán trong nước có sự phân hóa trong phiên. VN-Index dù hiện sắc xanh đầu phiên nhưng sau đó lại nhanh chóng giảm xuống dưới tham chiếu và giao dịch giằng co quanh mốc này với biên độ hẹp. Nhóm cổ phiếu Large Cap sụt giảm là nguyên nhân chính kéo chỉ số giảm điểm. VN-Index nới rộng đà giảm trong phiên chiều. Trong khi đó, HNX-Index lại duy trì được sắc xanh trong suốt phiên giao dịch. Kết phiên, VN-Index giảm 8.68 điểm, xuống mức 960.65 điểm; HNX-Index tăng 1.53 điểm, lên mức 192.4 điểm.
+- VN30-Index kết phiên giảm 14.31 điểm (-1.47%), xuống mức 956.89 điểm. Bên bán chiếm ưu thế hơn trong rổ VN30 với 20 mã giảm, 7 mã tăng và 3 mã đứng giá. Hai cổ phiếu NVL và PDR tiếp tục nằm sàn, theo sau là sự sụt giảm của các mã VRE, MWG, ACB và GAS. Ngược lại, GVR là mã tăng ấn tượng nhất rổ khi tiến hết biên độ.
+- Về mức độ ảnh hưởng, VHM, VIC, VCB, GAS, NVL là những mã có tác động tiêu cực nhất VN-Index. Trong khi đó, GVR, SAB, SHB là những mã có tác động tích cực nhất với chỉ số này.
+- Ở ngành vật liệu xây dựng, trong khi HPG giảm nhẹ xuống dưới tham chiếu, các cổ phiếu khác trong nhóm thép như HSG, NKG lại giao dịch hết sức ấn tượng. Cụ thể, HSG leo dốc tăng hết biên độ, NKG tiến sát mức giá trần.
+- Về nhóm ngành xi măng, BCC và HT1 tăng tốt lần lượt ở mức 6.78% và 1.77%. Theo thông tin Cục Phòng vệ thương mại (Bộ Công Thương) vừa công bố, mới đây, Ủy ban Thuế quan Philippines (TC) đã ban hành kết luận cuối cùng về vụ việc gia hạn áp dụng biện pháp tự vệ toàn cầu đối với xi măng Type 1 (mã AHTN 2523.29.90) và xi măng Type 1P (mã AHTN 2523.90.00).TC kết luận trong thời kỳ rà soát, xi măng nhập khẩu từ các nước, trong đó có Việt Nam, không gây thiệt hại nghiêm trọng hoặc đe dọa gây ra thiệt hại nghiêm trọng cho ngành sản xuất xi măng của Philippines. Qua đó, xi măng xuất khẩu vào Philippines không còn phải chịu thuế tự vệ. Đây là thông tin tích cực với nhóm cổ phiếu này.
+- Ngành xây dựng giao dịch sôi động khi nhiều cổ phiếu cùng bật tăng trần như PC1, CII,… Các cổ phiếu khác như BCG, HBC và HHV cũng tăng tốt trên 5%...
+- VN-Index giảm nhẹ trở lại trong phiên. Khối lượng giao dịch cũng có sự sụt giảm đáng kể và nằm dưới mức trung bình 20 ngày gần nhất, điều này cho thấy sự thận trọng vẫn còn.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Thận trọng trở lại
+Trong phiên giao dịch ngày 21/11/2022, VN-Index giảm nhẹ trở lại cho thấy tâm lý nhà đầu tư chưa thật sự lạc quan trong ngắn hạn.
+Khối lượng giao dịch sụt giảm dưới mức trung bình 20 ngày chứng tỏ nhà đầu tư đang hạn chế giao dịch khi thị trường không có nhiều thông tin hỗ trợ.
+
+HNX-Index - Tâm lý lạc quan vẫn còn
+Trong phiên giao dịch ngày 21/11/2022, HNX-Index tiếp tục tăng và chỉ báo MACD đã cho tín hiệu mua trở lại.
+Đáy cũ tháng 10/2022 (tương đương vùng 202-205 điểm) bị phá vỡ hoàn toàn trước đó nên cũng sẽ trở thành kháng cự trong thời gian tới.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm sâu dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) vẫn còn ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 21/11/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 21/11/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

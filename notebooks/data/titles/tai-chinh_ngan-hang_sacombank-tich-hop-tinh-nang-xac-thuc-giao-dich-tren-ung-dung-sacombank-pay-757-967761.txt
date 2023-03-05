@@ -1,0 +1,1 @@
+Sacombank tích hợp tính năng xác thực giao dịch trên ứng dụng Sacombank Pay 

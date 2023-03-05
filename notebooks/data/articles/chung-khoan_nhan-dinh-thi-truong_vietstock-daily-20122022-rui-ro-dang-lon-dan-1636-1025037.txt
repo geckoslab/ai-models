@@ -1,0 +1,31 @@
+VN-Index giảm hơn 14 điểm trong phiên trong bối cảnh không có nhiều thông tin hỗ trợ trên thị trường. Chỉ báo MACD đang đi ngang và thu hẹp dần khoảng cách với Signal Line. Nếu tín hiệu bán xuất hiện trở lại thì rủi ro sẽ rất cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 19/12/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 19/12/2022. Cụ thể, VN-Index giảm 14.08 điểm, xuống mức 1,038.4 điểm; HNX-Index giảm nhẹ 0.75 điểm, xuống còn 212.24 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 852 triệu đơn vị, tăng 7.86% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm nhẹ 0.08%, đạt gần 102 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 109 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 13 tỷ đồng.
+- Thị trường chứng khoán giao dịch thận trọng khi mở cửa phiên giao dịch đầu tuần. VN-Index giằng co quanh mức tham chiếu sau phiên ATO. Thị trường có sự khởi sắc hơn sau đó, các ông lớn đầu ngành trong các nhóm như sắt thép, bất động sản, chứng khoán hay ngân hàng đều có mức tăng tốt. VN-Index có lúc tăng hơn 13 điểm. Tuy nhiên, bước sang phiên chiều chỉ số có sự suy yếu trở lại. VN-Index dần thu hẹp sắc đỏ và còn sụt giảm xuống dưới mức tham chiếu. Kết phiên giao dịch, VN-Index giảm 14.08 điểm, xuống mức 1,038.4 điểm.
+- VN30-Index kết phiên giảm 13.85 điểm (-1.3%), kết phiên ở mức 1,050.22 điểm. Bên bán chiếm ưu thế vượt trội trong rổ VN30 với 25 mã giảm, 4 mã tăng và 1 mã đứng giá. Giảm mạnh nhất trong rổ là các mã PDR, NVL, VIC và GVR. Ở chiều ngược lại, VRE là cổ phiếu tăng ấn tượng nhất khi tiến 4.2%.
+- Về mức độ ảnh hưởng, VIC, VHM, VPB, VCB là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Ở chiều ngược lại, hai mã VRE và MSN là những cổ phiếu có tác động tích cực nhất đến chỉ số này.
+- Nhóm cổ phiếu bán lẻ có phiên giao dịch ảm đạm. Mã SVC giảm hết biên độ, VGC giảm gần hết biên độ, MWG và FRT cùng giảm lần lượt ở mức 1.46% và 1.61%.
+- Trong khi đó, ngành thủy sản đi ngược với thị trường khi hiện sắc xanh tích cực. IDI leo dốc 4.78%, ANV tăng 3.23%, các mã CMX, FMC, ACL cùng hiện sắc xanh tích cực.
+- Tiêu thụ than trên thế giới vượt 8 tỷ tấn, đạt kỷ lục mới. IEA cho biết chưa bao giờ nhân loại đốt cháy nhiều than đá như vậy trong một năm, mặc dù đây là loại năng lượng gây ô nhiễm nhất và là nguồn phát thải khí nhà kính hàng đầu. IEA cảnh báo nhu cầu toàn cầu sẽ duy trì ở mức này cho đến năm 2025, nếu như "không có những nỗ lực bổ sung để đẩy nhanh quá trình chuyển đổi năng lượng”. Nhóm cổ phiếu khai thác than đá trong nước cũng ghi nhận mức tăng tốt trong phiên như NBC (+8%), MDC (+4.1%), TDN (+2.6%)…
+- VN-Index giảm hơn 14 điểm trong phiên trong bối cảnh không có nhiều thông tin hỗ trợ trên thị trường. Chỉ báo MACD đang đi ngang và thu hẹp dần khoảng cách với Signal Line. Nếu tín hiệu bán xuất hiện trở lại thì rủi ro sẽ rất cao.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Rủi ro dần xuất hiện
+Trong phiên giao dịch ngày 19/12/2022, VN-Index liên tục hình thành những cây nến có bóng mờ bên trên dài (Long Upper Shadow) cho thấy lực bán vẫn đang hiện diện mạnh.
+Chỉ báo MACD đang đi ngang và thu hẹp dần khoảng cách với Signal Line. Nếu tín hiệu bán xuất hiện trở lại thì rủi ro sẽ rất cao.
+
+HNX-Index - Gravestone Doji xuất hiện
+Trong phiên giao dịch ngày 19/12/2022, HNX-Index hình thành mẫu hình nến Gravestone Doji cho thấy tâm lý giằng co của nhà đầu tư trong ngắn hạn.
+Nguy cơ xuất hiện mẫu hình Double Top là vẫn còn nếu chỉ số không thể vượt qua được vùng 220-225 điểm (tương đương ngưỡng Fibonacci Retracement 38.2%).
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 19/12/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 19/12/2022
+ 
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

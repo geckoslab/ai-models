@@ -1,0 +1,30 @@
+2022 là năm đầy biến động của thị trường chứng khoán và đồng thời cũng đem lại những bài học quý giá. Điểm giao cắt vàng (Golden Cross) cho thấy thị trường tăng giá dài hạn trong tương lai, trong khi điểm giao cắt tử thần (Death Cross) báo hiệu thị trường giá xuống dài hạn.
+Cả hai đều cho thấy một xu hướng trung hoặc dài hạn bằng sự xuất hiện của một đường trung bình động ngắn hạn vượt qua một đường trung bình động dài hạn.
+Golden Cross là gì?
+Giao cắt vàng là một mẫu biểu đồ trong đó đường trung bình động ngắn hạn vượt lên trên đường trung bình động dài hạn. Giao cắt vàng là một tín hiệu báo trước sự đột phá tăng giá được hình thành từ điểm giao cắt liên quan đến đường trung bình động ngắn hạn của chứng khoán (chẳng hạn như đường trung bình động 50 ngày) vượt qua đường trung bình động dài hạn của nó (chẳng hạn như đường trung bình động 100 ngày). Giao cắt vàng cho thấy thị trường tăng giá sắp xảy ra và được củng cố hơn bởi khối lượng giao dịch đột biến.
+Có ba giai đoạn để đạt được Giao cắt vàng:
+- Một: Xu hướng giảm kết thúc khi lực bán cạn kiệt
+- Hai: Khi đường trung bình động ngắn hơn vượt lên trên đường trung bình động dài hơn
+- Ba: Xu hướng tăng tiếp tục, hy vọng dẫn đến giá cao hơn.
+Minh chứng cho sự chính xác của Golden Cross
+Trong giai đoạn cuối năm 2021, giá cổ phiếu Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP (HOSE: BCM) sau khi tạo đáy vào tháng 07/2021 đã bước sang giai đoạn tăng trưởng mới. Đà tăng dài hạn thật sự được xác định khi giá cổ phiếu lần lượt vượt lên trên các đường MA trung và dài hạn mà ở đây cụ thể là đường SMA 50 ngày và SMA 100 ngày.
+Thời điểm tháng 11/2021, Giao cắt vàng (Golden Cross) đã thật sự xuất hiện khi đường SMA 50 ngày cắt lên trên SMA 100 ngày. Điều này đã dự báo một chu kỳ tăng dài hạn đã hình thành và sau đó, giá đã có chu kỳ tăng trưởng mạnh kéo dài.
+Biến động của BCM trong giai đoạn 2020-2022
+
+Nguồn: https://stockchart.vietstock.vn/
+Death Cross là gì?
+Ngược lại với Golden Cross, sự giao nhau đi xuống giữa các đường trung bình động tạo thành Giao cắt tử thần (Death Cross), báo hiệu một sự suy thoái trên thị trường. Giao cắt tử thần xảy ra khi đường trung bình ngắn hạn có xu hướng đi xuống và cắt xuống đường trung bình dài hạn, về cơ bản là đi theo hướng ngược lại của Giao cắt vàng.
+Có ba giai đoạn để đạt được Giao cắt tử thần:
+- Một: Xu hướng tăng kết thúc khi lực mua cạn kiệt
+- Hai: Khi đường trung bình động ngắn hơn cắt xuống dưới đường trung bình động dài hơn
+- Ba: Xu hướng giảm tiếp tục và báo hiệu một đợt giảm mạnh đã hình thành.
+Xu hướng giảm của HPG được dự báo bởi Death Cross
+Sau khi chứng kiến mức đỉnh lịch sử của cổ phiếu CTCP Tập đoàn Hòa Phát (HOSE: HPG) vào tháng 10/2021, HPG bước vào chu kỳ sụt giảm mạnh và điều này đã được dự báo bởi Giao cắt tử thần xuất hiện vào tháng 01/2022 giữa đường SMA 50 ngày và SMA 200 ngày. Tín hiệu này cũng là dấu chấm hết cho đà tăng dài hạn diễn ra trong hơn 2 năm của cổ phiếu này. Giá cổ phiếu sau đó bước sang giai đoạn suy thoái và khiến các nhà đầu tư nắm giữ dài hạn phải thiệt hại nặng.
+Biến động của HPG trong giai đoạn 2021-2022
+
+Nguồn: https://stockchart.vietstock.vn/
+Thay đổi các khung thời gian để phù hợp với các giao dịch khác nhau
+Có một số ý kiến khác nhau về việc điều gì thực sự tạo nên sự giao nhau giữa các đường trung bình động này. Một số nhà phân tích định nghĩa nó là sự giao nhau giữa đường trung bình động 100 ngày với đường trung bình động 50 ngày, những người khác định nghĩa nó là sự giao nhau của đường trung bình 200 ngày với đường trung bình 50 ngày.
+Các nhà phân tích cũng theo dõi sự giao nhau xảy ra trên các biểu đồ khung thời gian thấp hơn như 5 phút, 15 phút hay sử dụng các đường EMA với độ nhạy lớn hơn. Bất kể các biến thể trong định nghĩa thế nào hoặc khung thời gian được áp dụng, chỉ báo này luôn đề cập đến một đường trung bình động ngắn hạn cắt qua một đường trung bình động dài hạn hơn.
+Bộ phận Phân tích Kỹ thuật, Phòng Tư vấn Vietstock
+FILI

@@ -1,0 +1,12 @@
+Vốn hóa thị trường của Alphabet mất 100 tỷ đô trong ngày 08/02, sau khi chatbot mới của công ty chia sẻ thông tin sai trong video quảng cáo.
+Cổ phiếu Alphabet có lúc sụt 9% trong phiên 08/02, với khối lượng giao dịch gấp 3 lần mức trung bình động 50 ngày (MA50). Trong năm 2022, cổ phiếu Alphabet đã mất 40% vốn hóa, nhưng đã hồi phục 15% từ đầu năm 2023 (chưa tính tới mức giảm trong ngày 08/02).
+
+Ngày 08/02, Google vừa cho ra mắt chatbot Bard. Đây là chatbot đang trong giai đoạn thử nghiệm, được cho là để cạnh tranh với ChatGPT từ OpenAI.
+Trên blog của Google, CEO Sundar Pichai giới thiệu Bard sẽ mang đến những "phản hồi mới, chất lượng cao". Tuy vậy, ngay trong lần đầu xuất hiện, Bard lại bị phát hiện đưa ra câu trả lời không chính xác.
+Trong video quảng cáo, một người dùng hỏi Bard: “Tôi có thể nói với đứa con 9 tuổi của mình về những khám phá mới nào của kính thiên văn James Webb?”.
+Phần trả lời của Bard có đoạn: “Kính thiên văn James Webb đã chụp những bức ảnh đầu tiên về một hành tinh bên ngoài hệ Mặt Trời của chúng ta”. Tuy nhiên, theo NASA, hình ảnh đầu tiên cho thấy một hành tinh bên ngoài hệ Mặt Trời được chụp bởi Kính Thiên văn Rất lớn (VLT) của Đài thiên văn Nam Âu gần hai thập kỷ trước.
+Sai sót của chatbot Bard cho thấy thách thức Google phải đối mặt khi chạy đua tích hợp công nghệ AI.
+Trong buổi thuyết trình phát trực tiếp sáng 8/2, Google vẫn chưa tiết lộ thời điểm tích hợp Bard vào công cụ tìm kiếm. Một ngày trước đó, Microsoft công bố đã phát hành phiên bản tìm kiếm Bing tích hợp chức năng ChatGPT.
+“Mặc dù Google đã dẫn đầu về đổi mới trí tuệ nhân tạo (AI) trong vài năm qua, nhưng họ dường như ngủ quên trong việc triển khai công nghệ này vào công cụ tìm kiếm của mình, Gil Luria, nhà phân tích phần mềm cấp cao tại D.A. Davidson, cho biết. “Google đã vội vã rượt đuổi để cho ra mắt chatbot và dẫn tới tình huống đáng xấu hổ về câu trả lời sai của Bard”.
+Vũ Hạo (Theo Reuters)
+FILI

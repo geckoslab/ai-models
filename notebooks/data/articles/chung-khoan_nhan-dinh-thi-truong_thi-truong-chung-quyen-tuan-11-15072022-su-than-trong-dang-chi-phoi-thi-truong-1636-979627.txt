@@ -1,0 +1,22 @@
+Kết thúc phiên giao dịch ngày 08/07/2022, toàn thị trường có 53 mã giảm, 47 mã tăng và 27 mã đứng giá. Khối ngoại tiếp tục bán ròng với tổng mức bán ròng đạt 3.5 triệu đơn vị.
+I. DIỄN BIẾN THỊ TRƯỜNG CHỨNG QUYỀN
+Kết thúc phiên giao dịch ngày 08/07/2022 với 53 mã giảm, 47 mã tăng và 27 mã đứng giá. Tổng số chứng quyền toàn thị trường tăng từ 122 lên 127 mã do thị trường ghi nhận thêm 5 chứng quyền mới từ CTCP Chứng khoán MB (MBS) gồm CFPT2204, CHDB2207, CKDH2208, CMSN2208 và CVRE2210, các mã này có thời gian đáo hạn vào tháng 10 và tháng 12/2022.
+Các mã chứng quyền tiếp tục giao dịch thận trọng trước diễn biến giằng co của thị trường cơ sở. Ở chiều giảm, sắc đỏ tập trung ở các chứng quyền ACB, HDB, MBB, NVL, STB, VNM, VJC. Trong đó, CSBT2207 giảm 28.57%, CHDB2207 giảm 22.88%, CNVL2203 giảm 17.65%…
+Ở chiều ngược lại, sắc xanh xuất hiện chủ yếu ở các chứng quyền HPG, MWG, PDR, PNJ và VIC. Trong đó, CVIC2201 tăng 37.5%, CVIC2204 tăng 30%, CMWG2201 tăng 18.18%, CPDR2204 tăng 18%...
+Khối lượng giao dịch của thị trường kết phiên ngày 08/07/2022 đạt hơn 28.9 triệu đơn vị, tăng 8.38%; giá trị giao dịch đạt 13.6 tỷ đồng, giảm 2% so với phiên ngày 07/07/2022. Trong đó, CHPG2212 là mã chứng quyền dẫn đầu thị trường về khối lượng, CHPG2213 dẫn đầu về giá trị giao dịch.
+Thanh khoản sôi động của thị trường đang tập trung ở các nhóm chứng quyền có thời gian đáo hạn vào tháng 7, 8, 9 và 10. Trong khi đó, các chứng quyền đáo hạn tháng 11, 12 và tháng 01/2023 ghi nhận nhiều mã thanh khoản thấp.
+Về giao dịch khối ngoại, khối này tiếp tục bán ròng trong phiên ngày 08/07/2022 với tổng mức bán ròng đạt 3.5 triệu đơn vị. Trong đó, CMSN2201 và CHPG2202 là hai mã chứng quyền bị bán ròng nhiều nhất.
+
+Nguồn: VietstockFinance
+II. THỐNG KÊ THỊ TRƯỜNG
+
+Nguồn: VietstockFinance
+III. ĐỊNH GIÁ CÁC CHỨNG QUYỀN
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 11/07/2022, khung giá hợp lý của các chứng quyền đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại chứng quyền.
+Theo định giá trên, CPDR2201 và CNVL2203 hiện là hai mã chứng quyền có mức định giá hấp dẫn nhất.
+Những mã chứng quyền có effective gearing càng cao thì biến động tăng/giảm theo chứng khoán cơ sở thường sẽ càng lớn. Hiện CPDR2108, CMWG2202 và CNVL2203 là ba mã chứng quyền có tỷ lệ effective gearing cao nhất thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

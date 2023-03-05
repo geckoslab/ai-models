@@ -1,0 +1,30 @@
+VN-Index có phiên giao dịch giằng co và kết phiên sát mốc tham chiếu. Khối lượng giao dịch duy trì ở gần mức trung bình 20 ngày cho thấy dòng tiền vẫn chưa rời bỏ thị trường.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 29/06/2022
+- Các chỉ số chính giao dịch thận trọng trong phiên ngày 29/06/2022. Cụ thể, chỉ số VN-Index kết phiên ngay mức tham chiếu, đạt 1,218.09 điểm; HNX-Index giảm 0.54%, xuống còn 282.35 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 512 triệu đơn vị, giảm nhẹ 2.79% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 19.31%, đạt gần 51 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 35 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 4 tỷ đồng.
+- Theo Báo cáo của Tổng cục Thống kê vừa công bố, Tổng sản phẩm trong nước (GDP) quý 2 năm 2022 ước tính tăng 7.72% so với cùng kỳ năm trước, cao hơn tốc độ tăng của quý 2 các năm trong giai đoạn 2011-2021. GDP 6 tháng đầu năm 2022 tăng 6.42%, cao hơn tốc độ tăng 2.04% của 6 tháng đầu năm 2020 và tốc độ tăng 5.74% của 6 tháng đầu năm 2021 nhưng thấp hơn tốc độ tăng 7.28% và 6.98% của cùng kỳ năm 2018 và 2019. Trong mức tăng chung của toàn nền kinh tế, khu vực nông, lâm nghiệp và thủy sản tăng 2.78%, đóng góp 5.07%; khu vực công nghiệp và xây dựng tăng 7.70%, đóng góp 48.33%; khu vực dịch vụ tăng 6.60%, đóng góp 46.60%. Đây là tín hiệu tích cực giúp củng cố tâm lý nhà đầu tư về triển vọng trong tương lai.
+- Chứng khoán Mỹ có phiên giảm điểm mạnh đã tác động tiêu cực đến tâm lý nhà đầu tư. Các chỉ số chính trên thị trường trong nước đồng loạt hiện sắc đỏ đầu phiên. VN-Index sụt giảm gần 10 điểm ngay sau phiên ATO. Chỉ số dần thu hẹp đà giảm và tiến về gần tham chiếu sau đó với sự thận trọng của nhà đầu tư. Tuy nhiên, trước khi bước vào giờ nghỉ trưa, VN-Index lần nữa sụt giảm và duy trì sắc đỏ này sang đầu phiên chiều. Dần về cuối phiên, nhờ lực kéo đến từ các cổ phiếu có vốn hóa lớn, VN-Index tiến về lại sát mốc tham chiếu, tạm dừng chân ở mức 1.218.09 điểm.
+- Tương tự VN-Index, VN30-Index kết phiên gần như không có biến động và dừng chân tại 1,273.4 điểm. Rổ VN30 có sự phân hóa với 12 mã tăng, 13 mã giảm và 5 mã đứng giá. Trong đó, BID tiếp tục là cổ phiếu dẫn đầu đà tăng với mức tăng 3.7%. Theo sau là các mã VNM, HPG, GAS. Ở chiều ngược lại, GVR, BVH, SAB và PLX là những cổ phiếu giảm mạnh nhất rổ.
+- Về mức độ ảnh hưởng, BID, VNM, GAS, BCM, HPG là những cổ phiếu có tác động tích cực nhất đến chỉ số VN-Index. Riêng cổ phiếu BID đã góp gần 2 điểm cho chỉ số này. Trong khi đó, VCB, GVR, VHM, SAB là những cổ phiếu có ảnh hưởng tiêu cực nhất.
+- Sự phân hóa cũng hiện diện trong ngành bất động sản. Trong khi nhiều cổ phiếu bất động sản thương mại giảm giá khá tiêu cực như DIG, CEO, DXG, HQC, thì nhóm cổ phiếu bất động sản khu công nghiệp lại giao dịch tương đối khởi sắc. Trong đó, ITA tăng mạnh 6.22%, KBC tiến 2.31%, IDC, SZC hay BCM cũng cùng hiện sắc xanh tích cực.
+- Một số nhóm ngành có sự hồi phục trở lại sau phiên giảm mạnh trước đó như thủy sản, sắt thép hay cảng biển. Cụ thể, ANV tăng mạnh 4.67%, VHC và IDI cùng tiến hơn 2%. NKG tăng mạnh hơn 4%, HPG và HSG cùng hiện sắc xanh. HAH leo dốc hết biên độ, GMD tăng hơn 3%.
+- VN-Index có phiên giao dịch giằng co và kết phiên sát mốc tham chiếu. Khối lượng giao dịch duy trì ở gần mức trung bình 20 ngày cho thấy dòng tiền vẫn chưa rời bỏ thị trường.
+PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Các tín hiệu lạc quan vẫn còn
+Trong phiên giao dịch ngày 29/06/2022, VN-Index gần như không đổi so với phiên trước và chỉ báo Stochastic Oscillator vượt khỏi vùng quá bán (oversold) cho thấy tình hình vẫn còn lạc quan.
+Chỉ báo MACD đã cho tín hiệu mua và phân kỳ giá lên nên rủi ro sụt giảm sâu là không quá lớn trong thời gian tới.
+
+HNX-Index - Mẫu hình nến High Wave Candle xuất hiện
+Trong phiên giao dịch ngày 29/06/2022, HNX-Index hình thành mẫu hình nến High Wave Candle cho thấy tâm lý nhà đầu tư đang giằng co.
+Khối lượng vẫn duy trì ở mức thấp chứng tỏ nhà đầu tư đang hạn chế giao dịch mạnh trong ngắn hạn.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 29/06/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 29/06/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

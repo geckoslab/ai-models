@@ -1,0 +1,21 @@
+Kết thúc phiên giao dịch ngày 05/09/2022, toàn thị trường có 73 mã giảm, 26 mã tăng và 27 mã đứng giá. Khối ngoại mua ròng nhẹ với tổng mức mua ròng chỉ đạt 197 ngàn đơn vị.
+I. DIỄN BIẾN THỊ TRƯỜNG CHỨNG QUYỀN
+Tâm lý thận trọng tiếp tục chi phối khiến thị trường cơ sở có khởi đầu ảm đạm sau kỳ nghỉ lễ. Sắc đỏ bao trùm thị trường chứng quyền trong phiên dịch ngày 05/09/2022 với 73 mã giảm, 26 mã tăng và 27 mã đứng giá.
+Nhiều chứng quyền có diễn biến kém lạc quan như ACB, FPT, HDB, KDH, MSN, MWG, NVL, PDR, PNJ, STB… Trong đó, các mã giảm mạnh nhất gồm CNVL2203 (-83.33%), CHDB2201 (-60%), CSTB2202 (-58.33%), CPNJ2205 (-57.46%), CVPB2205 (-54.55%), CKDH2206, CMSN2201, CPDR2201, CPDR2203, CVHM2201 (-50%). Các mã còn lại đa phần kết phiên với sắc đỏ dưới 10%.
+Ngược lại, sắc xanh tập trung vào chứng quyền VNM và HPG nhờ cổ phiếu cơ sở giao dịch khởi sắc. Kết phiên, nhóm chứng quyền HPG ghi nhận CHPG2202 và CHPG2203 tăng 50% và 100%, các mã còn lại đều có mức tăng khá từ 10%-20%, thanh khoản cũng có sự cải thiện đáng kể ở các chứng quyền đáo hạn tháng 12/2022 như CHPG2014, CHPG2215, CHPG2216 hay CHPG2217. Nhóm chứng quyền VNM ghi nhận CVNM2201 và CVNM2204 tăng 14.29% và 19.12%, CVNM2207 tăng nhẹ 4.8%.
+Khối lượng giao dịch toàn thị trường trong phiên hôm nay đạt 34.1 triệu đơn vị, tăng 21.56%; giá trị giao dịch đạt 19.4 tỷ đồng, giảm 0.78% so với 31/08/2022. Trong đó, CVHM2201 là mã dẫn đầu thị trường về khối lượng, CMBB2208 dẫn đầu về giá trị giao dịch.
+Khối ngoại mua ròng nhẹ trong phiên hôm nay với tổng mức mua ròng chỉ đạt 197 ngàn đơn vị. Trong đó, CVIC2205 và CVHM2201 là hai mã được mua ròng nhiều nhất.
+Công ty Chứng khoán KIS hiện đang là tổ chức phát hành có nhiều chứng quyền nhất trên thị trường với 56 mã, theo sau là HSC với 22 mã, VND có 16 mã, VCSC có 15 mã, MBS có 14 mã, ACBS có 7 mã, BSC có 5 mã.
+Nhóm chứng quyền thuộc KIS đang chiếm 52% khối lượng giao dịch toàn thị trường, HSC chiếm 24%, VND chiếm 9%, ACBS chiếm 8%, MBS, BSC và VCSC chiếm dưới 5%.
+Theo tổng hợp từ website HOSE, trong phiên giao dịch ngày mai 06/09/2022 thị trường sẽ ghi nhận thêm 24 mã chứng quyền mới với thời gian đáo hạn vào tháng 12/2022 và tháng 3/2023.
+
+Nguồn: VietstockFinance
+II. ĐỊNH GIÁ CÁC CHỨNG QUYỀN
+Dựa trên phương pháp định giá phù hợp với thời điểm khởi đầu là ngày 06/08/2022, mức giá hợp lý của các chứng quyền đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại chứng quyền.
+Theo định giá trên, CMWG2204 và CMWG2203 hiện là hai mã chứng quyền có mức định giá hấp dẫn nhất.
+Những mã chứng quyền có effective gearing càng cao thì biến động tăng/giảm theo chứng khoán cơ sở thường sẽ càng lớn. Hiện CNVL2203 và CPDR2203 là hai mã chứng quyền có tỷ lệ effective gearing cao nhất thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

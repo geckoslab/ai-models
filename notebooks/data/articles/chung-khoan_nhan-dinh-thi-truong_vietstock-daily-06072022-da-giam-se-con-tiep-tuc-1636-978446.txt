@@ -1,0 +1,30 @@
+VN-Index giao dịch ảm đạm và sụt giảm hơn 14 điểm. Khối ngoại duy trì bán ròng trên cả hai sàn HOSE và HNX. Bên cạnh đó, dòng tiền thông minh tiếp tục có sự sụt giảm cho thấy rủi ro điều chỉnh vẫn còn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 05/07/2022
+- Các chỉ số chính cùng giảm mạnh trong phiên ngày 05/07/2022. Cụ thể, chỉ số VN-Index giảm 1.19%, xuống còn 1,181.29 điểm; HNX-Index giảm 1.16%, dừng chân ở mức 277.94 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 559 triệu đơn vị, tăng mạnh 38.72% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 19.99%, đạt hơn 56 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 269 tỷ đồng, bán ròng trên sàn HNX với giá trị gần 7 tỷ đồng.
+- Thị trường chứng khoán có phiên giao dịch khá ảm đạm. Mặc dù hiện sắc xanh đầu phiên, nhưng VN-Index lại nhanh chóng quay đầu giảm xuống dưới tham chiếu. Với việc bên bán chiếm ưu thế lớn với số mã giảm vượt trội, thị trường tiếp tục duy trì sắc đỏ tiêu cực trong khoản thời gian sau đó. Sự hồi phục nhẹ ở đầu phiên chiều là không đủ, VN-Index kết phiên với mức giảm 14.24 điểm, xuống còn 1,181.29 điểm.
+- VN30-Index giao dịch có phần bớt bi quan hơn khi chỉ giảm 6.32 điểm (-0.51%). Tuy vậy, bên bán cũng chiếm ưu thế vượt trội trong rổ VN30 với 20 mã giảm và 10 mã tăng giá. Trong đó, giảm mạnh nhất là hai mã MSN và GAS, hai cổ phiếu này cùng lao dốc hơn 5%. Theo sau là các mã PNJ, POW, GVR và MWG. Ở chiều ngược lại, TCB, BID, MBB và STB là những cổ phiếu tăng giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, GAS, MSN, VNM, MWG là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Riêng GAS đã lấy đi gần 3 điểm của chỉ số này. Trong khi đó, các cổ phiếu ngân hàng như BID, TCB, MBB, CTG hay STB lại có phiên giao dịch tích cực giúp đỡ chỉ số không giảm quá sâu.
+- Hầu hết các nhóm ngành cùng hiện sắc đỏ trong phiên. Trong đó, chế biến thủy sản là ngành giảm mạnh nhất. Hàng loạt cổ phiếu trong nhóm nằm sàn như ANV, VHC, IDI, ACL…. Cùng với đó, một số ngành khác như như điện, cảng biển, may mặc cũng sụt giảm đáng kể. Các cổ phiếu đáng chú ý như GEG, NT2, VSH, HAH hay GIL cùng giảm hết biên độ. Các ông lớn như POW, GMD, TNG cũng giảm mạnh.
+- Điểm sáng trong phiên đến từ nhóm cổ phiếu ngân hàng. Nhiều mã trong đó có tăng tốt như STB, TCB, MBB và BID cùng tiến trung bình hơn 3%.
+- VN-Index giao dịch ảm đạm và sụt giảm hơn 14 điểm. Khối ngoại duy trì bán ròng trên cả hai sàn HOSE và HNX. Bên cạnh đó, dòng tiền thông minh tiếp tục có sự sụt giảm cho thấy rủi ro điều chỉnh là vẫn con.
+PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Mẫu hình Black Marubozu xuất hiện
+Trong phiên giao dịch ngày 05/07/2022, VN-Index xuất hiện mẫu hình Black Marubozu cho thấy nhà đầu tư đang khá bi quan.
+Vùng 1,150-1,200 điểm (tương đương đáy cũ tháng 05/2022) sẽ tiếp tục bị thử thách. Nếu vùng này bị thủng thì tình hình sẽ rất bi quan.
+Chỉ báo Stochastic Oscillator đã cho bán nên rủi ro điều chỉnh vẫn còn.
+
+HNX-Index - Không thể vượt qua Middle của Bollinger Bands
+Trong phiên giao dịch ngày 05/07/2022, HNX-Index điều chỉnh trở lại sau khi test đường Middle của Bollinger Bands.
+Fibonacci Retracement 61.8% đang duy trì trong vùng 240-250 điểm. Nếu chỉ số tiếp tục điều chỉnh trong thời gian tới thì đây sẽ là ngưỡng hỗ trợ quan trọng.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index tiếp tục nằm dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ tăng lên.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 05/07/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 05/07/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

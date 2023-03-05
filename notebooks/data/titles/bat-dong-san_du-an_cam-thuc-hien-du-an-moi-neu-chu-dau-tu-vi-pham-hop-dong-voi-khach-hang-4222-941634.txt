@@ -1,0 +1,1 @@
+Cấm thực hiện dự án mới nếu chủ đầu tư vi phạm hợp đồng với khách hàng

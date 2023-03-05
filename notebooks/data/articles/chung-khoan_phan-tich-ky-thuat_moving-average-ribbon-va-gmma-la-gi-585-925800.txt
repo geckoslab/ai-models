@@ -1,0 +1,18 @@
+Moving Average Ribbon và GMMA (Guppy Multiple Moving Average) là những chỉ báo được cấu thành từ nhiều đường trung bình động và mang lại hiệu quả khá cao ở thị trường chứng khoán Việt Nam.
+Dải MAR - Moving Average Ribbon
+Theo sách phân tích kỹ thuật từ A đến Z, dải trung bình động (Moving Average Ribbon) là kỹ thuật phân tích được sử dụng để xác định sự thay đổi xu hướng, thực hiện bằng cách vẽ một nhóm các đường trung bình động có số kỳ khác nhau lên cùng một đồ thị. Khi tất cả các đường trung bình động này đều dịch chuyển cùng một hướng thì xu hướng được coi là mạnh. Sự đảo ngược xu hướng được xác nhận khi các trung bình động cắt nhau và dịch chuyển về hướng ngược lại.
+Cách sử dụng dải MAR cũng giống như cách sử dụng riêng lẻ 1 đường MA. Cách sử dụng đầu tiên cần phải nhắc đến đó là việc so sánh với giá. Tín hiệu mua xuất hiện khi giá cắt lên trên dải MAR, tín hiệu bán xuất hiện ở tình huống ngược lại.
+Cách sử dụng thứ 2 là điểm giao cắt của các đường trung bình động. Trong trường hợp giá cổ phiếu đang có 1 xu hướng giảm trước đó, các đường MA của dải trung bình động cắt nhau hướng lên thì tín hiệu mua sẽ xuất hiện và xu hướng tăng đang dần quay trở lại.
+Ngoài ra, Moving Average Ribbon còn được xem là kháng cự/hỗ trợ di động khá hiệu quả của giá cổ phiếu. Tuy nhiên, do cùng tính chất như một đường trung bình nên MAR cũng sẽ xuất hiện nhiều tín hiệu nhiễu khi xu hướng chung của giá là sideway.
+
+Giá cổ phiếu MSN phản ứng rất tốt với dải MAR trong một thời gian dài. Nguồn: VietstockUpdater
+Dải GMMA - Guppy Multiple Moving Average
+Dải GMMA (Guppy Multiple Moving Average) được hình thành bởi 2 dải MAR (Moving Average Ribbon) kết hợp với nhau. Dải ngắn hạn được sự kết hợp giữa các đường MA ngắn hạn gọi là Short-term MAR (màu xanh lá cây). Dải dài hạn gồm một nhóm MA dài hạn hơn gọi là Long-term MAR (màu đỏ).
+Một tính chất quan trọng cần được lưu ý khi sử dụng GMMA là việc giao cắt của các dải ngắn và dài. Trong trường hợp, Short-term MAR cắt lên trên Long-term MAR và duy trì ở trên trong khoảng thời gian dài thì xu hướng tăng của giá cổ phiếu đang rất mạnh mẽ. Các chức năng còn lại cũng cách sử dụng GMMA giống như một dải MAR riêng lẻ.
+
+Xu hướng tăng mạnh của giá cổ phiếu DPR bắt đầu từ tháng 08/2020. Nguồn: VietstockUpdater
+GMMA cho phép nhà đầu tư hạn chế các tín hiệu nhiễu một cách bài bản và chuyên nghiệp. Nếu bạn đã từng dùng các đường MA riêng lẻ thì chắc hẳn đã từng rất đau đầu với việc lọc nhiễu cho hệ thống giao dịch của mình.
+Tuy nhiên, sức mạnh thực sự của MAR và GMMA là nó cho phép các nhà đầu tư “đến sau” có thể nắm bắt được những cơ hội trading giữa chừng. Giả sử khi giá vừa mới bắt đầu bứt phá bạn vẫn còn phân vân và chưa vào hàng.
+Thay vì cứ đứng nhìn cổ phiếu tăng trưởng mãi thì chúng ta có thể tận dụng các khoảng nghỉ và dịch chuyển ngang của giá để xuống tiền. Khi đó sẽ tránh được sự phung phí cơ hội trong những đợt tăng trưởng dài hạn.
+Bộ phận Phân tích Kỹ thuật, Phòng Tư vấn Vietstock
+FILI

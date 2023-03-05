@@ -1,0 +1,17 @@
+Thị trường chứng khoán đôi khi được ví như sòng bạc. Điều này gợi ý cho chúng ta về việc có thể cải thiện kỹ năng giao dịch trên thị trường chứng khoán bằng cách tránh lặp lại những sai lầm ta thường gặp phải khi tham gia vào những trò chơi may rủi như poker…
+Sai lầm thứ nhất: Không quản lý được tiền vốn
+Nếu quan điểm người tồn tại tới cuối cùng là người chiến thắng đúng với cả thị trường chứng khoán và sòng bạc, thì điều quan trọng nhất một trader (nhà giao dịch) cần làm là quản lý được số vốn mà mình có và xây dựng một chiến lược phân bổ vốn phù hợp. Theo kết quả nghiên cứu của Brinson, Hood, Beebower (1986), chiến lược phân bổ vốn chiếm tới 94% thành công của một danh mục đầu tư. Vì vậy, sai lầm đầu tiên là không quản lý được tiền vốn, bạn dễ dàng đặt cược mà không quan tâm tới tỷ lệ thắng cược, sẵn sàng all in (tất tay) vào những game có xác suất thắng thấp thì số tiền vốn của bạn sẽ nhanh chóng “bốc hơi” chỉ trong một thời gian ngắn.
+
+Bài học rút ra:
+Công thức Kelly có thể được áp dụng để tính toán số tiền cược hay số tiền phân bổ vào một giao dịch dựa trên xác suất thắng của lần chơi/giao dịch đó.
+Sai lầm thứ hai: Kiểm soát cảm xúc và lỗi tư duy
+Cảm xúc chính là kẻ thù nguy hiểm nhất của trader. Khi bạn đã có một hệ thống giao dịch hoàn chỉnh và khá tự tin vào cách nó có thể thành công thì điều còn lại là bạn cần kiểm soát cảm xúc và các lỗi trong tư duy. Đừng để những cảm xúc sau chi phối việc bạn ra quyết định:
+
+Hãy thu thập đầy đủ thông tin từ nhiều phía và suy xét kỹ lưỡng trước khi ra quyết định để tránh những lỗi trong tư duy sau:
+
+Bài học rút ra từ sai lầm này là:
+- Đừng để những cảm xúc tiêu cực ảnh hưởng tới quyết định của bạn. Hãy dừng lại, nghỉ ngơi cho tới khi nào tinh thần của bạn ở trạng thái tốt nhất.
+- Xây dựng một kỷ luật trong giao dịch chặt chẽ, đặt các ngưỡng stop loss.
+- Quyết định cần phải được đưa ra dựa trên thông tin không chỉ từ một phía và không nên dựa trên cảm xúc.
+Hà Văn Luật
+FILI

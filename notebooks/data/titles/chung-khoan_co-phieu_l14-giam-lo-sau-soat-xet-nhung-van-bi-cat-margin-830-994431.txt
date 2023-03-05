@@ -1,0 +1,1 @@
+L14 giảm lỗ sau soát xét nhưng vẫn bị cắt margin

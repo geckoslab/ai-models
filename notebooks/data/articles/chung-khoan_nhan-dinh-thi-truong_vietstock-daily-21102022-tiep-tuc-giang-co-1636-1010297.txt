@@ -1,0 +1,29 @@
+VN-Index giảm điểm nhẹ và hình thành mẫu hình nến Spinning Top. Bên cạnh đó, khối lượng giao dịch tiếp tục duy trì ở mức thấp cho thấy nhà đầu tư đang hạn chế giao dịch trong bối cảnh không có nhiều thông tin hỗ trợ trên thị trường.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 20/10/2022
+- Thị trường chứng khoán giao dịch ảm đạm trong phiên 20/10/2022. Cụ thể, VN-Index kết phiên giảm 0.15%, xuống mức 1,058.45 điểm; HNX-Index giảm 0.89%, xuống còn 225.88 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 353 triệu đơn vị, tăng nhẹ 2.05% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 13.31%, đạt hơn 32 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 183 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 10 tỷ đồng.
+- Thị trường chứng khoán tiếp tục có phiên giao dịch ảm đạm. Các chỉ số chính cùng kết phiên trong sắc đỏ. Trong đó, VN-Index giảm điểm ngay những phút đầu và duy trì đà giảm của mình trong phần lớn thời gian trong phiên khi hàng loạt các Large Cap có mức giao dịch dưới tham chiếu. Dòng tiền có sự trở lại ở nửa cuối phiên chiều khiến VN-Index nhanh chóng phục hồi và có lúc còn hiện sắc xanh. Tuy nhiên, lực hồi phục này là không đủ để giữ chỉ số tăng điểm. VN-Index sụt giảm xuống dưới tham chiếu trở lại trong phiên ATC và kết thúc với mức giảm nhẹ 1.62 điểm, xuống còn 1,058.45 điểm.
+- Cùng xu hướng với thị trường chung, VN30-Index kết phiên giảm nhẹ 0.39 điểm, xuống còn 1.053.26 điểm. Bên mua trở lại ở cuối phiên chiều giúp cho các cổ phiếu trong rổ VN30 có sự hồi phục trở lại so với đầu phiên. Kết thúc giao dịch, rổ VN30 có 14 mã tăng, 14 mã giảm và 2 mã tham chiếu. Giao dịch tiêu cực nhất rổ là các mã TCB, VIB, GVR. Ở chiều ngược lại, FPT là cổ phiếu tăng mạnh nhất rổ.
+- Về mức độ ảnh hưởng, VCB, GAS, FPT, VNM là những cổ phiếu có tác động tích cực nhất đến VN-Index. Tính riêng VCB đã góp gần 2 điểm tăng cho chỉ số này. Trong khi đó, TCB, HPG, MBB, GVR và DGC là những mã có tác động tiêu cực nhất.
+- Ông lớn trong ngành công nghệ thông tin là FPT tiếp tục có phiên tăng tốt với mức tăng 3.05%, qua đó nối dài chuỗi tăng giá của cổ phiếu này trong những phiên gần đây.
+- Ngành nông - lâm - ngư giao dịch ảm đạm với sự sụt giảm mạnh của các cổ phiếu chăn nuôi như HAG giảm mạnh 5.14%, BAF sụt 3.87%, DBC lao dốc 3.68%. Các cổ phiếu khác như HNG, ASM, SJF cũng đều hiện sắc đỏ.
+- VN-Index giảm điểm nhẹ và hình thành mẫu hình nến Spinning Top. Bên cạnh đó, khối lượng giao dịch tiếp tục duy trì ở mức thấp cho thấy nhà đầu tư đang hạn chế giao dịch trong bối cảnh không có nhiều thông tin hỗ trợ trên thị trường.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Spinning Top hình thành
+Trong phiên giao dịch ngày 20/10/2022, VN-Index tiếp tục giảm và hình thành mẫu hình nến Spinning Top cho thấy nhà đầu tư đang khá phân vân trong ngắn hạn.
+Vùng 1,000-1,030 điểm nhiều khả năng sẽ được test lại trong thời gian tới. Vùng này trùng với nhiều ngưỡng kỹ thuật quan trọng trong quá khứ như đáy cũ tháng 01/2021, đỉnh cũ đã bị vượt qua của tháng 11/2019... nên có ý nghĩa hết sức quan trọng.
+
+HNX-Index - Sự thận trọng gia tăng
+Trong phiên giao dịch ngày 20/10/2022, HNX-Index hình thành cây nến đỏ và tiếp tục đà giảm của phiên trước đó.
+Khối lượng giao dịch tiếp tục ở mức thấp và nằm dưới mức trung bình 20 ngày. Điều này cho thấy sự thận trọng là rất lớn và nhà đầu tư hạn chế giao dịch trong ngắn hạn.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index vượt lên trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 20/10/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 20/10/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

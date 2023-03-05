@@ -1,0 +1,37 @@
+Các chuyên gia chỉ ra những điểm yếu của ChatGPT, bác bỏ lo ngại rằng trí tuệ nhân tạo sẽ hoàn toàn thay thế sức lao động của con người.
+Nếu dành thời gian lướt mạng xã hội những tuần qua, nhiều người chắc chắn đã nghe nói về ChatGPT. Chatbot thông minh và gây chú ý này được phát triển bởi OpenAI, ra mắt vào tháng 11/2022.
+GPT (Generative Pre-training Transformer) là một mạng lưới thần kinh AI (ANNs) được đào tạo trên khối lượng lớn văn bản trực tuyến, để tạo ra các phản hồi tự nhiên, giống con người.
+Nó có thể trả lời các câu hỏi phức tạp, viết truyện cười, viết mã máy tính, viết bài luận cấp đại học, giải thích các khái niệm khoa học ở nhiều cấp độ và thậm chí đưa ra lời khuyên y tế, tất nhiên luôn đi kèm với tuyên bố từ chối trách nhiệm rằng người dùng phải tự xác minh mọi thứ trong thế giới thực.
+Màn trình diễn của siêu AI khiến mọi người kinh ngạc, đến mức một số thậm chí còn tuyên bố: "Google đã chết". Số khác nghĩ rằng sức ảnh hưởng của ChatGPT còn vượt xa sự sụp đổ của Google: Công việc của con người cũng đang bị đe dọa.
+The Guardian tuyên bố "các giáo sư, lập trình viên và nhà báo đều có thể mất việc chỉ sau vài năm". Ấn phẩm Information Age của Hiệp hội Máy tính Australia cũng đưa ra bài viết với nội dung tương tự. Telegraph nhận định chatbot có thể "làm việc tốt hơn bạn".
+Thế nhưng, ChatGPT tốt đẹp đến đâu vẫn có những điểm yếu. Nhiều người bác bỏ lo ngại rằng trí tuệ nhân tạo cuối cùng có thể hoàn toàn thay thế sức lao động của con người.
+Trong bài bình luận trên CNET, tác giả Jackson Ryan, từng là một nhà khoa học, nhận định: "ChatGPT là một AI tuyệt vời, nhưng công việc của con người vẫn an toàn, ít nhất là ở hiện tại. Các mô hình ngôn ngữ lớn có thể gây ngạc nhiên và thích thú, song chúng không hoàn hảo".
+Trước những tranh luận trái chiều, Paul Hennessy, Giám đốc điều hành Shutterstock, công ty hợp tác với OpenAI để tung ra một công cụ tích hợp DALL-E 2, nói: "Tôi nghĩ có hai sự lựa chọn trên thế giới này. Hãy là những người thợ rèn đang nói: 'Ôtô sẽ loại bỏ chúng ta khỏi ngành sản xuất móng ngựa', hoặc là những nhà lãnh đạo kỹ thuật có thể đưa mọi người vào thế giới mới".
+Lỗ hổng
+Ví dụ về nhược điểm của siêu AI được thể hiện trong câu chuyện xuất bản trên Information Age. Ấn phẩm đã sử dụng ChatGPT để viết toàn bộ câu chuyện về chatbot này và đăng thành phẩm kèm theo một đoạn giới thiệu ngắn.
+Tác phẩm đạt yêu cầu khi cung cấp khá đầy đủ các thông tin và sắp xếp một cách mạch lạc. Nhưng khi "viết" tác phẩm, ChatGPT cũng tạo ra các trích dẫn giả và gán chúng cho một nhà nghiên cứu của OpenAI là John Smith.
+Nhiều người lo ngại siêu AI đe dọa công việc của con người. Ảnh: Reuters.
+Điều này nhấn mạnh sự thất bại của một mô hình ngôn ngữ lớn như ChatGPT: Không biết cách tách biệt thực tế và hư cấu. Chatbot không thể được đào tạo để làm như vậy. Đó chỉ là một công cụ tổ chức từ, một AI được lập trình để có thể viết các câu mạch lạc.
+Đây là sự khác biệt quan trọng giữa chatbot và con người. Vì vậy, về cơ bản, điều này không cho phép ChatGPT (hoặc mô hình ngôn ngữ lớn cơ bản được xây dựng trên GPT 3.5 của OpenAI) viết tin tức hoặc phát biểu về các vấn đề hiện tại.
+Biên tập viên khoa học của CNET Jackson Ryan viết: "ChatGPT chắc chắn không thể làm công việc của một nhà báo. Nói nó có thể thay thế là hạ thấp hoạt động báo chí.
+ChatGPT không ra ngoài thế giới để nói chuyện, phỏng vấn nhân vật, không thể đọc được cảm xúc trên gương mặt Kylian Mbappe khi anh vô địch World Cup 2018, cũng chắc chắn không nhảy lên một con tàu đến Nam Cực để viết về những trải nghiệm của mình".
+Hỗ trợ hơn là thay thế
+ChatGPT hoàn toàn xứng đáng được khen ngợi và những cải tiến mà OpenAI đã thực hiện nên được ghi nhận. Nhưng lý do chính khiến siêu AI này thực sự thu hút chú ý là vì nó rất dễ tiếp cận.
+Việc phát triển một chatbot mà bạn có thể tương tác và chia sẻ ảnh chụp màn hình từ đó sẽ thay đổi hoàn toàn cách sử dụng và nói về sản phẩm. Điều này cũng góp phần khiến chatbot bị cường điệu hóa đôi chút.
+ChatGPT là AI thứ hai gây xôn xao trong những tháng gần đây.
+Ngày 15/11/2022, Meta đã thử nghiệm AI ngôn ngữ của riêng mình, được đặt tên là Galactica. Giống như ChatGPT, đây là một mô hình ngôn ngữ lớn và được thổi phồng về khả năng "tổ chức khoa học".
+Chatbot này có thể đưa ra câu trả lời cho những câu hỏi như "Hấp dẫn lượng tử là gì?" hoặc giải các phương trình toán học. Giống như ChatGPT, người dùng đặt câu hỏi và Galactica cung cấp câu trả lời.
+Galactica đã được đào tạo dựa trên hơn 48 triệu bài báo khoa học, website, sách giáo khoa, ghi chú bài giảng, bách khoa toàn thư và đưa ra những câu trả lời nghe có vẻ thuyết phục. Nhóm phát triển đã thổi phồng chatbot như một cách để sắp xếp kiến thức, lưu ý rằng nó có thể tạo ra các bài báo khoa học.
+Nhưng vấn đề là chatbot cũng tạo ra văn bản vô nghĩa, thông tin sai lệch nghe có hợp lý khi thêm vào các tài liệu tham khảo.
+Chatbot đang hỗ trợ thay vì thay thế con người trong các công việc. Ảnh: Reuters.
+Hàng loạt chuyên gia đã lên tiếng chỉ trích AI của Meta. Technology Review gọi Galactica là "chatbot không có đầu óc", không thể phân biệt thật giả. Michael Black, Giám đốc Viện Hệ thống thông minh Max Planck (Đức), người chuyên nghiên cứu về công nghệ học sâu, nói: "Những vấn đề sai lệch, thiên vị được AI làm cho có vẻ đúng đắn và có căn cứ. Tôi nghĩ điều này rất nguy hiểm".
+Miles Cranmer, nhà vật lý thiên văn tại Đại học Princeton, nhận định rằng sẽ thật sai lầm nếu tin tưởng chatbot hoàn toàn.
+Phản ứng dữ dội đã buộc nhóm nghiên cứu của Meta gỡ bỏ Galactica chỉ sau hai ngày.
+ChatGPT dường như không muốn đi theo vết xe đổ. Nó giống như một phiên bản "thông minh hơn" của Galactica, với bộ lọc mạnh hơn nhiều.
+Ví dụ, trong khi Galactica đưa ra các cách chế tạo bom, ChatGPT sẽ loại bỏ các yêu cầu mang tính phân biệt đối xử, xúc phạm hoặc không phù hợp. ChatGPT cũng đã được đào tạo để có thể trò chuyện và thừa nhận những sai lầm của mình.
+Tuy nhiên, về cơ bản, ChatGPT vẫn bị giới hạn giống như tất cả mô hình ngôn ngữ lớn khác. Mục đích của nó là xây dựng các câu, đoạn văn hoặc bài tiểu luận bằng cách nghiên cứu hàng tỷ từ tồn tại trên web. Sau đó, chatbot đặt các từ đó lại với nhau, dự đoán cách tốt nhất để sắp xếp, cấu trúc chúng.
+Nhưng khi làm như vậy, ChatGPT cũng có thể ngụy tạo thông tin sai thành trông có vẻ đúng giống như Galactica.
+Làm thế nào bạn có thể học hỏi từ một AI có thể không cung cấp câu trả lời trung thực? Nó có thể thay thế những loại công việc nào? Và làm thế nào bạn có thể biết khi nào AI không chính xác, nếu mọi thứ đều có vẻ rất thuyết phục?
+Vì vậy, mặc dù chatbot ngày càng thông minh, vẫn thật khó để biết AI này sẽ khiến các giáo sư, lập trình viên hoặc nhà báo mất việc như thế nào. Thay vào đó, trong ngắn hạn, ChatGPT chỉ mới dừng lại ở việc hỗ trợ, chứ không phải thay thế con người trong công việc.
+Lê Vy
+ZING

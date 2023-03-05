@@ -1,0 +1,30 @@
+VN-Index tiếp tục giảm điểm trong phiên giao dịch với khối lượng giao dịch thấp cho thấy tâm lý nhà đầu tư đang khá bi quan trong ngắn hạn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 08/09/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 08/09/2022. Cụ thể, VN-Index giảm 0.69%, xuống mức 1,234.6 điểm; HNX-Index giảm 0.67%, xuống còn 282.15 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 558 triệu đơn vị, giảm 29.98% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 20.77%, đạt gần 80 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 74 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 2 tỷ đồng.
+- Nối tiếp đà giảm trước đó thị trường chứng khoán trong nước tiếp tục có phiên giao dịch tiêu cực. Dù khởi đầu phiên giao dịch trong sắc xanh, nhưng VN-Index lại nhanh chóng lùi về tham chiếu và giằng co lên xuống quanh ngưỡng này trong phiên sáng. Diễn biến tương tự diễn ra ở đầu phiên chiều. Bên bán chiếm ưu thế hơn trong phiên ATO đã kéo chỉ số kết phiên với mức giảm 8.57 điểm, xuống còn 1,234.6 điểm.
+- VN30-Index dành phần lớn thời gian giao dịch trong sắc xanh. Tuy nhiên, áp lực bán trong phiên ATO đã kéo chỉ số này dừng chân trong sắc đỏ với mức giảm nhẹ 3.38 điểm (-0.27%). Rổ VN30 kết phiên với 18 mã giảm, 11 mã tăng và 1 mã đứng giá. Trong đó, VIB là cổ phiếu giảm giá mạnh nhất khi lùi 3.7%. Theo sau là các mã GVR, BID, VCB cùng giảm mạnh. Ở chiều ngược lại, MSN, SAB và NVL là những cổ phiếu tăng giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, BID, HVN, GVR, SHB, CTG là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Riêng BID đã lấy đi hơn 1 điểm của chỉ số này. Trong khi đó, MSN, NVL, MWG và SAB là những cổ phiếu có đóng góp tích cực nhất.
+- Về nhóm ngành, thiết bị điện là một trong những ngành giảm mạnh nhất thị trường trong phiên. Ông lớn GEX lao dốc mạnh 5.04%. Cổ phiếu SAM giảm mạnh 3.33%, MBG sụt 2.6%, RAL lùi 1.27%...
+- Bên cạnh đó, nhóm cổ phiếu ngân hàng, chứng khoán cũng giao dịch khá ảm đạm. Trong đó, BID lao dốc 2.91%, VCB giảm mạnh 2.5%, các cổ phiếu VPB, TCB, CTG, MBB cùng hiện sắc đỏ tiêu cực. Các ông lớn trong nhóm chứng khoán như SSI, VCI, SHS hay VIX cũng lùi sâu xuống dưới mức tham chiếu.
+- Trong ngành thực phẩm đồ uống, trong khi VNM dừng chân tại tham chiếu thì hai ông lớn MSN và SAB lại có phiên giao dịch sôi động. Hai cổ phiếu trên cùng tăng tốt lần lượt ở mức 2.68% và 1.97%.
+- VN-Index tiếp tục giảm điểm trong phiên giao dịch với khối lượng giao dịch thấp cho thấy tâm lý nhà đầu tư đang khá bi quan trong ngắn hạn.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Rơi xuống dưới đường SMA 100 ngày
+Trong phiên giao dịch ngày 08/09/2022, VN-Index tiếp tục điều chỉnh và rơi xuống dưới đường SMA 100 ngày. Nếu ngưỡng này bị phá vỡ hoàn toàn thì rủi ro sẽ rất cao.
+Khối lượng giao dịch ở mức thấp và nằm dưới trung bình 20 ngày trong bối cảnh chỉ báo Stochastic Oscillator và MACD đều cho bán mạnh.
+
+HNX-Index - Bám vào Lower Band trong quá trình đi xuống
+Trong phiên giao dịch ngày 08/09/2022, HNX-Index bám vào Lower Band của Bollinger Bands trong bối cảnh dải này đang bung nén mạnh.
+Chỉ số nằm dưới cả hai đường SMA 50 ngày và SMA 100 ngày cho thấy xu hướng trung hạn bị đảo ngược từ tăng sang giảm. Vì vậy, nhà đầu tư cần thận trọng trong những phiên tới.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 08/09/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 08/09/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

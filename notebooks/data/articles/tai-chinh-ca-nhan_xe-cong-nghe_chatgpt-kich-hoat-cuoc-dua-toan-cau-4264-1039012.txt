@@ -1,0 +1,22 @@
+Sự xuất hiện của ChatGPT đã buộc các công ty công nghệ khác phải gấp rút hơn. Họ muốn nhanh chóng có chỗ đứng và đánh chiếm thị phần trên thị trường AI chatbot đầy hứa hẹn.
+Cuộc đua AI chatbot đã bắt đầu, và người giành chiến thắng sẽ nắm giữ cả kỷ nguyên sắp tới trên thị trường tìm kiếm trực tuyến. Ảnh: Bloomberg.
+Mới đây, Microsoft đã thông báo việc tích hợp AI chatbot ChatGPT với công cụ tìm kiếm Bing. Google cũng kêu gọi toàn bộ công ty tham gia thử nghiệm Bard - chatbot cạnh tranh trực tiếp với ChatGPT. Theo nhà báo Parmy Olson của Bloomberg, cuộc đua AI chatbot đã bắt đầu, và người giành chiến thắng sẽ nắm giữ cả kỷ nguyên sắp tới trên thị trường tìm kiếm trực tuyến.
+Thực tế, cuộc đua không chỉ gói gọn giữa 2 gã khổng lồ công nghệ Mỹ. Một số tập đoàn công nghệ lớn của Trung Quốc cũng gia nhập cuộc đua AI chatbot. Hãng tìm kiếm Trung Quốc Baidu mới đây tiết lộ sẽ ra mắt dự án Ernie Bot - một chatbot tương tự ChatGPT - vào tháng 3.
+Trong thông báo mới nhất, Baidu dự định tích hợp Ernie vào dịch vụ tìm kiếm của mình. Ngoài ra, công nghệ AI mới tương tự ChatGPT của Alibaba đang được thử nghiệm nội bộ. Còn mục tiêu của JD.com là tích hợp công nghệ tương tự ChatGPT vào một số sản phẩm.
+"Microsoft có thể đang chiếm thế thượng phong trong cuộc đua tìm kiếm AI. Nhưng tập đoàn công nghệ Mỹ cũng đối mặt với sự cạnh tranh gay gắt", Business Insider bình luận.
+"Chúng tôi cho rằng công nghệ này sẽ được tất cả hãng tìm kiếm tận dụng. Câu hỏi đặt ra là liệu Microsoft có nắm giữ lợi thế vượt trội so với đối thủ hay không", các nhà phân tích tại Guggenheim Research đặt câu hỏi.
+Microsoft sẽ phải gấp rút hơn để giữ vị thế dẫn đầu. Trong nhiều thập kỷ qua, Bing luôn xếp sau Google Search với khoảng cách rất lớn. Các ước tính chỉ ra Bing chỉ chiếm thị phần 9%, còn Google Search nắm giữ tới 80% thị trường.
+Microsoft hứa hẹn rằng với Bing tích hợp ChatGPT, người dùng sẽ được trải nghiệm những tính năng mới với các gợi ý về thương hiệu, địa điểm du lịch thông qua những câu hỏi đơn giản. Điều này giúp người dùng tìm kiếm thông tin nhanh hơn dù nhập ít từ khóa hơn.
+Còn ông Sundar Pichai - CEO Alphabet, công ty mẹ của Google - cho biết mô hình Bard sẽ cho phép Google không chỉ trả lời những câu hỏi như piano có bao nhiêu phím. Người dùng còn có thể biết học piano có dễ hơn guitar hay không.
+Microsoft có thể đang chiếm thế thượng phong trong cuộc đua tìm kiếm AI. Nhưng tập đoàn công nghệ Mỹ cũng đối mặt với sự cạnh tranh gay gắt
+Business Insider
+Theo giới quan sát, sự bùng nổ của ChatGPT đã đẩy giới công nghệ toàn cầu vào một cuộc đua AI chatbot. Dù muốn hay không, ngày càng nhiều công ty công nghệ phải gấp rút công bố về công cụ tương tự ChatGPT của riêng mình và đẩy nhanh phát triển.
+Họ muốn nhanh chóng có chỗ đứng và giành giật thị phần trên thị trường AI chatbot đầy hứa hẹn. Nhưng dĩ nhiên, điều đó có thể mang lại rủi ro.
+Giá cổ phiếu Alphabet đã lao dốc 9% trong phiên giao dịch ngày 8/2 sau khi Bard chia sẻ thông tin không chính xác trong một video quảng cáo đăng tải trên Twitter. Ở chiều ngược lại, giá cổ phiếu Microsoft tăng khoảng 3%.
+Sai sót của Bard cho thấy những thách thức mà Google đang phải đối mặt trong cuộc đua AI chatbot khốc liệt. Vụ việc cũng làm giá trị vốn hóa thị trường của công ty mẹ Google bốc hơi 140 tỷ USD.
+Ngay cả ChatGPT cũng đang gây tranh cãi. Theo nhà báo Parmy Olson của Bloomberg, hệ thống AI của cả OpenAI và Google đều học hỏi hàng tỷ từ ngữ trên Internet. Nhưng chúng cũng có thể sử dụng những thông tin không chính xác, thậm chí sai lệch. "Trong kịch bản tồi tệ, Google thậm chí có khả năng vướng phải phản ứng dữ dội từ các đối tác kinh doanh của mình", cây bút của Bloomberg cảnh báo.
+ChatGPT đã nhanh chóng thu hút sự chú ý sau khi ra mắt vào năm ngoái. Nhưng kể từ đó tới nay, những lo ngại xoay quanh khả năng cung cấp các thông tin chính xác của AI chatbot này ngày càng tăng lên.
+Hiện OpenAI chưa đưa ra những số liệu về tần suất cung cấp thông tin sai lệch của ChatGPT. Startup này chỉ nói rằng công cụ đang được cải thiện nhờ các bản cập nhật thường xuyên.
+Nhưng theo bà Olson, các lỗi xuất hiện trong 5-10% thời gian bà sử dụng ChatGPT. Và điều này khiến câu hỏi về tính chính xác của công cụ này càng trở nên nhức nhối.
+Thảo My
+ZING.VN

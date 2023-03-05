@@ -1,0 +1,43 @@
+Nếu như P/E và P/B là những phương pháp quen thuộc và được sử dụng rộng rãi thì P/S có vẻ hơi xa lạ với những nhà đầu tư mới. Trong quá trình sử dụng bạn cần chú ý một số yếu tố để tránh ra quyết định sai lầm.
+
+Nguồn: Investment U - The Educational Arm of The Oxford Club
+Chỉ số P/S là gì?
+Tỷ lệ giá trên doanh thu (P/S) là tỷ lệ so sánh thị giá cổ phiếu của doanh nghiệp so với doanh thu mà doanh nghiệp tạo ra. Tỷ lệ này cho biết nhà đầu tư sẵn sàng trả bao nhiêu cho mỗi đồng doanh thu cho một cổ phiếu.
+Chỉ số P/S được tính theo công thức sau đây:
+
+Hoặc có thể tính đơn giản bằng:
+
+Chỉ số P/S bao nhiêu thì tốt?
+Một tỷ lệ P/S thấp có thể ngụ ý rằng cổ phiếu bị định giá thấp, còn khi tỷ lệ P/S cao hơn mức trung bình có thể cho thấy rằng cổ phiếu được định giá quá cao hoặc một kỳ vọng trong tương lai rằng kết quả kinh doanh của doanh nghiệp sẽ có sự đột biến.
+Ở các công ty có tốc độ tăng trưởng cao hoặc có lợi thế cạnh tranh mạnh mẽ, P/S sẽ được trả với mức cao. Còn ngược lại đối với các doanh nghiệp trong các ngành có mức độ cạnh tranh cao, doanh nghiệp có tính rủi ro lớn, nợ vay nhiều thì P/S được trả ở mức thấp hơn.
+Phương pháp định giá P/S nên được sử dụng khi nào?
+Tỷ lệ P/S được coi là một thước đo đặc biệt tốt để đánh giá các công ty có tiềm năng tăng trưởng cao hoặc các công ty trong các ngành có tính chu kỳ có thể không cho thấy lợi nhuận ròng thực tế hàng năm.
+Phương pháp P/S cũng được áp dụng cho các công ty đang bị lỗ vì lợi nhuận có thể âm chứ doanh thu ít khi rơi vào trường hợp này. Các công ty khởi nghiệp có thể là một ví dụ điển hình. Những doanh nghiệp dạng này luôn tập trung vào gia tăng doanh thu và thị phần chứ lợi nhuận không phải là ưu tiên lớn nhất.
+Nhưng điều này không có nghĩa là tỷ lệ P/S không áp dụng được trong việc phân tích các công ty hiện đang có lãi. Đây là phương pháp cực kỳ hữu ích khi muốn định giá các trong ty hoạt động theo chu kỳ, không có lãi hoặc các công ty trong ngành mới phát triển.
+Phương pháp P/S hạn chế được việc bóp méo số liệu tài chính về lợi nhuận ròng thông qua các thủ thuật chỉnh sửa khấu hao, lợi nhuận khác... Vì doanh thu cũng biến động ít hơn lợi nhuận nên P/S cũng ổn định hơn
+Nhược điểm ở đâu?
+Một trong những nhược điểm của tỷ lệ P/S là nó không tính đến việc liệu công ty có tạo ra được bất kỳ khoản lợi nhuận nào hay không. Do đó, chỉ số P/S không thể được coi là yếu tố quyết định duy nhất của việc định giá. Không phải cứ công ty nào có hệ số P/S thấp cũng sẽ được coi là hấp dẫn.
+Đối với các công ty có các khoản đầu tư vào công ty liên doanh - liên kết, doanh thu sẽ không ghi nhận các khoản này mà chỉ ghi nhận vào lợi nhuận. Lúc này P/S sẽ không bao quát được hết kết quả kinh doanh của doanh nghiệp. Nói cách khác, các công ty kiểu như Tổng Công ty Máy động lực và Máy nông nghiệp Việt Nam - CTCP (UPCoM: VEA), CTCP Cơ Điện Lạnh (HOSE: REE), Tập đoàn Dệt May Việt Nam (UPCoM: VGT)… thì sẽ không phù hợp với P/S.
+Yếu tố giá biến động liên tục nên P/S cũng chỉ mang tính chất thời điểm và cũng sẽ thay đổi liên tục. P/S cũng không quan tâm đến việc sử dụng đòn bẩy hoạt động của doanh nghiệp. Việc so sánh các công ty trong các ngành khác nhau cũng có thể không chính xác. Ví dụ, các công ty bán lẻ trang sức sẽ có cách bán hàng khác nhau và khả năng tiêu thụ của thị trường cũng khác khi so sánh với các công ty bán lẻ thực phẩm.
+Doanh thu vẫn có thể bị điều chỉnh bằng cách các khoản phải thu hay phải trả và thật chất thì không có dòng tiền thật chảy vào hoặc ra khỏi doanh nghiệp.
+Ứng dụng vào định giá cổ phiếu hoặc các mảng kinh doanh của doanh nghiệp
+Giống như các phương pháp so sánh ngang khác, P/S phù hợp nhất khi được áp dụng cho các công ty trong cùng lĩnh vực. Khoảng thời gian 12 tháng điển hình được sử dụng khi tính về doanh thu thuần hoặc doanh thu 4 quý gần nhất hay là doanh thu cả năm trong trong quá khứ. Tỷ lệ P/S dựa trên doanh thu dự báo cho năm tương lai được gọi là tỷ lệ P/S dự phóng.
+Để định giá bằng phương pháp P/S, cần thực hiện các bước tính được trình bày như sau:
+Bước 1: Tìm một nhóm các doanh nghiệp cùng ngành có quy mô bằng hoặc lớn hơn so với doanh nghiệp đang định giá sau đó tính P/S của từng doanh nghiệp đó.
+Ví dụ ở đây người viết sẽ định giá về PLX và tìm nhóm các công ty cùng ngành với nó. Do PLX là doanh nghiệp ở vị trí dẫn đầu trong lĩnh vực kinh doanh, phân phối, bán lẻ xăng dầu ở Việt Nam. Vì vậy, người viết sử dụng các doanh nghiệp cùng ngành trong khu vực (Ấn Độ, Trung Quốc, Malaysia, Hàn Quốc…) làm cơ sở tính giá trị hợp lý của cổ phiếu.
+
+Nguồn: Investing
+Bước 2: Dự phóng doanh thu của doanh nghiệp
+Tại thời điểm viết bài đã có doanh thu 9 tháng năm 2021, người viết sẽ tiến hành dự phóng doanh thu cả năm 2021 bằng cách tính tốc độ tăng trưởng 9 tháng năm 2021 so với năm 2020, sau đó giả định tốc độ tăng trưởng cho cả năm 2021.
+Bước 3: Định giá cổ phiếu của doanh nghiệp bằng cách nhân P/S trung vị ngành với Doanh thu trên mỗi cổ phần của doanh nghiệp.
+
+Nguồn: VietstockFinance
+Đây là số liệu được người viết tính toán vào tháng 11/2021. Theo phương pháp định giá P/S, giá trị hợp lý của PLX nằm ở mức 64,236 đồng/cp. Tại thời điểm bài viết, giá cổ phiếu PLX giao dịch trên thị trường quanh mức 59,000-62,000 đồng/cp. Có thể thấy rằng, giá trị cổ phiếu của PLX đã gần như bằng mức giá mục tiêu của PLX do vậy, nhà đầu tư không nên mua vào tại vùng giá này vì có thể bị thua lỗ ngắn hạn.
+Thực tế thị trường đã cho thấy kết quả này là chính xác. Giá cổ phiếu giảm mạnh và nhanh chóng về lại vùng 51,000-52,000 trong tháng 12/2021 (bằng mức chiết khấu 20% của giá mục tiêu 64,236 đồng).
+Phương pháp P/S cũng được sử dụng khá nhiều trong mô hình SOTP (Sum Of The Parts). Lý do là vì doanh nghiệp thường công bố cơ cấu doanh thu trong báo cáo tài chính, báo cáo thường niên… nên nhà đầu tư có thể dễ dàng tính ra doanh thu cụ thể của từng mảng kinh doanh. Từ đó, chúng ta có thể định giá từng mảnh đó rồi cộng chúng lại với nhau để ra được giá trị của doanh nghiệp.
+Bên dưới là bảng tính toán để ra được giá trị của mảng Bách hóa xanh của CTCP Đầu tư Thế giới Di động (HOSE: MWG) vào tháng 12/2021. Kết quả tính được là khoảng 28,000 tỷ đồng.
+
+
+Nguồn: VietstockFinance
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

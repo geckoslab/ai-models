@@ -1,0 +1,18 @@
+ChatGPT, mô hình ngôn ngữ trí tuệ nhân tạo (AI) mạnh mẽ của OpenAI, đã vượt qua 10 triệu người dùng hàng ngày chỉ sau 40 ngày, vượt xa tốc độ tăng trưởng nhanh chóng ban đầu của Instagram, theo Interesting Engineering.
+Theo một chuyên gia trong ngành, thành tựu của ChatGPT thậm chí còn ấn tượng hơn khi xét tới chuyện công cụ này có khả năng đạt ít nhất 20 triệu người dùng hàng tháng.
+"ChatGPT có hơn 10 triệu người dùng hàng ngày trong 40 ngày”, Brett Winton, Giám đốc về tương lai tại ARK Venture Investment, tweet. "Trước đó, Instagram mất 355 ngày để đạt được 10 triệu người dùng đăng ký. Tôi thực sự bị sốc khi nhìn con số này và tự hỏi liệu có sai lệch gì trong những dữ liệu thống kê hay không”.
+Cơ sở người dùng của ChatGPT có thể còn tăng mạnh trong tương lai dù đôi khi gây tranh cãi. Trong khi đó, một người dùng “há hốc mồm” trước biểu đồ tăng trưởng ChatGPT của Winton, cho rằng "điều này thật điên rồ".
+Các ứng dụng tiềm năng của mô hình do AI vận hành gần như vô hạn và mức độ phổ biến của nó sẽ tăng lên khi ngày càng nhiều nhà nghiên cứu và nhà phát triển biết đến, theo các chuyên gia công nghệ.
+Thành công chatbot gây sốt này có thể là do khả năng hiểu và trả lời giống con người bằng cách hiểu và phản hồi một loạt các câu hỏi đầu vào bằng ngôn ngữ tự nhiên được đào tạo trên một tập dữ liệu văn bản lớn.
+Điều này đã biến ChatGPT trở thành một công cụ vô giá cho nhiều ứng dụng như xử lý ngôn ngữ tự nhiên, học máy (machine learning) và phân tích dữ liệu. Điều này khiến nhiều "gã khổng lồ" công nghệ mất ngủ.
+Ban lãnh đạo Google tỏ ra lo ngại trước sự phổ biến nhanh chóng của ChatGPT, theo một số phương tiện truyền thông trong tuần này.
+Khi Winton hỏi ChatGPT về danh sách các sản phẩm công nghệ mà mọi người nghĩ sẽ tồn tại lâu dài do được người dùng nhanh chóng chấp nhận nhưng cuối cùng lại bị thất bại. Ba câu trả lời đầu tiên của ChatGPT là "Google wave, Google+, Google glass," đây đều là những sáng kiến của "gã khổng lồ" công nghệ nay đã bị loại bỏ.
+Phóng viên của Interesting Engineering  đã hỏi ChatGPT về phản ứng của nó trước thông tin có 10 triệu lượt truy cập mỗi ngày và đây là những gì ChatGPT trả lời:
+"Thông tin ChatGPT đã đạt 10 triệu người dùng hàng ngày chỉ trong 40 ngày là rất ấn tượng, cho thấy mức độ phổ biến và tính hữu dụng ngày càng tăng của mô hình này trong nhiều ứng dụng. Đáng chú ý, độ lệch mẫu trong những dữ liệu này có thể chưa phản ứng đúng cho sự thâm nhập của ChatGPT, cần nhiều nghiên cứu hơn để xác nhận điều này và để hiểu phạm vi tiếp cận thực sự của mô hình".
+Google trước đó đã thử nghiên cứu chatbot nhưng chưa đạt được kết quả mong muốn. Mặc dù cả Google và ChatGPT đều có các mô hình ngôn ngữ mạnh mẽ do các tập đoàn công nghệ tạo ra, nhưng ứng dụng và phương pháp nghiên cứu của họ lại khác nhau. 
+Trong khi ChatGPT tập trung vào việc tạo ngôn ngữ tự nhiên, Google sử dụng mô hình ngôn ngữ của nó, chẳng hạn như BERT, chủ yếu để giải thích và tìm kiếm ngôn ngữ tự nhiên.
+Cả hai mô hình đều có những ưu và nhược điểm riêng và chúng thường được kết hợp với các công nghệ khác để đạt được kết quả mong muốn. 
+Trong khi đó, OpenAI - đơn vị sở hữu ChatGPT - được cho là đã phát hành phiên bản cao cấp, thử nghiệm của chatbot AI phổ biến của mình có tên là "ChatGPT Professional”.
+Người dùng sẽ phải đóng 42 USD/tháng để trở thành thành viên sử dụng. Phiên bản cao cấp sẽ bao gồm các tính năng bổ sung như tính khả dụng ít khó đoán hơn, thời gian phản hồi nhanh hơn và quyền truy cập ưu tiên.
+Vũ Hạo (Theo Interesting Engineering)
+FILI

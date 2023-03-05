@@ -1,0 +1,20 @@
+OpenAI, công ty đằng sau công cụ gây bão gần đây ChatGPT, dự định tung ra gói tính phí 20 USD/tháng, cung cấp cho người dùng dịch vụ ổn định hơn, nhanh hơn cùng các tính năng tiên tiến so với bản miễn phí.
+
+Gói trả phí mang tên ChatGPT Plus được đưa ra sau khi công cụ ChatGPT được công bố công khai cách đây 2 tháng và nhanh chóng trở thành cơn sốt trên toàn cầu nhờ khả năng tạo nội dung cho người dùng một cách nhanh chóng.
+Hiện nay, những ai mua gói trả phí sẽ được quyền truy cập chung vào ChatGPT ngay cả trong thời gian cao điểm, thời gian phản hồi nhanh hơn và quyền truy cập ưu tiên vào các tính năng và cải tiến mới.
+Đương nhiên, người dùng vẫn có thể sử dụng phiên bản miễn phí như bình thường. Tuy nhiên, số lượng người truy cập miễn phí sẽ bị giới hạn trong thời gian cao điểm.
+“Chúng tôi yêu quý những người dùng miễn phí và vẫn sẽ phát hành ChatGPT miễn phí. Với gói dịch vụ tính phí, chúng tôi sẽ có thể cung cấp truy cập miễn phí đến nhiều đối tượng nhất có thể”, đại diện OpenAI nói.
+Hiện ChatGPT Plus sẽ chỉ dành riêng cho người dùng tại Mỹ. Người dùng sẽ phải đăng ký vào danh sách chờ và sẽ được mời trải nghiệm dịch vụ tính phí của chatbot AI trong vài tuần tới, OpenAI cho biết. Startup AI nói rằng sẽ tiếp tục thử nghiệm các gói dịch vụ giá rẻ, gói dành cho doanh nghiệp, gói dựa trên dữ liệu… để đáp ứng nhu cầu đa dạng.
+“Chúng tôi đã khởi chạy ChatGPT dưới dạng bản xem trước nghiên cứu để có thể tìm hiểu thêm về điểm mạnh và điểm yếu của hệ thống, đồng thời thu thập phản hồi của người dùng nhằm giúp chúng tôi cải thiện những hạn chế của nó”, OpenAI cho biết.
+“Kể từ đó, hàng triệu người đã gửi phản hồi cho chúng tôi. Chúng tôi đã thực hiện một số cập nhật quan trọng và chúng tôi đã thấy người dùng tìm thấy giá trị trong nhiều trường hợp sử dụng các tính chuyên nghiệp hơn, bao gồm soạn thảo và chỉnh sửa nội dung, lên ý tưởng, trợ giúp lập trình và tìm hiểu các chủ đề mới”.
+OpenAI gợi ý rằng ChatGPT Plus có thể là kế hoạch đầu tiên trong một số kế hoạch sắp tới. Trong bài đăng trên blog, công ty nói rằng họ đang “tích cực khám phá” các tùy chọn cho các gói dịch vụ khác với chi phí thấp hơn, kế hoạch kinh doanh và gói dữ liệu ngoài API.
+Kể từ khi ra mắt vào cuối tháng 11/2022, ChatGPT tạo nên cơn sốt trên toàn cầu khi có thể viết bài, tạo câu chuyện, viết nhạc, làm thơ, lập trình. Một số CEO thậm chí còn dùng công cụ này để viết email hoặc làm công việc kế toán.
+Tăng trưởng người dùng thần tốc
+Theo thống kê của ngân hàng đầu tư UBS, dựa trên dữ liệu từ Similar Web, ChatGPT, được OpenAI công bố cuối tháng 11/2022, thu hút 57 triệu người dùng sau một tháng ra mắt. Tính đến 31/1, siêu AI đã đạt 100 triệu người dùng. Trung bình mỗi ngày trong tháng 1, nó có 13 triệu người truy cập.
+Theo thống kê của Sensor Tower, nền tảng video ngắn TikTok cần 9 tháng sau khi phát hành toàn cầu để đạt 100 triệu người dùng, trong khi Instagram mất tới 2,5 năm, còn ứng dụng dịch Google Translate là 6,5 năm. "Trong 20 năm theo dõi không gian Internet, đây là ứng dụng dành cho người dùng đạt tốc độ tăng trưởng cao nhất chúng tôi ghi nhận được. Thật phi thường", nhà phân tích Lloyd Walmsley của UBS nói với CBS MoneyWatch.
+ChatGPT có thể trở thành một công cụ vô giá cho nhiều ứng dụng như xử lý ngôn ngữ tự nhiên, học máy (machine learning) và phân tích dữ liệu. Điều này khiến nhiều "gã khổng lồ" công nghệ mất ngủ. Ban lãnh đạo Google tỏ ra lo ngại trước sự phổ biến nhanh chóng của ChatGPT, theo một số phương tiện truyền thông trong tuần này.
+Google trước đó đã thử nghiên cứu chatbot nhưng chưa đạt được kết quả mong muốn. Mặc dù cả Google và ChatGPT đều có các mô hình ngôn ngữ mạnh mẽ do các tập đoàn công nghệ tạo ra, nhưng ứng dụng và phương pháp nghiên cứu của họ lại khác nhau.
+Trong khi ChatGPT tập trung vào việc tạo ngôn ngữ tự nhiên, Google sử dụng mô hình ngôn ngữ của nó, chẳng hạn như BERT, chủ yếu để giải thích và tìm kiếm ngôn ngữ tự nhiên.
+Cả hai mô hình đều có những ưu và nhược điểm riêng và chúng thường được kết hợp với các công nghệ khác để đạt được kết quả mong muốn. 
+Vũ Hạo (Theo CNN)
+FILI

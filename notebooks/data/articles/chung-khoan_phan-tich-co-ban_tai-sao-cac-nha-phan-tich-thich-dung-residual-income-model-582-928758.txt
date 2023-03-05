@@ -1,0 +1,38 @@
+Residual Income Model (RIM) là một mô hình định giá được xây dựng nền tảng lý thuyết bởi Alfred Marshall từ năm 1890. Đây có lẽ là một trong những mô hình có “tuổi đời” lâu nhất.
+Thu nhập thặng dư (RI - Residual Income) là gì?
+Thu nhập thặng dư là phần thu nhập cao hơn lợi suất yêu cầu tối thiếu của nhà đầu tư. Nguyên tắc chính của phương pháp này chính là so sánh lợi nhuận với chi phí cơ hội trên tổng vốn của doanh nghiệp. Phương pháp này ra đời nhằm giải quyết một điểm yếu trong hệ thống kế toán truyền thống. Lợi nhuận ròng của doanh nghiệp trừ chi phí lãi vay, nhưng hoàn toàn bỏ qua chi phí vốn (cost of equity) của doanh nghiệp. Do vậy, một doanh nghiệp có lợi nhuận ròng chưa hẳn là đem lại thêm giá trị gì cho nhà đầu tư vì có khả năng lợi nhuận này còn thấp hơn mức lợi nhuận mục tiêu mà họ đề ra.
+
+Nguồn: Internet
+Công thức tính Residual Income
+Cách tính thông thường:
+Residual Income = Lợi nhuận ròng của doanh nghiệp – (Vốn chủ sở hữu doanh nghiệp)*(Lợi suất yêu cầu)
+Cách tính thay thế:
+NOPAT (lợi nhuận hoạt động kinh doanh thuần sau thuế) = Lợi nhuận ròng + (Chi phí lãi vay) * (1 - mức thuế suất)
+Capital charge = Equity charge + Debt charge = (Vốn chủ sở hữu) * (Tỷ suất sinh lời yêu cầu) + (Chi phí nợ) * (1 - mức thuế suất) * (Vốn chủ sở hữu)
+Residual Income = NOPAT - Capital Charge.
+Sử dụng thu nhập thặng dư trong định giá
+Công ty mà phần thu nhập thặng dư lớn hơn 0 thì sẽ tạo thêm giá trị cho nhà đầu tư. Do vậy, cổ phiếu của doanh nghiệp sẽ kỳ vọng được giao dịch cao hơn giá trị sổ sách trên một cổ phiếu (Chỉ số P/B >1). Ngược lại, nếu doanh nghiệp có thu nhập thặng dư bé hơn 0, sẽ làm giảm giá trị cho nhà đầu tư. Giá cổ phiếu do đó sẽ được kỳ vọng giao dịch thấp hơn giá trị sổ sách trên một cổ phiếu (Chỉ số P/B < 1).
+Các bước để định giá bằng Residual Income Model
+Bước 1: Nhà đầu tư sẽ dự phóng lợi nhuận ròng của doanh nghiệp cho tương lai (n = 5-10 năm từ thời điểm định giá).
+Bước 2: Tính toán giá trị vốn chủ sở hữu của doanh nghiệp cho các năm kế tiếp bằng công thức
+Vốn chủ sở hữu năm T = Vốn chủ sở hữu năm T-1 + Lợi nhuận ròng năm T-1 - Tiền trả cổ tức năm T-1
+Bước 3: Tính giá trị thặng dư Residual Income theo các năm
+Bước 4: Chiết khấu giá trị thặng dư về thời điểm hiện tại
+
+Trong đó:
+Tốc độ tăng trưởng có thể được tính bằng công thức
+Tốc độ tăng trưởng =
+
+Hoặc, tốc độ tăng trưởng có thể sử dụng tăng trưởng GDP thực của quốc gia. Thông thường giá trị này rơi vào khoảng 1-5%.
+Bước 5: Sau khi có được giá trị chiết khấu của thu nhập thặng dư, chúng ta sẽ chia tổng giá trị này cho số lượng cổ phiếu lưu hành. Sau đó ta sẽ tính giá trị hợp lý của cổ phiếu theo công thức ở dưới.
+Giá trị hợp lý của cổ phiếu = Giá trị sổ sách của cổ phiếu + Tổng giá trị hiện tại của thu nhập thặng dư.
+Ứng dụng thực tế vào định giá ở VIệt Nam
+Ngân hàng TMCP Kỹ thương Việt Nam (HOSE: TCB) trong những năm gần đây đã liên tục cho thấy mức tăng trưởng ấn tượng và là một trong những ngân hàng có tiềm năng tăng trưởng tốt nhất ngành.
+Với các giả định Tỷ suất sinh lợi yêu cầu là 11% và Tốc độ tăng trưởng dài hạn là 5% ta sẽ có các tính toán như bảng bên dưới.
+
+Nguồn: VietstockFinance
+Cổ phiếu TCB định giá theo phương pháp RIM sẽ có kết quả là 60,157 đồng/cp. Như vậy, nếu giá ở quanh mức 48,000 (chiết khấu 20%) thì sẽ rất hấp dẫn. Thực tế thị trường đầu năm 2022 cho thấy nhận định này đúng khi giá TCB vừa về gần ngưỡng 48,000 đã bật dậy mạnh mẽ.
+
+Nguồn: https://stockchart.vietstock.vn/
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

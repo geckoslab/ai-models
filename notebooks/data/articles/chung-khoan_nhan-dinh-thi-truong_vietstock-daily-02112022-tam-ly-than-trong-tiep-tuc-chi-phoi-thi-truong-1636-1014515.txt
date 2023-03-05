@@ -1,0 +1,29 @@
+VN-Index biến động nhẹ trong phiên và hình thành mẫu hình nến Inverted Hammer cho thấy tâm lý giằng co của nhà đầu tư. Vùng 1,000-1,050 điểm vẫn đang là kháng cự mạnh của chỉ số này trong thời gian tới.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 01/11/2022
+- Thị trường chứng khoán giao dịch tích cực phiên giao dịch 01/11/2022. Cụ thể, VN-Index tăng 5.81 điểm, lên mức 1,033.75 điểm; HNX-Index tăng 1.93 điểm, đạt mức 212.36 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 576 triệu đơn vị, giảm nhẹ 0.97% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 5.68%, đạt gần 54 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 765 tỷ đồng, bán ròng trên sàn HNX với giá trị gần 1 tỷ đồng.
+- Sự tích cực trở lại với thị trường chứng khoán trong nước khi các chỉ số chính cùng hiện sắc xanh tương đối tích cực. VN-Index tăng điểm ngay những phút đầu phiên theo đà tăng của nhóm Large Cap. Chỉ số có lúc còn tăng hơn 15 điểm thì bắt đầu suy yếu dần. Trong phiên chiều, VN-Index nhiều lần giảm về tham chiếu. Tuy nhiên, sự tham gia của dòng tiền trong phiên chiều đã giữ lại sắc xanh cho chỉ số này. VN-Index kết phiên tăng 5.81 điểm, dừng chân ở mức 1,033.75 điểm.
+- VN30-Index kết phiên tăng 11.25 điểm (+1.1%), lên mức 1,038.09 điểm. Bên mua cũng chiếm ưu thế hơn trong rổ VN30 với 17 mã tăng, 9 mã giảm và 4 mã đứng giá. Trong đó, giao dịch nổi bật nhất là cổ phiếu VRE khi bật tăng 6.7%. Theo sau là các mã TPB, VPB, STB… Ở chiều ngược lại, HPG, PDR và MWG là những cổ phiếu giảm giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, VCB, VPB, VRE, TCB và VNM là những cổ phiếu có tác động tích cực nhất đến VN-Index. Tính riêng VCB đã góp gần 2 điểm tăng cho chỉ số này. Trong khi đó, HPG, BID, MWG là những mã có tác động tiêu cực nhất.
+- Ngành ngân hàng tiếp tục có phiên giao dịch ấn tượng khi là một trong những ngành có tác động tích cực nhất đến thị trường trong phiên. Nhiều cổ phiếu lớn trong nhóm có mức tăng tốt như VPB (+5.2%), TCB (+4.27%), VCB (+2.04%), MBB (+1.69%)… Nổi bật có thể kể tới TPB khi có phiên tăng tốt hơn 5% với khối lượng đột biến. Giá cổ phiếu cũng đã cho cắt lên đường Middle của Bollinger Bands, và nếu dải này bung nén thì tình hình sẽ chuyển biến tích cực hơn.
+- Ngành vật liệu xây dựng lại có phiên giao dịch ảm đạm khi là hai ông lớn ngành thép là HPG và NKG lại giảm mạnh lần lượt ở mức 4.15% và 4.8%. Tuy nhiên, sắc xanh vẫn còn hiện diện ở nhiều cổ phiếu trong nhóm như HSG (+2.19%), POM (+5.48). Một số cổ phiếu khác như VCS, HT1, BTS cùng đều tăng tốt.
+- VN-Index biến động nhẹ trong phiên và hình thành mẫu hình nến Inverted Hammer cho thấy tâm lý giằng co của nhà đầu tư. Vùng 1,000-1,050 điểm vẫn đang là kháng cự mạnh của chỉ số này trong thời gian tới.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Inverted Hammer xuất hiện
+Trong phiên giao dịch ngày 01/11/2022, VN-Index tiếp tục giằng co và hình thành mẫu hình nến Inverted Hammer cho thấy tâm lý nhà đầu tư đang giằng co mạnh. Đường Middle của Bollinger Bands chưa bị phá vỡ nên rủi ro còn khá cao.
+Vùng 1,000-1,050 điểm đã bị phá vỡ hoàn toàn nên trở thành kháng cự mạnh. Đây sẽ là thử thách rất lớn của VN-Index. Nếu chỉ số rơi xuống mốc 1,000 trong tuần này thì sẽ làm cho triển vọng tương lai càng trở nên tiêu cực hơn.
+
+HNX-Index - Nhịp hồi xuất hiện
+Trong phiên giao dịch ngày 01/11/2022, HNX-Index tăng điểm trở lại cho thấy tâm lý nhà đầu tư đã bớt bi quan hơn.
+Khối lượng giao dịch có sự cải thiện và nằm trên mức trung bình 20 ngày chứng tỏ dòng tiền chưa rời bỏ thị trường.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm sâu dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) vẫn còn ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 01/11/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 01/11/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

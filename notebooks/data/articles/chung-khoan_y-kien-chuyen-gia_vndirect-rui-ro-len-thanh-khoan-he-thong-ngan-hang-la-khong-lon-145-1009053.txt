@@ -1,0 +1,23 @@
+Theo báo cáo “Ngành ngân hàng - So sánh tương quan khả năng đáp ứng rủi ro thanh khoản giữa các ngân hàng niêm yết”, nhà phân tích của CTCK VNDirect cho rằng rủi ro thanh khoản hệ thống ngân hàng là không lớn do được hỗ trợ bởi nhiều yếu tố.
+Thanh khoản hệ thống căng thẳng trong bối cảnh nhiều thông tin bất lợi
+Thanh khoản căng thẳng đã và đang là vấn đề đáng quan tâm đối với hệ thống ngân hàng gần đây. Nguyên nhân trước hết đến từ áp lực tỷ giá khi USD liên tục tăng giá và phá đỉnh 20 năm do Fed tiếp tục duy trì chính sách thắt chặt tiền tệ ít nhất là đến năm sau. Theo đó, Ngân hàng Nhà nước (NHNN) đã phải nâng mặt bằng lãi suất điều hành và hút nội tệ về để cân bằng tỷ giá, trong bối cảnh công cụ dự trữ ngoại hối không còn quá dồi dào. Hơn nữa, thanh khoản hệ thống tiếp tục chịu áp lực trong bối cảnh các sai phạm về phát hành trái phiếu doanh nghiệp đang bị điều tra. Lãi suất qua đêm trên thị trường liên ngân hàng trong 2 tuần đầu tháng 10 có thời điểm chạm mức ~8%, cao nhất từ trước đến nay.
+Rủi ro lên thanh khoản hệ thống ngân hàng là không lớn
+VNDirect cho rằng điều này được hỗ trợ bởi nhiều nguyên nhân: Thứ nhất, những nỗ lực chống “đô la hóa” nền kinh tế và tăng cường giao dịch không tiền mặt của các cơ quan quản lý trong thời gian qua đã mang lại hiệu quả đáng kể. Theo quan sát của VNDirect, niềm tin của người dân vào hệ thống ngân hàng được củng cố cũng như thói quen tích trữ tiền mặt đã giảm xuống rõ rệt, giúp thanh khoản hệ thống được bù đắp.
+Thứ hai, vĩ mô ổn định và sức khỏe hệ thống ngân hàng hiện tại đã được cải thiện rất nhiều. Hiện, gần 20 ngân hàng thương mại (NHTM), chiếm đa số trong hệ thống, đã được công nhận đạt chuẩn Basel II, trong đó có 6 ngân hàng đã hoàn thành cả 3 trụ cột. Bên cạnh đó, tỷ lệ vốn ngắn hạn và cho vay trung và dài hạn đã giảm xuống 34% vào ngày 01/10/2022; và sẽ tiếp tục giảm xuống mức 30% từ ngày 01/10/2023.
+Quản trị rủi ro thanh khoản là một trong những trụ cột chính của Basel III
+Hiện, chưa có lộ trình cụ thể cho các NHTM triển khai Basel III; tuy nhiên, đã có một số ngân hàng tiên phong trong việc triển khai bộ tiêu chuẩn để củng cố thêm chất lượng về vốn và đặc biệt là năng lực thanh khoản - đơn cử như TPB, VCB, HDB, VIB, OCB… Cần nhấn mạnh rằng, việc nâng cao quản trị rủi ro về thanh khoản cũng là mục tiêu quan trọng đối với tất cả NHTM để đạt tiêu chuẩn Basel III - tiêu chuẩn giúp các ngân hàng nâng cao khả năng chống chịu trước các rủi ro và góp phần ngăn ngừa tổn thất có thể xảy ra.
+ 
+So sánh tương quan một số tiêu chí về khả năng đáp ứng rủi ro thanh khoản một số ngân hàng niêm yết
+Để có cái nhìn tổng quan hơn về khả năng chống chịu áp lực rủi ro thanh khoản của từng ngân hàng tại thời điểm hiện tại, VNDirect dựa trên một vài tiêu chí về thanh khoản “L - liquidity” trong mô hình CAMELS. VNDirect cho rằng khi áp lực thanh toán ngắn hạn gia tăng đột biến, rủi ro thanh khoản sẽ được giảm thiểu nếu như ngân hàng đó có:
+1. Tỷ lệ Tài sản thanh khoản/Huy động khách hàng (Liquid asset/Customer deposits): càng cao có nghĩa ngân hàng đó có khả năng dễ dàng chuyển đổi thành tiền mặt, đủ đáp ứng nghĩa vụ thanh toán ngắn hạn.
+2. Tỷ lệ Cho vay khách hàng/Huy động khách hàng (Gross LDR): Tỷ lệ đo lường mức độ dồi dào của thanh khoản, nếu tỷ lệ này càng cao thì ngân hàng đã tối ưu nguồn huy động vốn. Vì vậy, chỉ số này càng thấp càng tốt.
+3. Tỷ lệ Tài sản thanh khoản/Tổng tài sản (Liquid asset/Total asset): Tương tự tiêu chí 1, tỷ lệ này càng cao cho phép ngân hàng đó nhanh chóng đáp ứng đủ nghĩa vụ thanh toán ngắn hạn.
+4. Tỷ lệ Cho vay ngắn hạn/Dư nợ cho vay (Short-term loans/Net loans): Tỷ lệ này càng cao càng tốt.
+5. Tỷ lệ Tiền gửi không kỳ hạn/Tổng huy động khách hàng (CASA - Demand deposit/Customer deposits): Tỷ lệ này càng cao thì ngân hàng đó ít chịu áp lực huy động vốn dài hạn để đáp ứng nhu cầu cho vay.
+6. Tỷ lệ Huy động tiền gửi từ tổ chức/Tổng huy động khách hàng (Nonindividuals/Customer deposits): Từ góc độ thị trường, VNDirect quan sát tỷ lệ tiền gửi của khách hàng tổ chức càng cao thì nguồn vốn huy động của ngân hàng càng ổn định. Vì vậy, tỷ lệ này càng cao thì khả năng đáp ứng thanh toán của ngân hàng càng tốt.
+Nếu sở hữu các đặc điểm trên, ngân hàng có thể đáp ứng được nhu cầu tiền mặt đột biến của khách hàng do vốn huy động đã được tối ưu hóa và không chỉ để phục vụ chủ yếu cho mục đích vay trung và dài hạn.
+Các nhà phân tích của VNDirect cũng đưa ra bảng so sánh đánh giá khả năng đáp ứng rủi ro thanh khoản của 17 ngân hàng niêm yết dựa theo những tiêu chí trên. Để giảm bớt ảnh hưởng của yếu tố thời điểm, VNDirect lấy trung bình số liệu trên BCTC của các ngân hàng tại thời điểm cuối năm 2021 và 30/06/2022. Lưu ý rằng, các mức xếp hạng thấp không có nghĩa ngân hàng đó có rủi ro về thanh khoản.
+
+
+Hàn Đông
+FILI

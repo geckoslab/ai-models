@@ -1,0 +1,33 @@
+Sum-of-the-Parts Valuation (SOTP) là phương pháp xác định giá trị công ty trong đó mỗi công ty con của công ty hoặc bộ phận kinh doanh của nó được định giá riêng biệt và sau đó tất cả chúng được cộng lại với nhau để tạo ra tổng giá trị của công ty.
+Hầu hết các công ty lớn đều có xu hướng hoạt động trong nhiều lĩnh vực kinh doanh khác nhau. Định giá một công ty đa dạng ngành nghề đòi hỏi phải có cách định giá độc lập cho từng lĩnh vực kinh doanh nhất định. Phương pháp định giá công ty theo từng bộ phận và sau đó cộng tất cả lại (Sum-of-the-Parts Valuation) thường được các nhà phân tích thị trường chứng khoán sử dụng trong thực tế để định giá doanh nghiệp.
+Giá trị của mỗi đơn vị hoặc bộ phận kinh doanh được tính toán riêng biệt và có thể được xác định bằng phương pháp định giá phù hợp với bộ phận kinh doanh ấy. Ví dụ: phương pháp chiết khấu dòng tiền (FCFE, FCFF, RIM, DDM), định giá dựa trên phương pháp so sánh ngang (P/E, P/B, P/S) đều có thể sử dụng được trong SOTP.
+
+Phương pháp SOTP phù hợp với đối tượng nào?
+Các công ty báo cáo kết quả kinh doanh theo từng mảng kinh doanh một cách riêng biệt rất phù hợp với phương pháp này. Ví dụ điển hình có thể kể đến là CTCP FPT (HOSE: FPT), CTCP Đầu tư Thế giới Di động (HOSE: MWG)… Nhà đầu tư có thể dễ dàng tiếp cận số liệu về doanh thu, lợi nhuận của các mảng hoạt động trong báo cáo thường niên, thuyết minh báo cáo tài chính…
+Các công ty có tài sản riêng biệt nhau, tức là các bộ phận khác nhau sẽ không sử dụng chung tài sản, máy móc của nhau cũng khá phù hợp. Tuy nhiên, phân rõ giới hạn như thế này ở Việt nam cũng hơi hiếm gặp.
+Các lĩnh vực hoạt động không nhất thiết phải khác nhau hoàn toàn. Trong trường hợp của MWG thì các chuỗi cửa hàng Thế Giới Di Động, Bách Hóa Xanh và Điện Máy Xanh đều là bán lẻ nhưng dải sản phẩm không giống. Trong trường hợp của CTCP Phú Tài (HOSE: PTB) thì công ty đang hoạt động trong những lĩnh vực khác nhau hoàn toàn như bán xe ô tô, sản phẩm gỗ, sản phẩm đá.
+Công thức tính toán:
+SOTP đơn giản được tính là tổng các trị của từng bộ phận kinh doanh của công ty lại.
+SOTP= N1+ N2 +….+ Nn
+Trong đó:
+N1: Định giá mảng kinh doanh 1
+N2: Định giá mảng kinh doanh 2
+Những hạn chế khi ứng dụng SOTP
+Sum-of-the-Parts Valuation (SOTP) phụ thuộc vào việc doanh nghiệp cung cấp đầy đủ thông tin từng mảng kinh doanh. Tuy nhiên, nhiều tập đoàn không cung cấp thông tin đầy đủ và cần thiết để nhà đầu tư có thể ứng dụng phương pháp SOTP vào để định giá. Định giá SOTP chỉ có thể được thực hiện hiệu quả nếu ban lãnh đạo quyết định chia nhỏ các phân khúc và điều hành chúng như một công ty/đơn vị riêng biệt.
+Một vấn đề khác khi sử dụng SOTP mà nhà đầu tư cần lưu ý là trong thực tế, tổng giá trị các bộ phận kinh doanh không phản ánh được giá trị tổng của tập đoàn. Các bộ phận kinh doanh lúc kết hợp kinh doanh sẽ tạo ra một giá trị lớn hơn (hoặc nhỏ hơn) tổng định giá của các bộ phận riêng biệt này lại.
+Ứng dụng thực tế vào CTCP Đầu tư Thế giới Di động (HOSE: MWG)
+Thời điểm định giá trong bài viết MWG được thực hiện vào tháng 08/2021. Lúc này giá trị cổ phiếu đang giao dịch quanh mức 100,000-110,000 đồng/cp và mức định giá theo phương pháp SOTP ở mức 139,437 đồng/cp. Cổ phiếu MWG tới cuối năm 2021 đã vượt qua mức định giá trên.
+MWG sở hữu Thế Giới Di Động và Điện Máy Xanh, 2 đơn vị hiện đang giữ vị thế số 1 về bán lẻ thiết bị công nghệ và điện tử tiêu dùng tại Việt Nam. Cùng với đó là chuỗi cửa hàng Bách Hóa Xanh hoạt động trong lĩnh vực bán lẻ hàng tiêu dùng.
+Với đặc thù là chuỗi bán lẻ, người viết sử dụng P/S là chỉ số chính để định giá các mảng kinh doanh. Với chuỗi kinh doanh Thế giới di động và Điện máy xanh, chuỗi này đã bắt đầu sinh ra lợi nhuận cho MWG nên chúng ta sử dụng thêm chỉ số P/E cho phần định giá của mình.
+Về danh sách so sánh ngang, người viết sử dụng các doanh nghiệp cùng ngành ở khu vực châu Á (Trung Quốc, Ấn Độ, Malaysia, Indonesia, Thái Lan, Đài Loan…) có quy mô, vị thế trong ngành tương đương để làm cơ sở tính giá trị hợp lý của cổ phiếu.
+Để định giá Bách Hóa Xanh, người viết tính được mức P/S trung vị của các doanh nghiệp trong lĩnh vực bán lẻ hàng tiêu dùng là 0.69 lần.
+
+Nguồn: Investing
+Với Thế Giới Di Động và Điện Máy Xanh, mức P/E và P/S trung vị của các doanh nghiệp trong lĩnh vực bán lẻ hàng công nghệ lần lượt là 19.58 và 0.27 lần.
+
+Nguồn: Investing
+Áp dụng mô hình định giá SOTP (Sum-of-the-Parts Valuation) cho các mảng kinh doanh trên, ta có mức định giá lý thuyết của MWG là 139,437 đồng.
+
+Nguồn: VietstockFinance
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

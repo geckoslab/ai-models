@@ -1,0 +1,31 @@
+VN-Index có phiên tăng điểm và lấp đầy Falling Window trước đó. Tuy nhiên, khối lượng giao dịch lại có sự sụt giảm mạnh cùng với tín hiệu bán của chỉ báo Stochastic Oscillator cho thấy rủi ro trong ngắn hạn đang tăng lên.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 30/08/2022
+- Thị trường chứng khoán giao dịch trái chiều trong phiên 30/08/2022. Cụ thể, VN-Index tăng 0.68%, đạt mức 1,279.39 điểm; HNX-Index giảm 0.57%, dừng chân ở mức 293.86 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 474 triệu đơn vị, giảm mạnh 40.33% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 48.03%, đạt hơn 66 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị hơn 14 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 2 tỷ đồng.
+- Sau phiên giảm điểm trước đó, VN-Index có sự hồi phục tương đối tích cực. Sắc xanh lan tỏa trên hầu hết các nhóm ngành khiến chỉ số tăng điểm ngay sau phiên ATO. Đà tăng còn được nới rộng trong phiên sáng khi lực cầu vẫn duy trì mạnh. Phiên chiều, lực bán bắt đầu xuất hiện nhưng không quá lớn. Kết thúc giao dịch, VN-Index tăng 8.59 điểm, dừng chân ở mức 1,279.39 điểm.
+- VN30-Index kết phiên tăng 4.89 điểm (0.38%), lên mức 1,298.14 điểm. Bên mua cũng chiếm ưu thế hơn trong rổ VN30 với 18 mã tăng, 8 mã giảm và 4 mã đứng giá. Giao dịch nổi bật nhất trong rổ là GVR, cổ phiếu này bật tăng hết biên độ. Theo sau là các mã VCB, PDR và BID. Ở chiều ngược lại, SSI, PLX, VIB và MWG là những cổ phiếu giảm mạnh nhất.
+- Về mức độ ảnh hưởng, VCB, GVR, BID và GAS là những cổ phiếu có ảnh hưởng tích cực nhất đến VN-Index. Tính riêng VCB đã góp hơn 4 điểm tăng cho chỉ số này. Trong khi đó, DIG, MWG, PLX và KBC là những mã có tác động tiêu cực nhất.
+- Về nhóm ngành, sản xuất nhựa - hóa chất là ngành tăng mạnh nhất thị trường. Trong đó, nhóm cổ phiếu cao su giao dịch sôi động khi cùng bật tăng tốt. Ông lớn VGR leo dốc tăng trần, PHR và DPR cùng tăng gần 4%. Theo số liệu thống kê của Tổng cục Hải quan, 7 tháng đầu năm 2022, xuất khẩu cao su của Việt Nam sang Thổ Nhĩ Kỳ đạt 20.03 nghìn tấn, trị giá 37.04 triệu USD, tăng 9.9% về lượng và tăng 8.6% về trị giá so với cùng kỳ năm 2021. Thông tin trên đã tác động tích cực đến đà tăng của nhóm cổ phiếu này.
+- Bên cạnh đó, ngành mía đường cũng có phiên tăng tốt. Hơn một năm kể từ ngày Bộ Công Thương áp thuế với đường nhập khẩu (06/2021), kết quả kinh doanh của nhiều doanh nghiệp ngành đường trong niên vụ 2021-2022 đã khởi sắc trở lại. Nhiều cổ phiếu nhòm này cũng ghi nhận phiên tăng giá tích cực như LSS tăng trần, QNS leo dốc 3.9%, SBT tiến 3.4%.
+- VN-Index có phiên tăng điểm và lấp đầy Falling Window trước đó. Tuy nhiên, khối lượng giao dịch lại có sự sụt giảm mạnh cùng với tín hiệu bán của chỉ báo Stochastic Oscillator cho thấy rủi ro trong ngắn hạn đang tăng lên.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Rủi ro vẫn còn hiện diện
+Trong phiên giao dịch ngày 30/08/2022, VN-Index tăng điểm trở lại và lấp đầy Falling Window trước đó.
+Tuy nhiên, chỉ báo Stochastic Oscillator đã hình thành phân kỳ giá xuống 3 đoạn trong vùng overbought. Đồng thời, tín hiệu bán cũng đã xuất hiện nên rủi ro còn khá cao.
+Thêm vào đó, khối lượng giao dịch tăng rớt xuống dưới mức trung bình 20 ngày cho thấy nhà đầu tư đang tỏ ra thận trọng hơn.
+
+HNX-Index - Tình hình chuyển biến xấu
+Trong phiên giao dịch ngày 30/08/2022, HNX-Index tiếp tục điều chỉnh với thanh khoản sụt giảm mạnh cho thấy tình hình đang khá bi quan.
+Thêm vào đó, cổ phiếu đã bám vào đường Lower Band của chỉ báo Bollinger Bands. Nếu dải này bung nén trong các phiên tới thì triển vọng ngắn hạn sẽ bi quan hơn.
+Chỉ báo MACD đã cho bán và có thể cắt xuống ngưỡng 0 nên rủi ro đang tăng lên.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 30/08/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ càng bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 30/08/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

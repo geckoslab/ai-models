@@ -1,0 +1,37 @@
+Các hợp đồng tương lai đồng loạt tăng điểm trong phiên giao dịch ngày 08/02/2023. Basis hợp đồng VN30F2302 thu hẹp so với phiên trước đó và còn giá trị -1.38 điểm. Điều này cho thấy nhà đầu tư đã bớt bi quan hơn so với triển vọng của VN30-Index.
+I. HỢP ĐỒNG TƯƠNG LAI CỦA CHỈ SỐ THỊ TRƯỜNG CHỨNG KHOÁN
+I.1. Diễn biến thị trường
+Các hợp đồng tương lai đồng loạt tăng điểm trong phiên giao dịch ngày 08/02/2023. VN30F2302 (F2302) tăng 0.44%, đạt 1,072 điểm; VN30F2303 (F2303) tăng 0.49%, đạt 1,067.5 điểm; hợp đồng VN30F2306 (F2306) tăng 0.21%, đạt 1,057.2 điểm; hợp đồng VN30F2309 (F2309) tăng 1.19%, đạt 1,062.6 điểm. Hiện tại, chỉ số cơ sở VN30-Index đang ở mức 1,073.38 điểm.
+Trong phiên giao dịch ngày 08/02/2023, hợp đồng VN30F2302 hiện sắc xanh ngay từ đầu phiên, đà tăng được kéo dài đến giữa buổi sáng. Tuy nhiên, lực bán sau đó quay lại khiến hợp đồng bị thu hẹp về gần mức tham chiếu. Kịch bản tương tự diễn ra trong buổi chiều khi F2302 không thể giữ vững nhịp tăng điểm và kết phiên chỉ nhích nhẹ 4.7 điểm.
+Đồ thị trong phiên của VN30F2302
+
+Nguồn: https://stockchart.vietstock.vn/
+Kết phiên, basis hợp đồng VN30F2302 thu hẹp so với phiên trước đó và còn giá trị -1.38 điểm. Điều này cho thấy nhà đầu tư đã bớt bi quan hơn so với triển vọng của VN30-Index.
+Biến động VN30F2302 và VN30-Index
+
+Nguồn: VietstockFinance
+Lưu ý: Basis được tính theo công thức sau: Basis = Giá hợp đồng tương lai - VN30-Index
+Khối lượng và giá trị giao dịch của thị trường phái sinh lần lượt tăng 4.29% và 3.52% so với phiên ngày 07/02/2023. Cụ thể, khối lượng giao dịch F2302 tăng 4.02% với 289,877 hợp đồng được khớp lệnh. Khối lượng giao dịch của F2303 đạt 1,873 hợp đồng, tăng 110.21% so với phiên trước.
+Khối ngoại tiếp tục mua ròng với tổng khối lượng mua ròng trong phiên giao dịch ngày 08/02/2023 đạt 1,715 hợp đồng.
+Biến động khối lượng giao dịch ngày của thị trường phái sinh
+
+Nguồn: VietstockFinance
+I.2. Định giá các hợp đồng tương lai
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 09/02/2023, khung giá hợp lý của các hợp đồng tương lai đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại hợp đồng tương lai.
+I.3. Phân tích kỹ thuật VN30-Index
+Trong phiên giao dịch ngày 08/02/2023, VN30-Index tăng điểm và hình thành mẫu hình nến Spinning Top cho thấy tâm lý giằng co mạnh của nhà đầu tư.
+Chỉ báo ADX liên tục đi xuống và nằm sâu dưới ngưỡng 25 nên xu hướng trong giai đoạn này là tương đối yếu.
+Khối lượng giao dịch giảm về dưới mức trung bình 20 ngày chứng tỏ dòng tiền đang trở nên khá thận trọng
+
+Nguồn: VietstockUpdater
+II. HỢP ĐỒNG TƯƠNG LAI CỦA THỊ TRƯỜNG TRÁI PHIẾU
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 09/02/2023, khung giá hợp lý của các hợp đồng tương lai đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại hợp đồng tương lai.
+Theo định giá trên thì GB05F2303, GB05F2306 và GB05F2309 hiện đang có giá khá hấp dẫn. Nhà đầu tư có thể tập trung chú ý và mua vào hai hợp đồng này trong thời gian tới do các hợp đồng tương lai này đang có giá hời nhất trên thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

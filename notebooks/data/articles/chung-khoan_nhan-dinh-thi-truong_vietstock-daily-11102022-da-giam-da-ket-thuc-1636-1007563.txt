@@ -1,0 +1,29 @@
+VN-Index có phiên giao dịch đảo chiều ấn tượng và kết thúc với mức tăng gần 7 điểm. Khối ngoại cũng trở lại mua ròng trên cả hai sàn HOSE và HNX. Nếu khối ngoại tiếp tục duy trì hành động này trong các phiên tới thì rủi ro sẽ được giảm thiểu.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 10/10/2022
+- Thị trường chứng khoán giao dịch đảo chiều từ đỏ sang xanh trong phiên 10/10/2022. Cụ thể, VN-Index kết phiên tăng 0.63%, lên mức 1,042.48 điểm; HNX-Index tăng 1.66%, đạt mức 229.85 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 542 triệu đơn vị, giảm 31.29% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 28.99%, đạt hơn 59 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 561 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 41 tỷ đồng.
+- Thị trường chứng khoán mở cửa phiên giao dịch thứ Hai đầu tuần với sắc đỏ tương đối tiêu cực. VN-Index giảm mạnh ngay sau phiên ATO. Chỉ số có sự hồi phục nhẹ nhưng lại nhanh chóng nới rộng lại đà giảm của mình sau đó. Sự khởi sắc bắt đầu xuất hiện ở cuối phiên sáng khi lực mua tăng mạnh trở lại, kéo VN-Index trở lại sát mức tham chiếu. Nhiều nhóm ngành bật tăng mạnh trong phiên chiều như thủy sản, bán lẻ hay chứng khoán đã giúp VN-Index lấy lại sắc xanh. Kết thúc giao dịch, VN-Index tăng 6.57 điểm, lên mức 1,042.48 điểm.
+- VN30-Index giao dịch có phần kém tích cực hơn thị trường chung khi giảm nhẹ 0.61 điểm. Tuy nhiên, bên mua lại chiếm ưu thế lớn trong rổ với 17 mã tăng, 10 mã giảm và 3 mã đứng giá. Trong đó, PLX và MWG là những cổ phiếu tăng giá mạnh nhất với mức tăng lần lượt là 5.7% và 5.3%. Theo sau là các cổ phiếu HPG, GAS, CTG. Ở chiều ngược lại, TPB là cổ phiếu giao dịch tiêu cực nhất khi giảm mạnh hết biên độ.
+- Về mức độ ảnh hưởng, GAS, MWG, HPG, BID, CTG là những mã có ảnh hưởng tích cực nhất đến VN-Index. Tính riêng GAS đã góp hơn 2 điểm cho chỉ số này. Trong khi đó, VCB, NVL, TCB và VJC là những cổ phiếu có tác động tiêu cực nhất.
+- Ngành vật liệu xây dựng có phiên giao dịch khởi sắc trở lại khi các cổ phiếu thép cùng tăng tốt. Nổi bật có thể kể tới bộ đôi NKG và HSG cùng tiến hết biên độ, ông lớn HPG cũng tăng mạnh 4.26%. Bên cạnh đó, các cổ phiếu xi măng như HT1 hay BCC đều có mức tăng tốt…
+- Ngành sản xuất nhựa - hóa chất cũng là một trong những ngành tăng tương đối ấn tượng. Bộ đôi DCM và DPM hiện sắc tím khi kết phiên giao dịch. Cổ phiếu hóa chất DGC cũng tăng hết biên độ. Các mã khác như GVR, BMP, PHR, NTP đều hiện sắc xanh tích cực…
+- VN-Index có phiên giao dịch đảo chiều ấn tượng và kết thúc với mức tăng gần 7 điểm. Khối ngoại cũng trở lại mua ròng trên cả hai sàn HOSE và HNX. Nếu khối ngoại tiếp tục duy trì hành động này trong các phiên tới thì rủi ro sẽ được giảm thiểu.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Rủi ro điều chỉnh vẫn còn
+Trong phiên giao dịch ngày 10/10/2022, VN-Index xuất hiện cây nến xanh và hồi phục trở lại cho thấy tình hình đã bớt bi quan hơn.
+Fibonacci Retracement 161.8% (tương đương vùng 1,045-1,050 điểm) đã bị phá vỡ. Theo lý thuyết phân tích kỹ thuật, ngưỡng này sẽ chuyển từ hỗ trợ thành kháng cự.
+
+HNX-Index - Tăng trong thận trọng
+Trong phiên giao dịch ngày 10/10/2022, HNX-Index tăng điểm với khối lượng thấp cho thấy nhà đầu tư đang tỏ ra thận trọng.
+Chỉ báo ADX vẫn đang ở mức rất cao cho thấy đà giảm rất mạnh. HNX-Index đã đạt tới mục tiêu 220-230 điểm nên dự kiến sẽ giằng co gần vùng này trong thời gian tới.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 10/10/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 10/10/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

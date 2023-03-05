@@ -1,0 +1,13 @@
+Trong ngày giao dịch thứ 2, giá cổ phiếu của CTCP VNG (Vinagame, UPCoM: VNZ) vẫn đang dừng ở mức tham chiếu 240,000 đồng/cp với hiện tượng “trắng” bên bán.
+Bước sang ngày thứ 2 kể từ khi cổ phiếu của “kỳ lân công nghệ” Vinagame giao dịch trên UPCoM, phiên chiều 06/01, thị giá VNZ vẫn đang là 240,000 đồng/cp - tương đương mức giá tham chiếu khi mới giao dịch phiên hôm trước. Lượng cầu vẫn lên đến hơn 100 ngàn cp, trong đó hàng chục ngàn cổ giá trần, nhưng bên bán vẫn chưa xuất hiện để khớp lệnh.
+Đã xuất hiện thắc mắc khi nhìn vào bảng điện: Tại sao dù đã là ngày thứ 2, giá trần của VNZ vẫn là 336,000 đồng/cp - tương ứng biên độ 40%?
+Sở dĩ có thắc mắc này có lẽ do đa phần "chứng sĩ" cho rằng biên độ giá trần/sàn 40% so với giá tham chiếu chỉ áp dụng cho phiên giao dịch đầu tiên. Từ phiên thứ 2, biên độ sẽ là 15% so với giá tham chiếu của hôm trước, nghĩa là giá trần của VNZ chỉ là 276,000 đồng/cp?
+Tuy nhiên, tại Mục b, Khoản 2, Điều 18 về “Biên độ dao động giá và giới hạn dao động giá” trong quy chế Đăng ký và Quản lý giao dịch chứng khoán chưa niêm yết của Sở Giao dịch Chứng khoán (SGDCK) Việt Nam ban hành ngày 16/11/2022, biên độ dao động giá 40% với giá tham chiếu được áp dụng cho “Ngày giao dịch đầu tiên của cổ phiếu mới đăng ký giao dịch đến khi có giá tham chiếu được xác lập từ kết quả của phương thức khớp lệnh liên tục”.
+ 
+Ngoài ra, theo Khoản 2, Điều 19 về “Giá tham chiếu” trong quy chế nêu trên, đối với các doanh nghiệp giao dịch trên hệ thống UPCoM, “giá tham chiếu cho ngày giao dịch đầu tiên là giá đấu thành công bình quân hoặc giá phân phối cho nhà đầu tư”.
+
+Trong phiên giao dịch đầu tiên vào ngày 05/01, cổ phiếu VNZ trắng thanh khoản, chưa có giao dịch khớp lệnh nào xuất hiện. Nghĩa là biên độ 40% của mã này sẽ duy trì đến khi có được phiên giao dịch đầu tiên.
+Vậy, với cổ phiếu niêm yết trên 2 sàn HOSE và HNX thì sao? Xét trên Mục b, Khoản 2, Điều 32 trong Quy chế Niêm yết và giao dịch chứng khoán niêm yết do SGDCK Việt Nam ban hành ngày 31/03/2022, nếu tình trạng không có giao dịch diễn ra trong 3 ngày liên tục kể từ ngày giao dịch đầu tiên, “tổ chức niêm yết phải có công văn xác định lại giá tham chiếu, gửi SGDCK trước 16h30 ngày thứ 03 không xác định được giá tham chiếu”.
+
+Hồng Đức
+FILI

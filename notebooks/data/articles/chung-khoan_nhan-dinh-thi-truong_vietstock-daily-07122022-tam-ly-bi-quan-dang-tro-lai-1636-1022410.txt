@@ -1,0 +1,30 @@
+VN-Index có phiên giao dịch ảm đạm khi sụt giảm mạnh gần 45 điểm. Mẫu hình nến Black Marubozu xuất hiện cho thấy nhà đầu tư trên thị trường đang rất bi quan.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 06/12/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 06/12/2022. Cụ thể, VN-Index giảm 4.11%, xuống mức 1,048.69 điểm; HNX-Index giảm 3.26%, xuống còn 212.8 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 1.36 tỷ đơn vị, tăng 22.01% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 57.03%, đạt gần 187 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 784 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 42 tỷ đồng.
+- Thị trường chứng khoán có phiên giao dịch ảm đạm. VN-Index hiện sắc đỏ ngay sau phiên ATO. Nhóm cổ phiếu Large Cap giảm mạnh và kéo theo đó là sự sụt giảm của thị trường. VN-Index dần nới rộng đà giảm của mình. Tình hình còn tiêu cực hơn trong phiên chiều, áp lực bán ồ ạt tăng mạnh khiến VN-Index kết phiên giảm mạnh 44.98 điểm, xuống mức 1,048.69 điểm, đây cũng là mức điểm thấp nhất trong ngày của chỉ số.
+- VN30-Index kết phiên giảm 56.88 điểm (-5.12%), dừng chân ở mức 1,054.06 điểm. Bên bán chiếm ưu thế hoàn toàn trong rổ với 30 mã giảm. Trong đó có tới 9 mã nằm sàn gồm HPG, NVL, STB, VRE, PDR...
+- Về mức độ ảnh hưởng, VCB, VHM, BID, VPB và HPG là những mã có tác động tiêu cực nhất đến VN-Index. Tính riêng VCB đã lấy đi gần 6 điểm của chỉ số này. Trong khi đó, VHC, DCM, HAG, DPM là những mã có đóng góp tích cực nhất, nhưng mức độ ảnh hưởng không quá lớn.
+- Nhóm cổ phiếu chứng khoán đang là một trong những ngành giảm mạnh nhất thị trường. Trong đó, VCI, HCM, SHS, MBS, VIX cùng giảm hết biên độ. Ông lớn SSI lao dốc hơn 6%. Nhiều nhóm ngành khác cũng có mức giảm sâu như ngân hàng, vật liệu xây dựng hay tài chính khác.
+- Đi ngược với xu hướng chung, ngành chế biến thủy sản lại bật tăng ấn tượng trong phiên giao dịch. Các mã VHC, ANV, IDI, ACL tăng hết biên độ, FMC và CMX cùng tăng mạnh hơn 5%. Theo Hiệp Hội Chế biến và Xuất khẩu Thủy sản Việt Nam, tuy có sự giảm tốc những tháng cuối năm, nhưng tính lũy kế 11 tháng 2022, xuất khẩu thuỷ sản của Việt Nam vẫn đạt mức kỷ lục 10.2 tỷ USD, tăng gần 28% so với cùng kỳ năm 2021. Kết thúc năm 2022, xuất khẩu thủy sản Việt Nam dự báo sẽ đạt mốc gần 11 tỷ USD, cao nhất trong lịch sử xuất khẩu của ngành hàng này.
+- Bên cạnh đó, nhóm cổ phiếu phân bón như DCM và DPM cũng tăng tốt lần lượt ở mức 4.34% và 3.05%.
+- VN-Index có phiên giao dịch ảm đạm khi sụt giảm mạnh gần 45 điểm. Mẫu hình nến Black Marubozu xuất hiện cho thấy nhà đầu tư trên thị trường đang rất bi quan.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Black Marubozu hình thành
+Trong phiên giao dịch ngày 06/12/2022, VN-Index hình thành mẫu hình nến Black Marubozu cho thấy thị trường đang thận trọng và bi quan trở lại.
+Chỉ báo Stochastic Oscillator đang duy trì trong vùng quá mua (overbought). Nếu tín hiệu bán xuất hiện trong thời gian tới thì rủi ro sẽ tăng cao.
+
+HNX-Index - Khối lượng đột biến
+Trong phiên giao dịch ngày 06/12/2022, HNX-Index điều chỉnh mạnh và test lại đường SMA 50 ngày. Nếu chỉ số phá vỡ trở lại ngưỡng này thì triển vọng trung hạn sẽ bi quan trở lại.
+Khối lượng giao dịch liên tục duy trì ở mức cao trong thời gian gần đây cho thấy dòng tiền đang quay trở lại thị trường sau một thời gian dài vắng bóng.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 06/12/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ lạc quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 06/12/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

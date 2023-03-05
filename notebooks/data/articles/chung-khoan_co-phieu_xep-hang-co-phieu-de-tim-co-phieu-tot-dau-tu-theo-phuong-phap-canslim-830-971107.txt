@@ -1,0 +1,24 @@
+
+CANSLIM là phương pháp lựa chọn cổ phiếu được William O’Neil – một nhà môi giới chứng khoán rất thành công ở Mỹ đưa ra.
+Nhà đầu tư đọc cuốn sách “Làm giàu từ chứng khoán” của William O’Neil chắc sẽ biết về bảng xếp hạng chỉ số sức mạnh tương quan (RS Rating), bảng xếp hạng EPS rating và bảng xếp hạng SMR rating, đây là các tiêu chí C, A và L trong CANSLIM.
+Các tiêu chí này giúp O’Neil để đánh giá thu nhập tổng hợp của doanh nghiệp (EPS Rating), chất lượng của EPS (SMR rating) và đánh giá sức mạnh giá của một cổ phiếu so với phần còn lại của thị trường (RS Rating).
+Xếp hạng thu nhập trên mỗi cổ phiếu (EPS Rating)
+Đây là chỉ số đánh giá tăng trưởng thu nhập tổng hợp của doanh nghiệp với số liệu EPS của 2 quý gần nhất và bình quân 3 năm gần nhất. Theo tiêu chí này, các doanh nghiệp sẽ được xếp hạng từ 1 (kém nhất) đến 99 (tốt nhất). Một cổ phiếu có EPS Rating bằng 80 điểm có nghĩa rằng cổ phiếu nằm trong nhóm 20% cổ phiếu có tăng trưởng thu nhập tốt nhất thị trường.
+Chất lượng của EPS (SMR Rating)
+Đây là chỉ số đánh giá chất lượng EPS của doanh nghiệp dựa trên việc đánh giá kết hợp 3 yếu tố: tăng trưởng doanh số, tỷ suất lợi nhuận và lợi nhuận trên vốn chủ sở hữu.
+Trong bộ xếp hạng SMR Rating này, các chỉ cổ phiếu sẽ được xếp theo hạng từ E đến A, một cổ phiếu có xếp hạng SMR ở mức A có nghĩa là công ty nằm trong top 20% cổ phiếu có chất lượng tăng trưởng thu nhập dựa trên các yếu tố chính tốt nhất thị trường.
+Xếp hạng Sức mạnh Giá Tương đối (RS Rating)
+Chỉ số này so sánh sự thay đổi giá của một cổ phiếu trong 52 tuần qua với sự thay đổi giá của các cổ phiếu khác có kèm theo trọng số.
+Cổ phiếu trong xếp hạng RS này sẽ được xếp số điểm từ 1 đến 99, với số điểm 99 là tốt nhất.
+Một cổ phiếu có xếp hạng RS bằng 50 nghĩa là hoạt động tốt hơn 50% cổ phiếu khác và cũng yếu hơn 50% cổ phiếu khác trên thị trường.
+Xếp hạng RS Rating dựa trên phân tích kỹ thuật, nhà đầu tư có thể sử dụng thêm yếu tố A/D Rating để đánh giá cổ phiếu theo tiêu phân tích kỹ thuật.
+Xếp hạng tích lũy/phân phối (A/D Rating)
+Chỉ tiêu xếp hạng này dựa trên tương quan so sánh giữ lực mua và lực bán mỗi cổ phiếu rồi từ đó xếp hạng cổ phiếu dựa trên kết quả tích lũy/phân phối.
+Đây một trong những cách tốt nhất để xác định cổ phiếu mà các nhà đầu tư lớn, tổ chức quan tâm.
+A/D là một chỉ số tích lũy sử dụng khối lượng và giá cả để đánh giá một cổ phiếu đang được tích lũy hoặc phân phối. Điều này cung cấp cái nhìn sâu sắc về mức độ mạnh mẽ của một xu hướng. Nếu giá đang tăng nhưng chỉ báo đang giảm, điều này cho thấy khối lượng mua hoặc tích lũy có thể không đủ tốt để hỗ trợ giá tăng và một đợt giảm giá có thể sắp xảy ra.
+Qua việc sử dung xếp hạng A/D, các cổ phiếu sẽ có số điểm trong khoảng từ E  đến A, với A là tốt nhất. Đối với những nhà đầu tư theo trường phái phân tích kĩ thuật thì xếp hạng RS và A/D được chú trọng nhiều hơn.
+Xem xếp hạng tiêu chí này ở đâu?
+Các tiêu chí này có trên IBD Rating, thế nhưng tại IBD chỉ có xếp hạng tại thị trường chứng khoán Mỹ. Vậy để xem được các tiêu chí xếp hạng này tại thị trường Việt Nam nhà đầu tư có thể xem tại: https://robotchungkhoan.nududo.com/
+Dstock cung cấp không chỉ xếp hạng cổ phiếu, mà còn cung cấp các bộ lọc để tìm ra cổ phiếu có Canslim, Sepa, cổ phiếu tăng trưởng…
+Dstock là sản phẩm miễn phí hỗ trợ nhà đầu tư chứng khoán của nududo.com, sản phẩm này giúp nâng cao hiệu quả đầu tư và giảm thiểu rủi ro khi đầu tư chứng khoán. 
+FILI

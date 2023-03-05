@@ -1,0 +1,23 @@
+ChatGPT, chatbot do OpenAI phát triển, đang gây sốt trên toàn cầu vì có thể viết nội dung, trả lời tin nhắn, viết email về sa thải nhân sự và thậm chí còn có thể lý giải về chiến lược đầu tư của Warren Buffett.
+Chính cơn sốt xoay quanh ChatGPT đã thúc đẩy giá cổ phiếu của các công ty có sử dụng trí tuệ nhân tạo (AI).
+
+Cây viết Zahra Tayeb của tờ Business Insider đã hỏi ChatGPT về những phẩm chất cần có của một nhà đầu tư chứng khoán tài năng. ChatGPT đã đưa ra 6 phẩm chất cần có như sau:
+- Kiên nhẫn: Đầu tư chứng khoán thường đòi hỏi tầm nhìn dài hạn và khả năng chịu đựng những biến động ngắn hạn.
+- Kỷ luật: Phát triển và gắn bó với một chiến lược đầu tư đã được cân nhắc kỹ lưỡng. Điều này có thể giúp các nhà đầu tư tránh ra các quyết định bốc đồng dựa trên cảm xúc.
+- Tính khách quan: Tách biệt ý kiến và cảm xúc cá nhân khỏi các quyết định đầu tư có thể dẫn đến các lựa chọn đầu tư hợp lý và sáng suốt hơn.
+- Kiên trì: Đầu tư vào thị trường chứng khoán có thể là một trải nghiệm đầy thử thách và thỉnh thoảng gây chán nản, nhưng chính quyết tâm kiên trì theo đuổi và tuân theo một chiến lược thì có thể dẫn đến thành công lâu dài.
+- Tư duy cởi mở: Giữ một tư duy cởi mở trước thông tin mới và sẵn sàng điều chỉnh chiến lược đầu tư của bạn theo những phát triển mới có thể giúp bạn đón đầu xu thế.
+- Chú ý chi tiết: Nghiên cứu cẩn thận và chú ý đến chi tiết có thể giúp các nhà đầu tư xác định các cơ hội đầu tư tốt nhất và tránh những sai lầm.
+Tuy nhiên, ChatGPT cũng cảnh báo không lời khuyên nào có thể đảm bảo thành công trên thị trường chứng khoán. "Việc có những đặc điểm này không đảm bảo bạn sẽ thành công trên thị trường chứng khoán, nhưng chúng có thể giúp các nhà đầu tư đưa ra quyết định tốt hơn và điều hướng những biến động của thị trường hiệu quả hơn", ChatGPT trả lời.
+Câu trả lời của ChatGPT khiến Zahra Tayeb ấn tượng và làm ông gợi nhớ lại lời khuyên của các nhà đầu tư lỗi lạc như Warren Buffet và Michael Burry. Tỷ phú Warren Buffett cũng nói rằng kỷ luật, tự giác và kiểm soát cảm xúc là chìa khóa cho các nhà đầu tư.
+Vị CEO Berkshire Hathaway – vốn được coi là một hình mẫu trong thế giới đầu tư – cũng thể hiện những đức tính được ChatGPT nhấn mạnh, theo tác giả William Green của cuốn sách "Richer, Wiser, Happier".
+Ông Green cho rằng thành công của Warren Buffett có được nhờ những phẩm chất như sự kiên nhẫn và có một tư duy cởi mở.
+Ông đưa ra minh chứng về câu chuyện Warren Buffett đã rót 36 tỷ USD vào Apple từ năm 2016 đến 2018, dù công nghệ là lĩnh vực nằm ngoài khả năng của ông. Khoản đầu tư vào Apple của Buffettt đến nay có giá trị lên tới 134 tỷ USD.
+Trong khi đó, Gabriel Colominas, nhà phân tích bên mua tại Gesiuris Asset Management và là một người biết nhiều về Michael Burry, cho biết ông Michael Burry đã thể hiện những đức tính như sự kiên trì thông qua khả năng chịu áp lực và có niềm tin sâu sắc cần thiết để kiên trì với quyết định của mình.
+Ông đề cập tới ván cược mang tính biểu tượng của Michael Burry, trong đó ông đi ngược với bong bóng nhà ở giữa những năm 2000. Sau đó, ván cược này đã được dựng lại thành phim mang tên "The Big Short". Ở thời điểm đó, Michael Burry phải chịu vô vàn áp lực, bị cả Phố Wall chế giễu. Nhưng, cuối cùng, ông đã chứng minh được dự đoán của mình là đúng. 
+Tuy nhiên, câu trả lời của ChatGPT không hoàn toàn đầy đủ. Chẳng hạn, chatbot này chưa thể nêu ra các đặc tính khác làm nên thành công của ông Buffett như cống hiến, khiêm tốn và giản dị.
+David Shayer, Giám đốc điều hành của Vantage Markets UK, nói với Insider rằng ChatGPT có thể nắm bắt được những đặc điểm tính cách cụ thể của các nhà đầu tư thành công, nhưng chatbot này lại bỏ sót những đặc tính thành công của người khác.
+"Tôi nghĩ rằng có một số phẩm chất bị thiếu ở đây. Đây là những đặc tính mà ChatGPT, hoặc có lẽ là AI nói chung, vẫn chưa hiểu đầy đủ về tâm lý con người", ông Shayer nói.
+"ChatGPT đã bỏ lỡ phần táo bạo hơn trong tính cách của một nhà giao dịch chứng khoán giỏi: Thái độ đối với rủi ro. Họ phải sẵn sàng đầu cơ và có trực giác nhất định về hướng đi của thị trường. Tuy nhiên, tương tự như kỷ luật, họ cũng có xu hướng trở thành những cá nhân có tính độc lập cao. Có rất nhiều điều phải học về giao dịch và nó có thể trở nên phức tạp, vì vậy họ phải chủ động trong việc học," ông nói thêm.
+Vũ Hạo (Theo Business Insider)
+FILI

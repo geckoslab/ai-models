@@ -1,0 +1,20 @@
+Kết thúc phiên giao dịch ngày 03/02/2023, toàn thị trường có 27 mã tăng, 55 mã giảm và 11 mã tham chiếu. Khối ngoại tiếp tục bán ròng với tổng mức bán ròng đạt 0.51 triệu đơn vị.
+I. DIỄN BIẾN THỊ TRƯỜNG CHỨNG QUYỀN
+Kết thúc phiên giao dịch ngày 03/02/2023, toàn thị trường có 27 mã tăng, 55 mã giảm và 11 mã tham chiếu.
+Sau phiên sáng giao dịch ổn định, thị trường chứng quyền tiếp tục chịu sức ép trong phiên chiều trước nhịp điều chỉnh của thị trường cơ sở. Kết phiên, sắc đỏ áp đạo tại nhiều nhóm chứng quyền ACB, FPT, HPG, HDB, MSN, TCB… với mức giảm quanh 10%. Ở chiều ngược lại, chứng quyền STB và VRE ghi nhận sắc xanh phổ biến quanh 5%.
+Khối lượng giao dịch toàn thị trường trong phiên 03/02 đạt 18.26 triệu đơn vị, giảm -27.34%; giá trị giao dịch đạt 8.71 tỷ đồng, giảm -27.98% so với phiên 02/02. Trong đó, CHPG2221 là mã dẫn đầu thị trường về khối lượng, CSTB2218 dẫn đầu về giá trị giao dịch.
+Khối ngoại tiếp tục bán ròng trong phiên 03/02 với tổng mức bán ròng đạt 0.51 triệu đơn vị. Trong đó, CHPG2215 và CPOW2209 là hai mã bị bán ròng nhiều nhất.
+
+Nguồn: VietstockFinance
+II. THỐNG KÊ THỊ TRƯỜNG
+
+Nguồn: VietstockFinance
+III. ĐỊNH GIÁ CÁC CHỨNG QUYỀN
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 06/02/2023, khung giá hợp lý của các chứng quyền đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại chứng quyền.
+Theo định giá trên, CMSN2214 và CTPB2204 hiện là hai mã chứng quyền có mức định giá hấp dẫn nhất.
+Những mã chứng quyền có effective gearing càng cao thì biến động tăng/giảm theo chứng khoán cơ sở thường sẽ càng lớn. Hiện CHPG2221 là mã chứng quyền có tỷ lệ effective gearing cao nhất thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

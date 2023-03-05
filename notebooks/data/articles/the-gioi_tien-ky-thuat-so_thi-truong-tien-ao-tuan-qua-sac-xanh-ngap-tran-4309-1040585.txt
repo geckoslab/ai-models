@@ -1,0 +1,26 @@
+Bất chấp những lo ngại về đợt tăng cường kiểm soát từ Chính phủ Mỹ, thị trường tiền ảo vẫn có tuần tăng vọt, với Bitcoin có lúc vượt 25,000 USD.
+Tính tới sáng ngày 18/02, giá đồng tiền ảo lớn nhất dao động quanh 24,500 USD, tăng hơn 13% so với cuối tuần trước. Trong khi đó, đồng Ethereum tăng 12% trong tuần qua, lên 1,700 USD.
+Các đồng tiền khác trong top 10 tiền ảo cũng tăng vọt, với Polygon bứt phá 26%, Cardano tiến 12% và Dogecoin tăng 7.5%.
+Vốn hóa của thị trường tiền ảo cũng tăng hơn 100 tỷ USD lên 1,120 tỷ USD.
+Top 10 đồng tiền ảo
+Tuần qua, các cơ quan điều hành Mỹ đưa ra động thái tăng cường kiểm soát một số sản phẩm tiền ảo, trong khi Cơ quan Dịch vụ Tài chính New York (NYDFS) yêu cầu Paxos dừng phát hành đồng tiền ảo BUSD từ 21/02. Những thông tin này đã gây sức ép lên thị trường tiền ảo vào đầu tuần này. Tuy nhiên, sau đó thị trường đã hồi phục trở lại.
+Đà tăng của thị trường tiền ảo có thể buộc các nhà đầu cơ phải đóng các vị thế đặt cược vào đà giảm, từ đó càng thúc đẩy đà tăng, Cici Lu, nhà sáng lập của Venn Link Partners, cho hay.
+“Người ta thường quên rằng lượng lưu hành Bitcoin có thể bị giới hạn vào những thời điểm phe bán khống đóng vị thế”, bà cho biết.
+Khoảng 64.5 triệu vị thế bán khống Bitcoin đã bị thanh lý trong ngày 14/02, mức cao nhất trong 1 tháng, theo dữ liệu từ Coinglass.
+Thị trường tiền ảo tăng giá cùng nhịp với chứng khoán toàn cầu. Đà tăng của chứng khoán được hỗ trợ bởi kỳ vọng Fed có thể “dập” lạm phát mà không đẩy Mỹ vào suy thoái.
+Người dùng rút hàng tỷ đô khỏi sàn Binance sau sự vụ của Paxos
+Hàng tỷ đô đã bị rút khỏi sàn tiền ảo Binance sau khi công ty Paxos bị yêu cầu ngừng phát hành đồng Binance USD (BUSD) – một đồng tiền ảo có liên quan tới Binance.
+Theo CoinDesk, nhà đầu tư bị choáng trước thông tin Cơ quan Dịch vụ Tài chính New York (NYDFS) yêu cầu Paxos - công ty đứng sau BUSD - dừng phát hành đồng tiền số ổn định giá (stablecoin) này từ 21/02.
+Trong cảnh báo tới người dùng hôm 13/02, NYDFS cho biết đã buộc Paxos ngừng đúc BUSD "do một số vấn đề chưa được giải quyết liên quan đến việc Paxos giám sát mối quan hệ của họ với Binance".
+Phát ngôn viên của NYDFS cho biết Paxos đã vi phạm nghĩa vụ trong việc đánh giá rủi ro định kỳ, cũng như thẩm định các khách hàng của Binance nhằm ngăn chặn kẻ xấu sử dụng nền tảng.
+Động thái từ NYDFS sẽ gây tổn thương nghiêm trọng tới Binance, vì BUSD đang là tài sản lớn thứ hai trong dự trữ của Binance sau USDT của Tether, với khoảng 13.4 tỷ USD dưới dạng BUSD trên nền tảng Binance, dữ liệu của Nansen cho thấy.
+BUSD đang là đồng stablecoin lớn thứ ba trên thế giới và chiếm 35% khối lượng giao dịch của Binance. Và dù được đặt tên theo Binance, BUSD không do sàn tiền số này tạo ra, nhưng có mối quan hệ mật thiết. CEO Binance Changpeng Zhao (CZ) cũng xác nhận stablecoin này "được sở hữu và quản lý hoàn toàn" bởi Paxos.
+Trước đó, tờ WSJ cho biết Ủy ban Giao dịch Chứng khoán Mỹ (SEC) cũng đang lên kế hoạch kiện Paxos, cáo buộc BUSD là một chứng khoán chưa đăng ký. SEC hiện chưa xác nhận thông tin này.
+NHTW Anh có thể ra mắt đồng tiền kỹ thuật số
+Trong lương lai, London có thể đưa ra đồng tiền kỹ thuật số “Britcoin” được Ngân hàng Trung ương Anh (BoE) hậu thuẫn.
+Tuần trước, Bộ Tài chính và BoE cho biết rằng “có khả năng” một đồng Bảng kỹ thuật số sẽ cần thiết trong tương lai cho các khoản thanh toán hàng ngày.
+Thống đốc BoE Andrew Bailey cho biết: “Khi thế giới xung quanh chúng ta và cách chúng ta thanh toán mọi thứ trở nên số hóa hơn, khả năng về một đồng Bảng kỹ thuật số trong tương lai sẽ tiếp tục tăng lên”.
+Quyết định tham gia cuộc đua của BoE được đưa ra khi các ngân hàng trung ương khác, như Ngân hàng Trung ương châu Âu (ECB) và Ngân hàng Nhân dân Trung Quốc (PBoC), cũng đang tiến hành các kế hoạch riêng hướng tới các loại tiền kỹ thuật số công cộng.
+Huw Van Steenis, từng là cố vấn cho cựu Thống đốc BoE Mark Carney, nói với tờ Politico rằng vẫn còn nhiều câu hỏi khác liên quan đến khả năng tồn tại của đồng bảng kỹ thuật số. “Tiền quá quan trọng để chỉ giao cho các ngân hàng trung ương vì các quyết định lớn liên quan đến chính trị và kinh tế, không chỉ là kỹ thuật", ông Steenis nói.
+Vũ Hạo (Tổng hợp)
+FILI

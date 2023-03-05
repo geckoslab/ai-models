@@ -1,0 +1,30 @@
+VN-Index ghi nhận phiên tăng điểm thứ ba liên tiếp, qua đó tiếp tục cải thiện triển vọng ngắn hạn. Tuy nhiên, sự trồi sụt của khối lượng giao dịch đang tạo ra tâm lý e ngại cho nhiều nhà đầu tư.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 05/01/2023
+- Thị trường chứng khoán giao dịch tích cực trong phiên 05/01/2023. Kết phiên, VN-Index tăng 0.91%, lên mức 1,055.82 điểm; HNX-Index tăng 0.02%, lên 213.11 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 467 triệu đơn vị, giảm 12.43% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 20.43%, đạt gần 53 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 674 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 18 tỷ đồng.
+- Thị trường chứng khoán có phiên giao dịch khởi sắc. VN-Index hiện sắc xanh ngay đầu phiên và tiến sát mức 1,050 điểm dưới sự dẫn dắt của nhóm cổ phiếu Large Cap. Tuy nhiên, ngay sau đó chỉ số lại giao dịch giằng co khi tâm lý thận trọng gia tăng. Bước sang phiên chiều, VN-Index tăng tốc trở lại và thanh khoản cũng sôi động hơn. Kết thúc giao dịch, VN-Index tăng 9.47 điểm, lên mức 1,061.9 điểm.
+- VN30-Index kết phiên 11.75 điểm (+1.12%), lên mức 1,061.9 điểm. Bên mua chiếm ưu thế lớn trong rổ với 25 mã tăng, 4 mã giảm và 1 mã đứng giá. Trong đó, POW là mã tăng mạnh nhất rổ khi mở rộng hết biên độ, bên cạnh đó khối ngoại cũng tích cực mua ròng hơn 3.5 triệu cổ phiếu này. STB tăng tốt thứ hai trong rổ VN30 với 3.9%, các mã TPB, VNM, VRE, HPG… có mức tăng phổ biến từ 1%-2.5%.
+- Về mức độ ảnh hưởng, VCB, VNM, GAS, VHM, HPG và POW là những cổ phiếu có tác động tích cực nhất. Tính riêng VCB đã góp gần 1.5 điểm tăng cho VN-Index. Trong khi đó, NVL, OCB, BID và PVT là những cổ phiếu có tác động tiêu cực nhất, nhưng không ảnh hưởng nhiều đến chỉ số.
+- Ngành vật liệu xây dựng tiếp tục có phiên giao dịch sôi động. Nổi bật là nhóm cổ phiếu sắt thép với HSG tăng mạnh 4.35%, HPG tiến 2.06%, NKG tăng 3.75%. Theo Sở Giao dịch Hàng hóa Việt Nam (MXV), thị trường sắt thép thế giới đã bước vào giai đoạn phục hồi trong khoảng 2 tháng trở lại đây, với kỳ vọng nhu cầu sẽ có sự cải thiện, đặc biệt là các khu vực như Trung Quốc và Ấn Độ. Đây được xem là thông tin hỗ trợ cho sự hồi phục của nhóm cổ phiếu này.
+- Ngoài ra, điểm sáng trong phiên cũng đến từ nhóm cổ phiếu tiện ích với phiên bứt phá của POW, cổ phiếu GAS cũng có mức tăng tốt 1.52%, các mã khác trong nhóm phát điện như GEG, VSH, DTK, PPC hay QTP đều có mức tăng khá.
+- VN-Index ghi nhận phiên tăng điểm thứ ba liên tiếp, qua đó tiếp tục cải thiện triển vọng ngắn hạn. Tuy nhiên, sự trồi sụt của khối lượng giao dịch đang tạo ra tâm lý e ngại cho nhiều nhà đầu tư.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Dòng tiền tiếp tục thận trọng
+Trong phiên giao dịch ngày 05/01/2023, VN-Index tiếp tục tăng điểm cho thấy triển vọng ngắn hạn đang tích cực hơn.
+Mặc dù chỉ báo Stochastic Oscillator và MACD đều đã cho mua nhưng việc khối lượng trồi sụt thất thường là rủi ro lớn trong ngắn hạn.
+
+HNX-Index - Spinning Top hình thành
+Trong phiên giao dịch ngày 05/01/2023, HNX-Index hình thành mẫu hình nến Spinning Top cho thấy tâm lý giằng co của nhà đầu tư.
+Khối lượng giao dịch vẫn đang nằm dưới mức trung bình 20 ngày gần nhất cho thấy tình hình không thật sự lạc quan.
+Chỉ báo ADX tiếp tục duy trì dưới ngưỡng 25 cho thấy xu hướng đang khá yếu.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 05/01/2023. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ lạc quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 05/01/2023
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

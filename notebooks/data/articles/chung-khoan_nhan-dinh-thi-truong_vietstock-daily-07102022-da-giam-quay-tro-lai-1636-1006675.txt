@@ -1,0 +1,30 @@
+VN-Index giảm mạnh trong trong bối cảnh thị trường thiếu vắng thông tin hỗ trợ và tâm lý bi quan chiếm ưu thế trở lại. Nếu VN-Index tiếp tục giảm thì ngưỡng Fibonacci Retracement 161.8% (tương đương vùng 1,045-1,050 điểm) sẽ là hỗ trợ tiếp theo của chỉ số.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 06/10/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 06/10/2022. Cụ thể, VN-Index giảm 2.69%, xuống mức 1,074.52 điểm; HNX-Index giảm 2.89%, xuống còn 235.13 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 500 triệu đơn vị, tăng 25.98% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 3.66%, đạt gần 51 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 132 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 8 tỷ đồng.
+- Thị trường chứng khoán trong nước không thể tiếp tục tăng điểm sau đà hồi phục từ phiên trước. Thông tin Dow Jones giảm trước đó có lẽ là trở ngại tâm lý cho nhà đầu tư trong nước. Nỗi lo thị trường suy giảm vẫn còn hiện diện, VN-Index mở cửa ATO chỉ tăng hơn 1 điểm rồi sau đó là liên tục sụt giảm. Đà giảm này càng được nới rộng trong phiên chiều với tâm lý tiêu cực áp đảo trên thị trường. Kết thúc giao dịch, VN-Index giảm mạnh 29.74 điểm, xuống còn 1,074.52 điểm.
+- VN30-Index kết phiên tăng giảm mạnh 36.02 điểm (-3.22%), xuống mức 1,081.36 điểm. Trong rổ VN30, ngoại trừ VIC hiện sắc xanh và TPB dừng chân ở tham chiếu thì các mã còn lại đều giảm giá. Giảm tiêu cực nhất trong nhóm là GVR khi lao dốc giảm sàn. Theo sau đó là các mã MWG, SSI, STB đều giảm mạnh trung bình hơn 6%.
+- Về mức độ ảnh hưởng, các Large Cap như HPG, VCB, MSN, MWG hay GVR là những cổ phiếu có tác động tiêu cực nhất đến VN-Index khi lấy đi tổng cộng gần 8 điểm của chỉ số này. Trong khi đó, điểm sáng trên thị trường có thể kể tới EIB khi cổ phiếu này tiến tốt và góp gần 1 điểm cho chỉ số.
+- Sắc đỏ bao trùm ở toàn bộ các nhóm ngành, trong đó chứng khoán là ngành giảm mạnh nhất phiên. Nhiều cổ phiếu giảm hết biên độ như VND, VCI, HCM, VIX…
+- Nhóm bất động sản cũng giao dịch ảm đạm với nhiều cổ phiếu giảm sàn như DXG, TCH, IJC, NLG. Tuy nhiên, một số mã trong đó vẫn hiện sắc xanh tương đối tích cực. Trong đó, ông lớn VIC tăng giá nhẹ lên trên tham chiếu, NBB tăng 3.8%, ITC tiến 2.68%...
+- VN-Index giảm mạnh trong trong bối cảnh thị trường thiếu vắng thông tin hỗ trợ và tâm lý bi quan chiếm ưu thế trở lại. Nếu VN-Index tiếp tục giảm thì ngưỡng Fibonacci Retracement 161.8% (tương đương vùng 1,045-1,050 điểm) sẽ là hỗ trợ tiếp theo của chỉ số.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Hướng tới ngưỡng Fibonacci Retracement 161.8%
+Trong phiên giao dịch ngày 06/10/2022, VN-Index sụt giảm mạnh và ngày càng nằm sâu hơn bên dưới nhóm MA dài hạn. Điều này cho thấy xu hướng giảm đang chi phối thị trường.
+Theo lý thuyết sóng Elliott, sóng C lớn (trong cấu trúc sóng hiệu chỉnh A-B-C) đang diễn ra và có thể sẽ tiếp tục mạnh hơn trong thời gian tới.
+Mục tiêu tiếp theo của chỉ số là ngưỡng Fibonacci Retracement 161.8% (tương đương vùng 1,045-1,050 điểm).
+
+HNX-Index - Khối lượng duy trì mức thấp
+Trong phiên giao dịch ngày 06/10/2022, HNX-Index giảm mạnh trở lại và xuất hiện cây nến đỏ dài cho thấy tâm lý nhà đầu tư đang bi quan. Điều này khiến cho khối lượng giao dịch liên tục duy trì mức thấp.
+Vùng 260-270 điểm (tương đương đáy cũ tháng 06/2022) đã bị thủng hoàn toàn và ADX đang ở mức rất cao cho thấy đà giảm vẫn còn rất mạnh. Mục tiêu mới sẽ là vùng 220-230 điểm.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 06/10/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ càng bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 06/10/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

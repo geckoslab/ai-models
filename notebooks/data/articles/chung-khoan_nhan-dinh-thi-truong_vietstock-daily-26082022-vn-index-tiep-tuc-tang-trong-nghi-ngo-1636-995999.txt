@@ -1,0 +1,30 @@
+VN-Index tăng điểm nhờ sự bứt phá của nhóm cổ phiếu Large Cap. Chỉ số phá vỡ hoàn toàn đường SMA 100 ngày cho thấy xu hướng tăng trưởng dài hạn đã quay trở lại. Tuy nhiên, khối lượng giao dịch vẫn đang ở mức thấp hơn trung bình 20 ngày chứng tỏ dòng tiền không quá mạnh.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 25/08/2022
+- Thị trường chứng khoán giao dịch tích cực trong phiên 25/08/2022. Cụ thể, VN-Index tăng 0.92%, đạt mức 1,288.88 điểm; HNX-Index tăng 0.19%, dừng chân ở mức 301.86 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 562 triệu đơn vị, tăng 8.14% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 14.09%, đạt hơn 84 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 90 tỷ đồng, bán ròng trên sàn HNX với giá trị hơn 3 tỷ đồng.
+- Thị trường chứng khoán tiếp tục có phiên giao dịch tích cực khi các chỉ số chính cùng hiện sắc xanh. Nhóm cổ phiếu Large Cap tiếp tục là trụ chính giúp thị trường nối dài chuỗi tăng điểm. VN-Index giao dịch sôi động ngay sau khi mở cửa giao dịch. Sắc xanh của chỉ số được duy trì và dần nới rộng hơn trong phiên chiều. Kết phiên, VN-Index tăng 11.72 điểm, dừng chân ở mức 1,288.88 điểm.
+- VN30-Index kết phiên tăng 15.14 điểm (+1.17%), đạt mức 1,311.55 điểm. Bên mua chiếm ưu thế vượt trội trong rổ VN30 với 26 mã tăng, 2 mã giảm và 2 mã đứng giá. Giao dịch nổi bật nhất trong rổ là cổ phiếu GVR khi bật tăng mạnh 5.4%. Theo sau là các mã TPB, MWG, VIB, VHM, HDB cùng tăng giá tích cực từ 2%-2.5%.
+- Về mức độ ảnh hưởng, VHM, GVR, VIC, VPB và CTG là những mã có tác động tích cực nhất đến chỉ số VN-Index. Tính riêng 2 ông lớn VHM và GVR đã góp gần 3 điểm cho chỉ số này. Trong khi đó, GAS, VGC, CMG và FLC là những mã có tác động tiêu cực nhất.
+- Nhóm cổ phiếu phân bón tiếp tục duy trì đà tăng của mình. Nhiều cổ phiếu còn bật tăng hết biên độ trong phiên như DPM, DCM, BFC hay SFG. Các mã PMB, PSE, LAS cùng bật tăng ấn tượng.
+- Ngành chế biến thủy sản cũng có phiên giao dịch tương đối tích cực và là một trong những ngành tăng mạnh nhất thị trường. Trong đó, ACL leo dốc 4.35%, IDI và FMC cùng tăng mạnh trên 3%, CMX tiến tốt 2.71%, hai ông lớn là VHC và ANV cùng tăng trung bình gần 2%.
+-Trong khi đó, nhóm cổ phiếu dầu khí lại có dấu hiệu chốt lời nhẹ sau giai đoạn tăng mạnh trước đó. Bộ đôi PVS và PVD cùng giảm lần lượt ở mức 1.43% và 1.41%. Cổ phiếu PVC và PVB cùng hiện sắc đỏ.
+- VN-Index tăng điểm nhờ sự bứt phá của nhóm cổ phiếu Large Cap. Chỉ số phá vỡ hoàn toàn đường SMA 100 ngày cho thấy xu hướng tăng trưởng dài hạn đã quay trở lại. Tuy nhiên, khối lượng giao dịch vẫn đang ở mức thấp hơn trung bình 20 ngày chứng tỏ dòng tiền không quá mạnh.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Phá vỡ hoàn toàn đường SMA 100 ngày
+Trong phiên giao dịch ngày 25/08/2022, VN-Index tiếp tục tăng và phá vỡ hoàn toàn đường SMA 100 ngày.
+Chỉ báo Stochastic Oscillator đang ở trong vùng quá mua (overbought) nhưng vừa xuất hiện tín hiệu mua nên rủi ro không cao.
+
+HNX-Index - Tín hiệu cảnh báo xuất hiện
+Trong phiên giao dịch ngày 25/08/2022, HNX-Index tiếp tục đà tăng nhưng xuất hiện mẫu hình Bearish Advance Block. Điều này cho thấy khả năng có rung lắc mạnh trong ngắn hạn tăng lên.
+Tuy nhiên, chỉ số đã vượt lên trên đường Middle của Bollinger Bands. Điều này cho thấy xu hướng ngắn hạn đã chuyển từ giảm sang tăng.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 25/08/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ càng lạc quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 25/08/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

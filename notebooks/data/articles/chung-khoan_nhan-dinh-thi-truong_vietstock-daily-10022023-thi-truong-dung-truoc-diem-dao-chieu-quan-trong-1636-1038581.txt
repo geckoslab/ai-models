@@ -1,0 +1,29 @@
+VN-Index liên tiếp hình thành những phiên tăng, giảm đan xen. Bên cạnh đó, khối lượng giao dịch suy yếu dần và nằm dưới mức trung bình 20 ngày nên tình trạng giằng co của chỉ số dự kiến sẽ còn tiếp diễn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 09/02/2023
+- Thị trường chứng khoán giao dịch trái chiều trong phiên 09/02/2023. Kết phiên, VN-Index giảm 0.76%, xuống mức 1,064.03 điểm; HNX-Index tăng 0.14%, dừng chân ở mức 210.91 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 383 triệu đơn vị, giảm 20.19% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 25.36%, đạt gần 46 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 11 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 5 tỷ đồng.
+- Thị trường chứng khoán mở cửa phiên giao dịch với tâm lý thận trọng. Các chỉ số chính giao dịch trái chiều nhau. Trong khi VN-Index hiện sắc đỏ thì HNX-Index lại tăng điểm nhẹ. Nhóm cổ phiếu Large Cap là nguyên nhân chính gây áp lực lên thị trường chung. Kết phiên, VN-Index giảm 8.19 điểm, xuống mức 1,064.03 điểm; HNX-Index giao dịch tích cực hơn khi tăng nhẹ 0.29 điểm.
+- VN30-Index kết phiên giảm 13.47 điểm (-1.25%). Bên bán chiếm ưu thế hơn trong rổ với 23 mã giảm và 7 mã tăng tăng giá. Giảm giá mạnh nhất rổ là VJC với mức giảm 5.6%. Theo sau là các cổ phiếu VHM, PDR, STB và POW. Ở chiều ngược lại, PLX, GVR và GAS là những cổ phiếu tăng giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, VCB, VHM, VJC và BID là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Tính riêng hai cổ phiếu VCB và VHM đã lấy đi gần 3 điểm của chỉ số này. Trong khi đó, GAS, PLX, GVR là những mã có đóng góp tích cực nhất cho chỉ số.
+- Về nhóm ngành, chế biến thủy sản là một trong những ngành tăng mạnh nhất thị trường. Các cổ phiếu như ANV, CMX, IDI hay ACL cùng ghi nhận tăng hết biên độ. Các doanh nghiệp thủy sản đang đón đơn hàng tăng đột biến, đặc biệt là đơn hàng đến từ Trung Quốc (vừa mở cửa sau chính sách Zero Covid-19) và Mỹ. Hàng vạn công nhân nhà máy tôm, cá… cũng đã bắt đầu quay trở lại công việc ngay đầu năm. Đây là thông tin tích cực với nhóm cổ phiếu này.
+- Bên cạnh đó, nhóm cổ phiếu họ dầu khí cũng có phiên tăng tốt. Cụ thể, PVD tăng hết biên độ, PVC leo dốc 5.93%, PVB và PVS tăng hơn 3%. Việc giá dầu tăng liên tiếp trong những phiên gần đây, khi nhà đầu tư cảm thấy thoải mái hơn với rủi ro về việc Cục Dự trữ Liên bang Mỹ nâng lãi suất trong tương lai. Đây là nguyên nhân chính giúp nhóm cổ phiếu này tăng giá.
+- VN-Index liên tiếp hình thành những phiên tăng, giảm đan xen. Bên cạnh đó, khối lượng giao dịch suy yếu dần và nằm dưới mức trung bình 20 ngày nên tình trạng giằng co của chỉ số có thể sẽ còn tiếp diễn.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Giằng co kéo dài
+Trong phiên giao dịch ngày 09/02/2023, VN-Index nối dài chuỗi tăng giảm đan xen cho thấy tình trạng giằng co của chỉ số vẫn chưa dừng lại.
+Chỉ báo MACD tiếp tục đi xuống và có nguy cơ rơi xuống dưới ngưỡng 0 trong thời gian tới. Nếu tín hiệu này xuất hiện thì tình hình sẽ chuyển biến xấu hơn.
+
+HNX-Index - High Wave Candle xuất hiện
+Trong phiên giao dịch ngày 09/02/2023, HNX-Index hình thành mẫu hình nến High Wave Candle với khối lượng giao dịch sụt giảm cho thấy tâm lý e dè của nhà đầu tư.
+Mặc khác, HNX-Index cũng đã phá vỡ đường SMA 50 ngày. Nếu trạng thái này tiếp tục duy trì trong thời gian tới thì rủi ro sẽ tăng lên mức rất cao.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 09/02/2023. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 09/02/2023
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

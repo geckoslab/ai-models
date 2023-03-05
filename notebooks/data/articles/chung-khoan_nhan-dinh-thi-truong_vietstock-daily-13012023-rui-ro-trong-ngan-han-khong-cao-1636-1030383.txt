@@ -1,0 +1,29 @@
+VN-Index giao dịch giằng co và tăng điểm nhẹ trong phiên. Dòng tiền thông minh duy trì trên mức trung bình 20 ngày và khối ngoại liên tục mua ròng cho thấy rủi ro trong ngắn hạn là không cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 12/01/2023
+- Thị trường chứng khoán giao dịch giằng co trong phiên 12/01/2023. Kết phiên, VN-Index tăng nhẹ 0.63 điểm, lên mức 1,056.39 điểm; HNX-Index tăng 0.27 điểm, lên mức 211.94 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 385 triệu đơn vị, giảm 24.33% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 15.69%, đạt gần 50 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 305 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 18 tỷ đồng.
+- Thị trường chứng khoán có sự khởi đầu tương đối tích cực. VN-Index nhập cuộc ở mức giá xanh với biên độ dao động khá hẹp. Tuy nhiên, sự tích cực này không duy trì được lâu. Thị trường đã không còn giữ được sắc xanh ở đầu phiên khi nhóm cổ phiếu ngân hàng quay đầu giảm điểm và trực tiếp gây áp lực lên chỉ số chính. Tâm lý thận trọng của nhà đầu tư khiến khối lượng giao dịch vẫn đang duy trì ở mức thấp. Sang phiên chiều, VN-Index giao dịch giằng co dưới tham chiếu trước khi dòng tiền có sự trở lại ở cuối phiên, kéo chỉ số tăng điểm trở lại. Kết thúc giao dịch, VN-Index tăng nhẹ 0.63 điểm.
+- VN30-Index kết phiên tăng 1.02 điểm, lên mức 1,066.24 điểm. Rổ VN30 phân hóa với 14 mã tăng, 14 mã giảm và 2 mã đứng giá. Giao dịch tích cực nhất trong rổ là VIB, GVR, VPB và VHM. Ở chiều ngược lại, KDH, MSN, MWG là những cổ phiếu giảm giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, VHM, VPB, GAS, VIB và VNM là những mã có tác động tích cực nhất đến VN-Index. Trong khi đó, MSN, EIB, VCB là những cổ phiếu có ảnh hưởng tiêu cực nhất.
+- Ngành khai khoáng là ngành tăng mạnh nhất thị trường trong phiên. Nổi bật trong đó là nhóm cổ phiếu dầu khí. PVD và PVC cùng tăng trần. PVB leo dốc tăng 5.69%, PVS tiến tốt ở mức 4.37%. Giá dầu tăng hơn 3% lên mức cao nhất trong 1 tuần vào ngày thứ Tư (11/01), với hy vọng về triển vọng kinh tế toàn cầu được cải thiện. Bên cạnh đó, lo ngại về tác động của các biện pháp trừng phạt đối với sản lượng dầu thô của Nga lấn át sự gia tăng bất ngờ dự trữ dầu thô của Mỹ. Thông tin trên đã ảnh hưởng tích cực đến đà tăng của cổ phiếu này.
+- Nhóm cổ phiếu thủy sản cũng có phiên giao dịch ấn tượng. Mã ANV tiến hết biên độ, IDI tiến sát mức giá trần. Các cổ phiếu khác như VHC, FMC, CMX hay ACL cùng tăng tốt trên mức 3%.
+- VN-Index giao dịch giằng co và tăng điểm nhẹ trong phiên. Dòng tiền thông minh duy trì trên mức trung bình 20 ngày và khối ngoại liên tục mua ròng cho thấy rủi ro trong ngắn hạn là không cao.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - High Wave Candle xuất hiện
+Trong phiên giao dịch ngày 12/01/2023, VN-Index tăng nhẹ và xuất hiện mẫu hình nến High Wave Candle. Điều này cho thấy tâm lý nhà đầu tư đang giằng co mạnh.
+Chỉ báo MACD và Stochastic Oscillator chưa cho tín hiệu bán nên rủi ro không quá cao trong ngắn hạn dù khối lượng giao dịch giảm.
+
+HNX-Index - Chờ đợi sự bứt phá trong ngắn hạn
+Trong phiên giao dịch ngày 12/01/2023, HNX-Index xuất hiện mẫu hình Three White Candles cho thấy sự tích cực đang lan tỏa.
+Chỉ số tiếp tục test lại cạnh trên của mẫu hình Triangle (tương đương vùng 212-216 điểm). Nếu chỉ số phá vỡ ngưỡng này trong những phiên tới thì tình hình sẽ lạc quan hơn.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 12/01/2023. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ lạc quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 12/01/2023
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

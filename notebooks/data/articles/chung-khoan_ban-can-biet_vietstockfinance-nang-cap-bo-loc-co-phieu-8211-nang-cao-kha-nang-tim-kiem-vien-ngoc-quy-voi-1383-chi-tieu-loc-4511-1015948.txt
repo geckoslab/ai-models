@@ -1,0 +1,24 @@
+Vào tháng 10/2022, Bộ lọc cổ phiếu trên website tài chính VietstockFinance đã được nâng cấp mạnh mẽ từ giao diện cho đến tính năng lọc cổ phiếu chuyên sâu. Đây là công cụ hỗ trợ đắc lực cho nhà đầu tư trong việc săn tìm những cổ phiếu tiềm năng với trải nghiệm lướt web nhanh và mượt.
+Thuộc nhóm CÔNG CỤ ĐẦU TƯ trên VietstockFinance, Bộ lọc cổ phiếu (Stock Screener) dùng để tìm ra các cổ phiếu thỏa mãn các tiêu chí do nhà đầu tư tùy chọn từ 1,383 chỉ tiêu lọc. Từ đó, nhà đầu tư dễ dàng theo dõi và ra quyết định đầu tư.
+Tại lần nâng cấp này, Vietstock thay đổi toàn diện Bộ lọc cổ phiếu, với đa dạng mẫu lọc và mẫu hiển thị, thiết kế cá nhân hóa người dùng, dễ dàng sàng lọc và theo dõi cổ phiếu. Với công cụ Bộ lọc cổ phiếu, nhà đầu tư sẽ không cần phải tốn nhiều thời gian để tính toán và lọc thủ công từng chỉ tiêu tài chính, tiết kiệm thời gian và giúp nhà đầu tư không bỏ lỡ những cơ hội đầu tư tốt trên thị trường.
+GIAO DIỆN TỐI GIẢN
+Bộ lọc cổ phiếu được Vietstock thiết kế theo nguyên lý giao diện tối giản, hiện đại và thân thiện với người dùng, ưu tiên không gian hiển thị kết quả lọc. Đặc biệt, tính năng xem toàn màn hình (full screen) giúp nhà đầu tư có được trải nghiệm tối ưu trong quá trình tìm kiếm các cổ phiếu phù hợp.
+BỘ LỌC MẠNH MẼ
+Với lượng dữ liệu số hóa đồ sộ và đáng tin cậy được tích hợp vào VietstockFinance, nhà đầu tư có thể lọc “tất tần tật” sức khỏe tài chính của các doanh nghiệp niêm yết. 1,383 tiêu chí lọc cổ phiếu được chia thành các nhóm:  Chỉ tiêu cơ bản, tài chính, giao dịch, kỹ thuật.
+1. Bộ lọc thông tin cổ phiếu. Người dùng có thể cài đặt lọc cổ phiếu theo sàn, lọc cổ phiếu theo ngành. Hay chậm chí có thể đáp ứng được cho nhà đầu tư có nhu cầu lọc các cổ phiếu có độ dày về số năm hoạt động, số năm niêm yết hay quy mô về vốn hóa.
+2. Bộ lọc chỉ tiêu báo cáo tài chính. VietstockFinance hỗ trợ tối đa người dùng trong việc bóc tách từng số liệu tài chính doanh nghiệp. Nhà đầu tư có thể lọc từng khoản mục trên báo cáo tài chính, từ bản cân đối kế toán, báo cáo kết quả kinh doanh cho đến báo cáo lưu chuyển tiền tệ. Người dùng còn có thể lọc riêng các chỉ tiêu đối với các ngành có báo cáo tài chính đặc thù như: bảo hiểm, chứng khoán, ngân hàng.
+3. Bộ lọc chỉ số tài chính. Bộ lọc cổ phiếu mang đến cho nhà đầu tư khả năng lọc chuyên sâu đầy đủ các loại chỉ số tài chính, bao gồm nhóm chỉ số chung, định giá, sinh lợi, tăng trưởng, thanh khoản, hiệu quả hoạt động, đòn bẩy tài chính, dòng tiền. Bộ lọc các cơ cấu về chi phí, tài sản ngắn hạn và tài sản dài hạn.
+4. Bộ lọc giao dịch cổ phiếu. Với đa dạng các tiêu chí lọc trong nhóm dữ liệu giao dịch chứng khoán, từ các chỉ tiêu cơ bản về giá cổ phiếu, khối lượng giao dịch, giá trị giao dịch cho đến các chỉ tiêu về độ biến động các loại, chắc chắn sẽ hỗ trợ đắc lực nhà đầu tư trong việc tìm kiếm “viên ngọc quý”.
+5. Bộ lọc phân tích kỹ thuật. Bên cạnh bộ lọc về các chỉ báo kỹ thuật nền tảng như RSI, MFI, MACD…, nhà đầu tư còn có thể lọc được các cổ phiếu đang bứt phá, mạnh/yếu hơn thị trường chung theo nhiều khung thời gian, kết hợp với chế độ làm mới dữ liệu sẽ giúp nhà đầu tư gia tăng cơ hội tìm thấy được tiềm năng giữa hàng ngàn mã cổ phiếu. 
+ĐA DẠNG BỘ LỌC MẪU
+Nếu bạn còn đang phân vân không biết nên lọc theo các tiêu chí nào? Đừng lo lắng! Vietstock đã cung cấp sẵn các bộ lọc mẫu để lọc cổ phiếu về Tăng giá, Giảm giá, Tăng giá mạnh, Giảm giá mạnh, Giá trị, Lợi thế cạnh tranh cao, Cổ tức cao.
+Khi nhà đầu tư đã có kết quả lọc cổ phiếu thỏa tiêu chí tìm kiếm của mình, nhà đầu tư có thể tham khảo thêm các số liệu tài chính khác của các doanh nghiệp đó một cách nhanh chóng thông qua mẫu hiển thị kết quả lọc được tạo sẵn như: Tổng quan, Biến động giá, Định giá, Sinh lợi. 
+CÁ NHÂN HÓA NGƯỜI DÙNG
+Khi đăng ký trở thành viên của VietstockFinance, nhà đầu tư có thể dễ dàng tạo các Bộ lọc cá nhân, Mẫu hiển thị cá nhân và lưu trên tài khoản thành viên của mình để dùng lại cho các lần lọc sau.
+CHẾ ĐỘ LÀM MỚI DỮ LIỆU
+Dữ liệu lọc sẽ được làm mới với 3 chế độ: Làm mới thủ công, Làm mới sau mỗi 10 giây, Làm mới sau mỗi phút; phù hợp với những nhà đầu tư sử dụng các tiêu chí lọc cần dữ liệu realtime trong phiên giao dịch.
+THẢ GA XUẤT EXCEL VỀ THIẾT BỊ CÁ NHÂN
+Nhà đầu tư có thể xuất dữ liệu đã lọc ra file Excel, dễ dàng xử lý với các đặc điểm nổi bật: Dữ liệu đầy đủ, chính xác, toàn diện và cập nhật, thiết kế "tất cả tích hợp trong 1 màn hình". 
+VietstockFinance (https://finance.vietstock.vn), phục vụ nhu cầu thông tin và phân tích đầu tư chứng khoán, vốn đã rất quen thuộc với nhà đầu tư Việt Nam suốt nhiều năm qua. Song hành với việc phát triển tính năng website và đặt trải nghiệm của người dùng lên hàng đầu, Vietstock cũng không ngừng nỗ lực nâng cao chất lượng nội dung, phát triển dữ liệu tài chính theo tiêu chí Chính xác – Cập nhật – Đầy đủ.
+Để tham khảo về các gói thành viên VietstockFinance, nhà đầu tư có thể truy cập tại: https://finance.vietstock.vn/san-pham/chinh-sach 
+VIETSTOCK

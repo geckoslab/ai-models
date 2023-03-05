@@ -1,0 +1,35 @@
+EV/EBITDA được đánh giá là toàn diện hơn khi không chỉ sẽ xét đến yếu tố lợi nhuận mà còn xét tới cơ cấu tài sản của doanh nghiệp. Tuy nhiên, có một số lý do khiến nó ít được các nhà đầu tư cá nhân sử dụng rộng rãi như các phương pháp so sánh ngang khác.
+
+Nguồn: Internet
+Phương pháp EV/EBITDA thường dùng trong các thương vụ M&A do có khá nhiều ưu điểm
+Enterprise Value (EV) là tổng giá trị doanh nghiệp và được tính theo công thức:
+
+* Trong trường hợp thông thường, có thể sử dụng giá trị kế toán từ khoản Vay & nợ thuê tài chính ngắn hạn và dài hạn trong Bảng cân đối kế toán của doanh nghiệp để thay thế.
+EBITDA là lợi nhuận trước chi phí lãi vay, thuế và chi phí khấu hao của doanh nghiệp.
+
+Cách tính Enterprise Value thường được sử dụng trong các thương vụ mua bán sáp nhập (M&A). Trong trường công ty tiến hành mua sáp nhập, công ty này mua lại nợ của đối tượng sáp nhập nhưng đồng thời sẽ nhận được khoản tiền mặt và các khoản tương đương tiền của công ty ấy. Enterprise Value sẽ rất hữu ích trong việc so sánh giữa các công ty có cấu trúc tài sản khác nhau nhiều.
+EBITDA được sử dụng như một cách ước tính dòng tiền hoạt động từ hoạt động kinh doanh bởi vì chưa phải trừ đi chi phí khấu hao. Chi phí khấu hao là khoản chi phí kế toán nhưng doanh nghiệp thực tế không phải trả cho khoản chi phí này trong kỳ kinh doanh của mình. Vì EBITDA cũng chưa phải trừ các khoản lãi vay và thuế nên từ đó có thể đánh giá hiệu quả hoạt động kinh doanh thuần túy của doanh nghiệp.
+Định giá theo EV/EBITDA là một phương định giá theo so sánh ngang. Sau đây là các bước để thực hiện:
+Bước 1: Nhà đầu tư sẽ lựa chọn ra một danh sách các công ty trong cùng lĩnh vực, ngành nghề và tương đương nhau về loại hình kinh doanh.
+Bước 2: Nhà đầu tư tính giá trị EV/EBITDA cho danh sách các công ty đã chọn.
+Bước 3: Nhà đầu tư sử dụng giá trị trung bình hoặc giá trị trung vị cho EV/EBITDA tính được.
+Bước 4: Lấy giá trị EBITDA dự phóng của công ty muốn định giá nhân cho giá trị trung bình (hoặc trung vị) EV/EBITDA của ngành. Ta sẽ có được Enterprise Value của doanh nghiệp.
+Bước 5: Từ giá trị Enterprise Value này, nhà đầu tư sẽ cộng vào khoản mục tiền và tương đương tiền và trừ cho giá trị nợ vay tài chính của doanh nghiệp ấy. Kết quả sau cùng cho ra sẽ là giá trị vốn hóa của doanh nghiệp.
+Bước 6: Chia vốn hóa doanh nghiệp cho số lượng cổ phiếu lưu hành. Nhà đầu tư sẽ có được giá trị nội tại của cổ phiếu.
+EBITDA là một chỉ số ổn định hơn chỉ tiêu lợi nhuận ròng mà nhà đầu tư hay sử dụng trong phương pháp P/E. Nhờ vào tính ổn định mà EV/EBITDA có thể sử dụng cho nhiều công ty hơn (EBITDA sẽ khó cho ra giá trị âm hơn là lợi nhuận ròng).
+Đâu là lý do ngăn cản EV/EBITDA áp dụng rộng rãi?
+Đầu tiên là EV/EBITDA có công thức phức tạp hơn các phương pháp định giá phổ thông như P/E, P/B hay P/S. Do vậy, đòi hỏi nhà đầu tư phải thực hiện nhiều bước tính toán hơn.
+Thứ hai, EBITDA được biết là một cách ước tính thô cho dòng tiền thuần từ hoạt động kinh doanh. Do vậy, nếu doanh nghiệp đang tăng mạnh vốn lưu động (working capital), EBITDA sẽ có xu hướng ước tính dòng tiền này cao hơn giá trị dòng tiền thực tế.
+Mặt khác, EBITDA còn bỏ qua khoản đầu tư vào tài sản cố định. Với một số lĩnh vực đòi hỏi phải đầu tư lớn về cơ sở vật chất, nhà máy, nhà xưởng thì EBITDA có thể không phản ánh đúng về tình hình hoạt động doanh nghiệp.
+Ứng dụng vào định giá thực tế
+Người viết đã tiến hành định giá Tổng Công ty Phát điện 3 (UPCoM: PGV) vào khoảng tháng 06/2018 khi cổ phiếu của doanh nghiệp vừa mới giao dịch trên UPCoM được vài tháng.
+Vì thực tế tại thị trường Việt Nam không có đủ công ty để tiến hành so sánh ngang nên tại thời điểm định giá, người viết lựa chọn các công ty cùng lĩnh vực tại các quốc gia trong khu vực châu Á như Malaysia, Thái Lan, Trung Quốc, Ấn Độ. Trung vị EV/EBITDA tại thời điểm này được tính ra ở mức 8.74 lần.
+
+Nguồn: Investing.com
+Từ mức trung vị ngành của các công ty trong cùng lĩnh vực, nhà đầu tư sẽ ước tính giá trị EBITDA dự phóng cho năm tới. Tại thời điểm định giá vào năm 2018, EBITDA dự phóng cho năm 2019 của doanh nghiệp nằm ở mức hơn 10,605 tỷ đồng.
+Với vốn hóa dự kiến là 34,476 tỷ đồng, ta sẽ có giá trị hợp lý của PGV ở mức 34,476 đồng. Vấn đề duy nhất còn lại là bạn có đủ kiên nhẫn chờ đến khi giá đạt đến mục tiêu hay không. Vì phương pháp EV/EBITDA thường “nhìn xa” hơn các phương pháp so sánh ngang khác. Theo kinh nghiệm của người viết thì giá sẽ mất nhiều thời gian hơn để đạt đến mục tiêu. Cụ thể, trong trường hợp PGV, giá mất hơn 3 năm để đạt và vượt mục tiêu 34,476 đồng. Trong 2 năm đầu tiên, giá hầu như chỉ đi ngang và giằng co.
+Vì vậy, nhà đầu tư nên cân nhắc khi lựa chọn phương pháp này vì thông thường chỉ những định chế tài chính mới đủ thời gian và nguồn lực để có thể chờ đợi trong thời gian dài như vậy.
+
+Nguồn: VietstockFinance và PGV
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

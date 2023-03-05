@@ -1,0 +1,31 @@
+VN-Index tiếp tục có phiên giảm điểm nhẹ với khối lượng thấp dưới mức trung bình 20 ngày gần nhất cho thấy sự thận trọng của nhà đầu tư. Bên cạnh đó, dòng tiền thông minh đang rút ra chứng tỏ rủi ro đang tăng lên.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 26/07/2022
+- Thị trường chứng khoán giao dịch tương đối tiêu cực trong phiên ngày 26/07/2022. Cụ thể, VN-Index giảm 0.29%, xuống mức 1,185.07 điểm; HNX-Index giảm 0.88%, dừng chân ở mức 282.88 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 388 triệu đơn vị, giảm 5.3% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 28.57%, đạt hơn 42 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 55 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 2 tỷ đồng.
+- Các chỉ số chính trên thị trường chứng khoán thế giới cùng giao dịch trong biên độ hẹp trước khi quyết định tăng lãi suất của Fed được đưa ra. Theo đó, VN-Index cũng có phiên khá giằng co khi chỉ dao động quanh mốc tham chiếu. Chỉ số mở cửa với sắc xanh nhẹ và đi ngang sau đó. Bước sang phiên chiều, sắc đỏ bắt đầu lan toả ở nhiều nhóm ngành kéo VN-Index dần giảm về dưới tham chiếu, nhưng mức giảm này là không lớn. Kết phiên, VN-Index giảm nhẹ 3.43 điểm, xuống còn 1,185.07 điểm.
+- VN30-Index kết phiên giảm 5.42 điểm (-0.34%), xuống còn 1,218.49 điểm. Bên bán chiếm ưu thế vượt trội trong rổ VN30 với 19 mã giảm, 8 mã tăng và 3 mã đứng giá. Trong đó, BVH và VIC là hai cổ phiếu giao dịch tiêu cực nhất khi cùng giảm 1.8%. Theo sau là các mã TPB, VNM, HPG. Ở chiều ngược lại, KDH, SAB và VCB cùng hiện sắc xanh tích cực nhất rổ.
+- Về mức độ ảnh hưởng, VIC, VNM, HPG và REE là những mã có tác động tiêu cực nhất đến VN-Index khi lấy đi hơn 2 điểm của chỉ số này. Trong khi đó, VCB, MSN, SAB, BID và BCM là những cổ phiếu có tác động tích cực nhất. Tính riêng VCB đã góp hơn 1 điểm cho chỉ số.
+- Về nhóm ngành, thuỷ sản đang là một trong những ngành giảm mạnh nhất thị trường. Bên cạnh cước vận tải, nỗi lo lớn nhất của các doanh nghiệp thủy sản chính là lạm phát ở các thị trường xuất khẩu chính như Mỹ, Nhật, EU... khiến sức mua yếu. Ngoài ra, tình trạng thiếu nguyên liệu chế biến cũng đang khiến hoạt động sản xuất thủy sản những tháng cuối năm sẽ gặp nhiều khó khăn dù xuất khẩu 6 tháng đầu năm đạt tốc độ tăng trưởng kỷ lục 40% so với cùng kỳ năm 2021, tương đương giá trị 5.8 tỷ USD. Theo đó, giá các cổ phiếu trong nhóm này cũng có sự giảm mạnh như ACL giảm sàn, VHC, IDI hay ANV cùng sụt mạnh hơn 5%.
+- Cùng với thuỷ sản, nhóm cổ phiếu sắt thép cũng giao dịch ảm đạm với việc giá thép liên tục sụt giảm khi sức tiêu thụ trên thị trường đang suy yếu. Trong phiên giao dịch NKG và HSG cùng lao dốc hơn 5%, HPG giảm 1.14%.
+- Trong khi đó, nhiều cổ phiếu trong nhóm phân bón lại bật tăng tích cực, nổi bật trong đó là DPM và DCM khi cùng tăng lần lượt ở mức 2.4% và 2.8%. Trong đó, CTCP Phân bón Dầu khí Cà Mau (HOSE: DCM) vừa công bố kết quả kinh doanh quý 2/2022 với lợi nhuận ròng 1,039 tỷ đồng, gấp 3.5 lần cùng kỳ. Đây cũng là quý thứ ba liên tiếp DCM đạt lợi nhuận trên 1,000 tỷ đồng.
+- VN-Index tiếp tục có phiên giảm điểm nhẹ với khối lượng thấp dưới mức trung bình 20 ngày gần nhất cho thấy sự thận trọng của nhà đầu tư. Bên cạnh đó, dòng tiền thông minh đang rút ra chứng tỏ rủi ro đang tăng lên.
+PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Mẫu hình Three Black Candles xuất hiện
+Trong phiên giao dịch ngày 26/07/2022, VN-Index hình thành mẫu hình nến Three Black Candles cho thấy tâm lý nhà đầu tư đang khá bi quan.
+Khối lượng liên tục sụt giảm chứng tỏ nhà đầu tư đang hạn chế giao dịch trong ngắn hạn để phòng ngừa rủi ro giảm điểm bất ngờ (thrust down).
+Vùng 1,150-1,170 điểm sẽ đóng vai trò hỗ trợ mạnh nếu đà giảm tiếp tục trong ngắn hạn.
+
+HNX-Index - Khối lượng đi xuống mạnh
+Trong phiên giao dịch ngày 26/07/2022, HNX-Index giảm điểm và hình thành cây nến đỏ có thân ngắn. Nhà đầu tư vẫn khá bi quan trong bối cảnh chỉ số vẫn chưa thể vượt lên trên đường SMA 50 ngày và chỉ báo Stochastic Oscillator đã cho bán trở lại.
+Điểm đáng chú ý nhất trong phiên này là sự đi xuống khá mạnh của khối lượng giao dịch. Nếu quá trình này vẫn tiếp diễn thì đà giảm của chỉ số sẽ khó có thể bị đảo ngược.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index đã lao dốc và rơi xuống dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ tăng lên trong thời gian tới.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 26/07/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 26/07/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

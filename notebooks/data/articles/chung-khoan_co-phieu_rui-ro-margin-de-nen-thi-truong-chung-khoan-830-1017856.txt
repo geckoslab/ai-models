@@ -1,0 +1,12 @@
+Cuối quý 3, dư nợ margin giảm nhiều so với con số kỷ lục hơn 200 ngàn tỷ đồng hồi đầu năm 2022. Tuy nhiên, áp lực margin liệu có giảm theo hay nặng hơn bao giờ hết?
+Trong quý 3/2022 trái ngược với thị trường chứng khoán càng lúc càng ảm đạm, dư nợ cho vay margin lại tăng lên. Dư nợ cuối quý 3 đạt mức 170 ngàn tỷ đồng, cao hơn 13% cuối quý trước. Dù con số này thấp hơn nhiều dư nợ kỷ lục 201 ngàn tỷ đồng cuối quý 1 nhưng các tỷ lệ tương quan margin với thị trường cho thấy áp lực margin cuối quý 3 lớn hơn nhiều.
+Giá trị giao dịch trung bình (khớp lệnh) trên hai sàn HOSE và HNX trong quý 3 đã giảm từ 17,604 tỷ còn 13,582 tỷ đồng (giảm 23%), vốn hoá toàn thị trường cũng giảm từ 5,096,042 còn 4,766,543 (giảm 6%). Tuy nhiên, tỷ lệ vay margin lại tăng lên từ 150,000 tỷ lên 170,000 tỷ (13%). Việc vốn hoá và giá trị giao dịch sụt giảm trong khi tỷ lệ vay margin lại tăng cao hàm ý rủi ro của margin gây áp lực lên thị trường đã gia tăng đáng kể.
+Xét theo tỷ lệ Margin/Vốn hoá, sau khi giảm từ 3.15% cuối quý 1 xuống 2.94% cuối quý 2, tỷ lệ này đã tăng lên 3.57% cuối quý 3 tương đương mức tăng 21%, tăng nhanh hơn tỷ lệ vay margin là 13%.
+Tuy nhiên, thị trường chứng khoán Việt Nam có đặc thù dòng vốn vào ra khá nhanh. Tỷ lệ GTGDTB/Margin (cho biết quy mô margin so với GTGDTB hàng ngày) đã giảm từ 13.5% cuối quý 1 còn gần 8% trong quý 3. Tỷ lệ này càng thấp thì rủi ro thanh khoản margin càng cao.
+Nghịch đảo tỷ lệ này, ta có được khả năng hấp thụ margin (vòng quay margin). Cuối quý 3 cần 12 ngày giao dịch để tiêu thụ hết lượng margin trong khi tỷ lệ này cuối quý 1 là gần 7 ngày.
+Như vậy tất cả các chỉ tiêu đều cho thấy tỷ trọng margin ngày càng lớn và gia tăng áp lực cho thị trường đáng kể. Và kết hợp với một thị trường đi xuống nhanh, sâu như từ đầu tháng 10 sẽ góp phần đạp thị trường nhanh hơn.
+Theo một số chuyên gia, các công ty chứng khoán margin quý 3 gia tăng không phải do các nhà đầu tư cá nhân nhỏ lẻ mà là do lãnh đạo chủ chốt của các doanh nghiệp, đặc biệt doanh nghiệp bất động sản gia tăng vay trong quý 3.
+Điều này là khá nguy hiểm bởi khi lãnh đạo chủ chốt bị giải chấp thì sức ép lên giá cổ phiếu sẽ nặng nề hơn các cổ đông nhỏ lẻ rất nhiều.
+Margin, vốn là con dao hai lưỡi. Trong một thị trường sập quá bất ngờ, khi khách hàng không còn đủ tài sản đảm bảo, rủi ro sẽ tăng lên nhiều lần.
+Kiên Cường
+FILI

@@ -1,0 +1,31 @@
+VN-Index giảm mạnh và hình thành mẫu hình nến Black Marubozu. Bên cạnh đó, khối lượng giao dịch duy trì ở mức thấp cho thấy nhà đầu tư đang thận trọng. Nếu tình trạng này còn tiếp diễn thì rủi ro sẽ tăng lên trong ngắn hạn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 12/12/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 12/12/2022. Cụ thể, VN-Index giảm 1.88%, xuống mức 1,032.07 điểm; HNX-Index giảm 2.98%, xuống còn 210.53 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 809 triệu đơn vị, tăng 11.46% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 13%, đạt gần 115 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 330 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 9 tỷ đồng.
+- Thị trường chứng khoán mở cửa phiên giao dịch tuần với sắc xanh tương đối lạc quan. VN-Index tăng gần 9 điểm sau phiên ATO và giằng co trên tham chiếu trong suốt phiên sáng. Nhiều nhóm ngành như thủy sản, khai khoáng đều giao dịch hết sức sôi động. Tuy nhiên, sau giờ nghỉ trưa, diễn biến của các chỉ số chính có sự suy yếu dần, nguyên nhân chính đến từ nhóm cổ phiếu Large Cap. VN-Index còn lao dốc giảm về dưới mức tham chiếu và nới rộng sắc đỏ khi về cuối phiên. Kết thúc giao dịch, VN-Index giảm 19.74 điểm, xuống mức 1,032.07 điểm.
+- VN30-Index kết phiên giảm mạnh 27.66 điểm (-2.6%), xuống còn 1,037.42 điểm. Bên bán chiếm ưu thế lớn với 23 mã giảm, 6 mã tăng và 1 mã đứng giá. Trong đó, KDH và VIC cùng giảm hết biên độ. Theo sau là các cổ phiếu như VRE, VHM, PDR sụt giảm trung bình trên 6%. Ở chiều ngược lại, NVL tăng trần, PLX tăng 2.3%, TPB tiến 1.8%.
+- Về mức độ ảnh hưởng, VIC, VHM, BID, VRE hay TCB là những mã có tác động tiêu cực nhất đến VN-Index. Trong khi đó, NVL, EIB, HVN là những cổ phiếu có ảnh hưởng tích cực nhất, nhưng mức độ đóng góp là không lớn.
+- Dù tăng tương đối tích cực trong phiên sáng, nhưng ngành chứng khoán lại sụt giảm mạnh trong phiên chiều và là ngành giảm điểm mạnh nhất trên thị trường. Nhiều cổ phiếu như VND, VCI, FTS hay CTS cùng giảm hết biên độ. Các ông lớn như SSI, HCM, SHS, MBS cũng đều giảm sâu.
+- Ngược xu hướng chung, ngành chế biến thủy sản lại giao dịch khá sôi động. Các mã ANV, IDI, ACL leo dốc tăng trần. VHC tiến tốt ở mức 2.29%, FMC tăng 1.09%...
+- Trong ngành xây dựng, bộ đôi CTD và HBC có phiên giao dịch sôi động. Trong khi CTD leo dốc tăng hết biên độ, HBC cũng tiến sát mức giá trần. Khối lượng giao dịch của hai cổ phiếu này cũng tăng mạnh cho thấy lực cầu là khá lớn.
+- VN-Index giảm mạnh và hình thành mẫu hình nến Black Marubozu. Bên cạnh đó, khối lượng giao dịch dịch duy trì ở mức thấp cho thấy nhà đầu tư đang thận trọng. Nếu tình trạng này còn tiếp diễn thì rủi ro sẽ tăng lên trong ngắn hạn.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Black Marubozu hình thành
+Trong phiên giao dịch ngày 12/12/2022, VN-Index hình thành mẫu hình nến Black Marubozu cho thấy tâm lý bi quan của nhà đầu tư đang quay trở lại.
+Khối lượng giao dịch duy trì ở mức thấp chứng tỏ nhà đầu tư đang hạn chế giao dịch trong ngắn hạn. Nếu tình trạng này tiếp tục kéo dài thì tình hình sẽ chuyển biến xấu hơn.
+
+HNX-Index - Mẫu hình Double Top hình thành
+Trong phiên giao dịch ngày 12/12/2022, HNX-Index hình thành đồng thời mẫu hình nến Bearish Engulfing và Black Marubozu cho thấy triển vọng ngắn hạn đã bi quan trở lại.
+Chỉ số không thể phá vỡ vùng 220-225 điểm (tương đương ngưỡng Fibonacci Retracement 38.2%) nên mẫu hình Double Top đã hình thành.
+Chỉ báo Stochastic Oscillator đã cho tín hiệu bán trong vùng overbought và có thể rơi khỏi vùng này trong các phiên tới. Vì vậy rủi ro đang tăng lên mức khá cao.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 12/12/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 12/12/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

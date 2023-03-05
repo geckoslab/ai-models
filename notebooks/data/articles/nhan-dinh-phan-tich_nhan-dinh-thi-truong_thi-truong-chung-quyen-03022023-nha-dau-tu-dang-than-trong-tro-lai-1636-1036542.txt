@@ -1,0 +1,20 @@
+Kết thúc phiên giao dịch ngày 02/02/2023, toàn thị trường có 26 mã tăng, 52 mã giảm và 15 mã tham chiếu. Khối ngoại tiếp tục bán ròng với tổng mức bán ròng đạt 2.22 triệu đơn vị.
+I. DIỄN BIẾN THỊ TRƯỜNG CHỨNG QUYỀN
+Kết thúc phiên giao dịch ngày 02/02/2023, toàn thị trường có 26 mã tăng, 52 mã giảm và 15 mã tham chiếu.
+Tâm lý thận trọng chi phối thị trường chứng quyền sau phiên lao dốc mạnh, nhiều nhóm chứng quyền có diễn biến trái chiều dù tài sản cơ sở ghi nhận sắc xanh như HPG, MBB, MSN, POW, VPB và VRE với mức giảm quanh 10%. Ở chiều tăng, hai mã chứng quyền KDH gồm CKDH2209 và CKDH2212 tăng lần lượt 16.7% và 50%, trong khi đó nhóm chứng quyền STB phục hồi nhẹ quanh 5%.
+Số lượng chứng quyền toàn thị trường trong phiên hôm nay tăng từ 87 mã lên 93 mã do có thêm 6 mã chứng quyền mới niêm yết từ Công ty chứng khoán BSC với thời gian đáo hạn vào tháng 6 và 9/2023. Trong phiên giao dịch đầu tiên, các mã này ghi nhận thanh khoản khá kém khi có 4/6 mã không xuất hiện giao dịch, trong khi thanh khoản của 2 mã còn lại khá nhỏ giọt.
+Khối lượng giao dịch toàn thị trường trong phiên hôm nay đạt 25.13 triệu đơn vị, giảm -29.5%; giá trị giao dịch đạt 12.1 tỷ đồng, giảm -23.82% so với phiên trước. Trong đó, CHPG2221 là mã dẫn đầu thị trường về khối lượng, CMBB2213 dẫn đầu về giá trị giao dịch.
+Khối ngoại tiếp tục bán ròng trong phiên hôm nay với tổng mức bán ròng đạt 2.22 triệu đơn vị. Trong đó, CVRE2218 và CHPG2215 là hai mã bị bán ròng nhiều nhất.
+Công ty chứng khoán KIS hiện đang là tổ chức phát hành có nhiều mã chứng quyền nhất thị trường với 32 mã, theo sau là HSC với 29 mã, SSI với 16 mã, ACBS với 10 mã, BSC với 6 mã.
+Nhóm chứng quyền thuộc SSI đang chiếm 45.3% khối lượng giao dịch toàn thị trường, KIS chiếm 28.6%, HSC chiếm 15.4%, ACBS chiếm 10.9%, BSC chiếm 0.1%.
+
+Nguồn: VietstockFinance
+II. ĐỊNH GIÁ CÁC CHỨNG QUYỀN
+Dựa trên phương pháp định giá phù hợp với thời điểm khởi đầu là ngày 03/02/2023, mức giá hợp lý của các chứng quyền đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại chứng quyền.
+Theo định giá trên, CMWG2213 và CTPB2204 hiện là hai mã chứng quyền có mức định giá hấp dẫn nhất.
+Những mã chứng quyền có effective gearing càng cao thì biến động tăng/giảm theo chứng khoán cơ sở thường sẽ càng lớn. Hiện CFPT2211 và CHPG2221 là hai mã chứng quyền có tỷ lệ effective gearing cao nhất thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

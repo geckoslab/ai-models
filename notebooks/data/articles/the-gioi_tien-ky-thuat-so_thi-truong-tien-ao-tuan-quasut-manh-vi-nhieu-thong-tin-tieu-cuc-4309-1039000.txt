@@ -1,0 +1,23 @@
+Thị trường tiền ảo giảm mạnh trong tuần qua khi đón nhiều thông tin tiêu cực.
+Tính tới sáng ngày 11/02, giá Bitcoin dao động gần mức 21,700 USD, giảm hơn 7% trong tuần qua. Ethereum – đồng tiền ảo lớn thứ hai – lao dốc 8.5% so với cuối tuần trước.
+Các đồng tiền khác trong top 10 cũng ghi nhận mức giảm mạnh, với BNB giảm 7%, Ripple sụt 6%, Cardano lao dốc 10% và Dogecoin mất 12.5%.
+Thị trường tiền ảo có thể bị ảnh hưởng tiêu cực vì thông tin sàn giao dịch Kraken sẽ dừng cung cấp dịch vụ hay chương trình nhận thưởng từ việc nắm giữ tiền ảo cho khách hàng Mỹ. Ngoài ra, còn có thông tin công ty phát hành Stablecoin Paxos đang bị Cơ quan quản lý New York điều tra.
+Theo một số chuyên gia, thị trường tiền ảo còn chịu áp lực từ những đợt thắt chặt tiền tệ của Cục Dự trữ liên bang Mỹ (Fed).
+Kraken đạt thỏa thuận với SEC
+Sàn giao dịch tiền mã hoá Kraken vừa đạt thỏa thuận với Ủy ban Giao dịch Chứng khoán Mỹ (SEC), theo đó họ sẽ việc dừng cung cấp dịch vụ hay chương trình nhận thưởng từ việc nắm giữ tiền ảo (còn gọi là hoạt động staking trong ngành tiền ảo).
+Trong công bố ngày 09/02, SEC cho biết họ đã phạt Kraken vì “không đăng ký cung cấp hay bán chương trình dịch vụ chia thưởng từ việc nắm giữ tiền ảo”. Sàn giao dịch này đã đồng ý dừng hoạt động chương trình này với khách hàng Mỹ cũng như trả 30 triệu USD vì vi phạm.
+“Kraken không chỉ cung cấp cho khách hàng lãi suất lớn không phù hợp với thực tế kinh tế, mà còn giữ quyền không trả cho nhà đầu tư bất cứ đồng nào”, theo giám đốc Phòng Thi hành SEC Gurbir Grewal.
+Công ty phát hành Stablecoin Paxos đang bị Cơ quan quản lý New York điều tra
+Theo CoinDesk, công ty phát hành stablecoin Paxos đang bị Cơ quan Dịch vụ Tài chính New York (NYDFS) điều tra. Tuy nhiên, mục đích của cuộc điều tra vẫn chưa được làm rõ.
+Paxos là đơn vị phát hành thực tế của hai stalecoin USDP (tên cũ là PAX), cũng như BUSD – đồng stablecoin mang thương hiệu của sàn giao dịch tiền mã hóa lớn nhất thế giới Binance.
+Trước đó, đã có thông tin rằng Paxos bị Văn phòng Kiểm soát Tiền tệ Mỹ (OCC) yêu cầu rút đơn đăng ký giấy phép ngân hàng, song đã bị công ty phủ nhận.
+NYDFS là đơn vị quản lý các công ty tiền ảo trong khuôn khổ bang New York thông qua giấy phép BitLicense.
+Vào tháng 6/2022, cơ quan này đã công bố bộ quy tắc về stablecoin sau cú sập của đồng LUNA, yêu cầu các đơn vị phát hành stablecoin phải đảm bảo tài sản bảo chứng đầy đủ và tách biệt với tài sản người dùng. Theo dữ liệu cập nhật đến ngày 31/01/2023, Paxos đang quản lý 16.15 tỷ USD tài sản bảo chứng cho BUSD, trong đó tiền mặt chiếm 3.94%, trái phiếu kho bạc Mỹ chiếm 20.58% và hợp đồng mua lại chiếm 75.48%.
+Phó tướng của Warren Buffett: “Mỹ nên cấm tiền ảo”
+Tỷ phú 99 tuổi Charlie Munger cho rằng Mỹ nên cấm tiền ảo, vì đây là canh bạc với phần thắng gần như 100% thuộc về nhà cái.
+"Tiền số không phải là tiền tệ, không phải hàng hóa và không an toàn", Phó chủ tịch Berkshire Hathaway Charlie Munger cho biết trong một bài viết đăng vào ngày 02/02. Theo ông, tiền số là một canh bạc mà nhà cái nắm gần như 100% phần thắng. Trong khi Mỹ là quốc gia mà việc đánh bạc lại do các bang kiểm soát rất lỏng lẻo.
+"Rõ ràng là Mỹ nên có một đạo luật liên bang để ngăn việc này lại", ông nói.
+Munger là cộng sự lâu năm và là cánh tay phải của huyền thoại đầu tư Warren Buffett. Ông cùng Buffett chủ trì Đại hội cổ đông của Berkshire Hathaway hàng năm, trả lời câu hỏi của nhà đầu tư về hàng loạt vấn đề trên thế giới.
+Cả hai từ lâu vẫn nghi ngờ tiền số. Họ cho rằng đây không phải tài sản hữu hình hay có khả năng sinh lời. Buffett năm 2019 từng gọi Bitcoin là "một công cụ đánh bạc, liên quan đến rất nhiều trò lừa đảo". "Với tôi, đó không phải là một khoản đầu tư", ông nói. Năm 2021, Munger cũng chỉ trích Bitcoin là "loại tiền tệ có ích với tội phạm" và "đi ngược lại lợi ích của nền văn minh".
+Vũ Hạo (Tổng hợp)
+FILI

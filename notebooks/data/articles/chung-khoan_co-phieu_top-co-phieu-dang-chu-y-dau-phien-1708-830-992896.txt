@@ -1,0 +1,13 @@
+Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.
+2 Phiên
+
+3 Phiên
+
+4 Phiên
+5 Phiên
+
+Giao dịch nhiều
+ 
+* Danh sách các mã tăng, giảm giá nhiều nhất xét đến khối lượng giao dịch trên 10,000 đơn vị.
+Hồng Đức
+FILI

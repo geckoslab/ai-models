@@ -1,0 +1,1 @@
+Hơn 567 triệu cp ROS bị chuyển dữ liệu từ HOSE xuống UPCoM 

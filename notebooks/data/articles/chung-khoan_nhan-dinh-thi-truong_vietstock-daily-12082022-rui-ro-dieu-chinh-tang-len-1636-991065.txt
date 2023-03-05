@@ -1,0 +1,29 @@
+VN-Index có phiên đảo chiều từ tăng sang giảm và hình thành cây nến đỏ thân dài cho thấy tâm lý nhà đầu tư khá bi quan. Chỉ báo Stochastic Oscillator đã cho tín hiệu bán và có thể rơi khỏi vùng overbought trong các phiên tới.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 11/08/2022
+- Các chỉ số chính cùng giảm điểm trong phiên giao dịch ngày 11/08/2022. Cụ thể, VN-Index giảm 0.35%, xuống mức 1,252.07 điểm; HNX-Index giảm 1.11%, dừng chân ở mức 300.18 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 765 triệu đơn vị, tăng mạnh 30.96% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 38.45%, đạt hơn 128 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 74 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 55 tỷ đồng.
+- Chứng khoán Mỹ tăng mạnh vào ngày thứ Tư (10/08), sau khi báo cáo lạm phát quan trọng cho thấy đà tăng giá chậm lại tốt hơn so với dự báo. Thị trường chứng khoán trong nước theo đó cũng bật tăng tốt ngay đầu phiên, VN-Index tăng hơn 11 điểm sau phiên ATO. Tuy nhiên, áp lực bán đến từ nhóm cổ phiếu Mid Cap và Small Cap khiến chỉ số dần thu hẹp sắc xanh của mình. Phiên chiều còn diễn biến tiêu cực hơn khi VN-Index có lúc giảm gần 8 điểm. Tuy có sự hồi phục nhẹ ở cuối phiên nhưng chỉ số không thể lấy lại được sắc xanh trước đó. Kết thúc giao dịch, VN-Index giảm 4.43 điểm, xuống còn 1,252.07 điểm.
+- VN30-Index kết phiên giảm 4.82 điểm (-0.38%), xuống mức 1,272.33 điểm. Bên bán chiếm ưu thế hơn trong rổ VN30 với 17 mã giảm, 11 mã tăng và 2 mã đứng giá. Dẫn đầu đà giảm trong rổ là NVL khi sụt 2.3%. Theo sau là các mã VNM, HPG, VPB và MBB. Ở chiều ngược lại, GAS, VRE và VIC là những cổ phiếu tăng giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, NVL, VNM, HPG, VPB là những mã có tác động tiêu cực nhất đến VN-Index khi lấy đi gần 3 điểm của chỉ số này. Trong khi đó, VCB, GAS và VIC là những mã có ảnh hưởng tích cực nhất.
+- Sự đảo chiều của nhiều cổ phiếu trong phiên chiều khiến sắc đỏ chiếm ưu thế lớn ở các nhóm ngành. Trong đó, chứng khoán là một trong những ngành giảm điểm mạnh nhất. Cổ phiếu VCI lao dốc mạnh trong phiên khi sụt giảm 5.45%. Mã ORS, CTS cùng giảm mạnh hơn 4%. Các ông lớn như SSI, VND, SHS cùng giảm xuống dưới mức tham chiếu.
+- Bên cạnh đó, ngành sản xuất nhựa - hóa chất cũng có phiên giao dịch ảm đậm. Trong đó, GVR sụt 1.4%, PHR giảm 2.31. Nhóm cổ phiếu phân bón như DPM hay DCM cùng giảm trung bình gần 2%.
+- VN-Index có phiên đảo chiều từ tăng sang giảm và hình thành cây nến đỏ thân dài cho thấy tâm lý nhà đầu tư khá bi quan. Chỉ báo Stochastic Oscillator đã cho tín hiệu bán và có thể rơi khỏi vùng overbought trong các phiên tới.
+PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Các tín hiệu tiêu cực xuất hiện
+Trong phiên giao dịch ngày 11/08/2022, VN-Index xuất hiện cây nến đỏ dài bao trùm gần như toàn bộ 3 cây nến trước đó. Điều này cho thấy tâm lý nhà đầu tư khá bất ổn.
+Chỉ báo Stochastic Oscillator đã cho tín hiệu bán và có thể rơi khỏi vùng overbought. Điều này chứng tỏ rủi ro điều chỉnh đang tăng lên.
+
+HNX-Index - Đã đạt tới mục tiêu giá của mẫu hình Ascending Triangle
+Chỉ số chững lại đà tăng khi tiến gần đến ngưỡng Fibonacci Retracement 23.6%. Cây nến có bóng mờ bên trên dài (long upper shadow) xuất hiện cho thấy tâm lý nhà đầu tư khá thận trọng và áp lực bán gia tăng.
+Mặt khác, HNX-Index đã đạt tới mục tiêu giá (target price) của mẫu hình Ascending Triangle (tương đương vùng 305-310 điểm) nên dự kiến sẽ có điều chỉnh nhẹ trong thời gian tới.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 11/08/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 11/08/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

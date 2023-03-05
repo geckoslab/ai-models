@@ -1,0 +1,13 @@
+Trong phiên giao dịch lô lẻ đầu tiên trên sàn HOSE (12/09), tổng lệnh đặt giao dịch lô lẻ là 190,671 lệnh, chiếm khoảng 22% tổng lệnh đặt toàn thị trường. Tỷ lệ khớp lệnh của giao dịch lô lẻ là 37.44% với khối lượng hơn 1.3 triệu chứng khoán.
+* Những lưu ý về giao dịch lô lẻ
+Được sự chấp thuận của Ủy ban Chứng khoán Nhà nước, Sở Giao dịch Chứng khoán Việt Nam, Sở Giao dịch Chứng khoán TP.HCM (HOSE) đã thực hiện áp dụng giao dịch chứng khoán lô lẻ bắt đầu từ ngày 12/09/2022. Theo HOSE, trong ngày đầu tiên áp dụng, hệ thống giao dịch ghi nhận hoạt động ổn định và thông suốt.
+Trong phiên giao dịch lô lẻ đầu tiên, tổng lệnh đặt giao dịch lô lẻ là 190,671 lệnh, chiếm khoảng 22% tổng lệnh đặt toàn thị trường.
+Tỷ lệ khớp lệnh của giao dịch lô lẻ là 37.44% với khối lượng hơn 1.3 triệu chứng khoán.
+Trước đó, nhằm đáp ứng nhu cầu giao dịch chứng khoán lô lẻ của nhà đầu tư, HOSE đã tích cực phối hợp với Công ty TNHH Hệ thống thông tin FPT nâng cấp và thử nghiệm toàn thị trường chức năng giao dịch chứng khoán lô lẻ.
+Trên cơ sở đó, được sự chấp thuận của Bộ Tài chính, Ủy ban Chứng khoán Nhà nước, Sở Giao dịch Chứng khoán Việt Nam, HOSE sẽ chính thức triển khai giao dịch chứng khoán lô lẻ từ thứ Hai, ngày 12/09/2022.
+Đối với giao dịch chứng khoán lô lẻ, nhà đầu tư có thể đặt lệnh giao dịch có khối lượng từ 1 đến 99 chứng khoán. HOSE đánh giá việc áp dụng giao dịch chứng khoán lô lẻ sẽ tạo điều kiện cho nhà đầu tư chủ động trong việc đặt lệnh mua - bán, như dễ dàng bán những chứng khoán lô lẻ còn lại trong tài khoản hoặc mua thêm chứng khoán lô lẻ cho tròn một lô giao dịch (lô chẵn), giảm bớt sự phụ thuộc vào các công ty chứng khoán.
+Giao dịch lô lẻ là giao dịch chứng khoán có khối lượng đặt lệnh từ 1-99 chứng khoán với quy định về bước giá, đơn vị yết giá và biên độ dao động giá đối với giao dịch chứng khoán lô lẻ tương tư như giao dịch chứng khoán lô chẵn (100 chứng khoán).
+Giao dịch chứng khoán lô lẻ được thực hiện trên bảng riêng, hoàn toàn tách biệt với giao dịch chứng khoán lô chẵn, các lệnh giao dịch chứng khoán lô lẻ chỉ được khớp với nhau và không được khớp với lệnh chứng khoán lô chẵn.
+Phí giao dịch được áp dụng theo quy định tại Thông tư số 102/2021/TT-BTC ngày 17/11/2021 của Bộ Tài chính quy định giá dịch vụ áp dụng trong lĩnh vực chứng khoán áp dụng tại các tổ chức kinh doanh chứng khoán, ngân hàng thương mại tham gia vào thị trường chứng khoán Việt Nam. Theo đó, các công ty chứng khoán quyết định mức giá dịch vụ môi giới mua, bán cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm nhưng tối đa 0.45% giá trị giao dịch.
+Đông Tư
+FILI

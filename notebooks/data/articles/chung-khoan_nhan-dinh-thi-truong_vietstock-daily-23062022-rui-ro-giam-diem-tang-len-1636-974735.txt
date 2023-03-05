@@ -1,0 +1,30 @@
+VN-Index có phiên giảm điểm nhẹ và giao dịch khá thận trọng. Dòng tiền thông minh tiếp tục sụt giảm. Nếu chỉ số phá vỡ vùng hỗ trợ 1,150-1,200 điểm (tương đương đáy cũ tháng 05/2022) thì rủi ro sẽ rất cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 22/06/2022
+- Các chỉ số chính giao dịch trái chiều trong phiên giao dịch ngày 22/06/2022. Cụ thể, chỉ số VN-Index giảm 0.27%, xuống mức 1,169.27 điểm; trong khi đó, HNX-Index tăng 1.8%, dừng chân ở mức 269.39 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 529 triệu đơn vị, giảm 12.93% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 8.16%, đạt hơn 69 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 24 tỷ đồng, bán ròng trên sàn HNX với giá trị gần 3 tỷ đồng.
+- VN-Index tiếp tục có phiên giao dịch giằng co tại vùng 1,150-1,200 điểm. Tuy hiện sắc xanh ngay đầu phiên, nhưng chỉ số lại nhanh chóng giảm điểm về dưới tham chiếu. VN-Index giao dịch trồi sụt với biên độ hẹp quanh mốc này trong suốt khoảng thời gian còn lại của phiên giao dịch. Kết phiên, VN-Index giảm nhẹ 3.2 điểm, xuống còn 1,169.27 điểm.
+- VN30-Index hiện sắc xanh và tăng nhẹ 2.64 điểm (+0.22%) khi kết phiên. Bên mua chiếm ưu thế hơn trong rổ VN30 với 15 mã tăng, 12 mã giảm và 3 mã đứng giá. Dẫn đầu đà tăng trong rổ là SSI và STB, hai cổ phiếu này cùng leo dốc tăng hết biên độ. Ở chiều ngược lại, giao dịch ảm đạm nhất là POW và GAS khi cùng nằm sàn trong phiên.
+- Về mức độ ảnh hưởng, GAS, VCB, MSN, VNM và FPT là những mã có tác động tiêu cực nhất đến VN-Index. Riêng GAS đã lấy đi gần 4 điểm của chỉ số này. Trong khi đó, TCM, VPB, MBB và HPG là những cổ phiếu có ảnh hưởng tích cực nhất.
+- Về nhóm ngành, nhóm cổ phiếu chứng khoán, ngân hàng, bất động sản cùng có sự hồi phục mạnh với nhiều cổ phiếu tăng mạnh. Trong đó, chứng khoán là ngành tăng mạnh nhất thị trường khi tiến 6.5%. Các ông lớn như SSI, VND, VCI, HCM cùng hiện sắc tím khi kết phiên.
+- Trong khi đó, với việc giá dầu giảm mạnh trong ngày 22/06 khi nhà đầu tư lo ngại về đà giảm tốc của nền kinh tế Mỹ giữa lúc Fed nâng lãi suất, nhóm cổ phiếu họ dầu khí trong nước cũng ghi nhận sự sụt giảm đáng kể trong phiên giao dịch. Trong khi cổ phiếu PVD giảm sàn, các mã khác như BSR lao dốc 12.03%, PVS sụt mạnh 8.91%, PVC giảm 6.06%...
+- VN-Index có phiên giảm điểm nhẹ và giao dịch khá thận trọng. Dòng tiền thông minh tiếp tục sụt giảm. Nếu chỉ số phá vỡ vùng hỗ trợ 1,150-1,200 điểm (tương đương đáy cũ tháng 05/2022) thì rủi ro sẽ rất cao.
+PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Tiếp tục test vùng 1,150-1,200 điểm
+Trong phiên giao dịch ngày 22/06/2022, VN-Index tiếp tục giảm điểm và xuất hiện sự giằng co trong vùng 1,150-1,200 điểm (tương đương đáy cũ tháng 05/2022).
+Nếu vùng hỗ trợ này tiếp tục trụ vững thì tình hình sẽ bớt bi quan hơn. Ngược lại trong kịch bản phá vỡ xảy ra thì rủi ro sẽ rất cao khi mà death cross của nhóm MA trung và dài hạn tiếp tục duy trì.
+
+HNX-Index - Bullish Engulfing hình thành
+Trong phiên giao dịch ngày 22/06/2022, HNX-Index hình thành mẫu hình nến Bullish Engulfing cho thấy triển vọng ngắn hạn được cải thiện.
+Tuy nhiên, khối lượng giao dịch thường xuyên nằm dưới mức trung bình 20 ngày chứng tỏ nhà đầu tư vẫn còn thận trọng.
+Chỉ báo Stochastic Oscillator chuẩn bị cho mua trong vùng oversold. Nếu tín hiệu này xuất hiện thì triển vọng hồi phục sẽ lớn hơn.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index cắt xuống dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ tăng lên.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 22/06/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 22/06/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

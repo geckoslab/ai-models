@@ -1,0 +1,30 @@
+VN-Index sụt giảm trong phiên và hình thành mẫu hình nến Falling Window cho thấy sự bi quan tăng cao. Dòng tiền thông minh tiếp tục giảm mạnh xuống dưới trung bình 20 ngày chứng tỏ rủi ro giảm điểm vẫn còn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 14/11/2022
+- Thị trường chứng khoán giao dịch tiêu cực trong phiên 14/11/2022. Cụ thể, VN-Index giảm 1.41%, xuống mức 941.04 điểm; HNX-Index giảm 3.35%, xuống còn 183.45 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 599 triệu đơn vị, giảm 7.27% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 15.85%, đạt gần 66 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị gần 1,695 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 69 tỷ đồng.
+- Thị trường chứng khoán sụt giảm mạnh trong phiên giao dịch đầu tuần. Các chỉ số chính đồng loạt giảm mạnh ngay sau phiên ATO, VN-Index có lúc sụt mạnh hơn 30 điểm với lực bán áp đảo ở nhiều cổ phiếu có vốn hóa lớn. Chỉ số có sự hồi phục sau đó và thu hẹp dần đà giảm của mình trong phiên. Trong khi đó, HNX-Index thì lại liên tục giảm mạnh trong phiên sáng và duy trì sự ảm đạm của mình trong phiên chiều. Kết thúc giao dịch, VN-Index giảm 13.49 điểm, xuống mức 941.04 điểm; HNX-Index giảm mạnh 6.36 điểm, xuống còn 183.45 điểm.
+- VN-Index kết phiên giảm 12.55 điểm (-1.41%), dừng chân ở mức 936.31 điểm. Bên bán chiếm ưu thế lớn trong rổ VN30 với 20 mã giảm và 10 mã tăng giá. Các mã NVL, GVR, PDR tiếp tục giảm sàn. Theo sau là sự sụt mạnh của các mã MWG, MBB, VPB… Ở chiều ngược lại, SAB, MSN, STB, VIC là những cổ phiếu giao dịch tích cực nhất rổ. Trong đó, STB được khối ngoại mua ròng mạnh với giá trị lên tới 336.58 tỷ đồng.
+- Về mức độ ảnh hưởng, NVL, VPB, MBB, MWG là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Trong khi đó, SAB, MSN, VIC, CTG hay VNM là những mã có tác động tích cực nhất.
+- Về nhóm ngành, hầu hết các ngành đều ghi nhận giảm điểm tiêu cực. Cụ thể, khai khoáng là ngành giảm mạnh nhất thị trường. Nhiều cổ phiếu nằm sàn như PVD, KSB, PVC, C32, NNC...
+- Điểm sáng trong phiên có thể kể tới nhóm cổ phiếu thực phẩm đồ uống. Các ông lớn VNM, MSN, SAB cùng hiện sắc xanh tích cực lần lượt ở mức 0.77%, 3.01%, 3.83%.
+- VN-Index sụt giảm trong phiên và hình thành mẫu hình nến Falling Window cho thấy sự bi quan tăng cao. Dòng tiền thông minh tiếp tục giảm mạnh xuống dưới MA20 chứng tỏ rủi ro giảm điểm vẫn còn.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Falling Window và Doji cùng xuất hiện
+Trong phiên giao dịch ngày 14/11/2022, VN-Index hình thành mẫu hình nến Falling Window và Doji cùng lúc cho thấy sự bi quan tăng cao.
+Chỉ số tiếp tục bám vào đường Lower Band của Bollinger Bands nên xu hướng giảm sẽ còn tiếp diễn.
+Do sóng hiệu chỉnh (corrective wave) đang tiếp tục nên mục tiêu của sóng C là vùng 900-920 điểm.
+
+HNX-Index - Black Marubozu hình thành
+Trong phiên giao dịch ngày 14/11/2022, HNX-Index hình thành mẫu hình nến Black Marubozu cho thấy tâm lý nhà đầu tư đang rất bi quan trong ngắn hạn.
+Đáy cũ tháng 10/2022 (tương đương vùng 202-205 điểm) bị phá vỡ hoàn toàn trước đó nên cũng sẽ trở thành kháng cự trong thời gian tới.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm sâu dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) vẫn còn ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 14/11/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 14/11/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

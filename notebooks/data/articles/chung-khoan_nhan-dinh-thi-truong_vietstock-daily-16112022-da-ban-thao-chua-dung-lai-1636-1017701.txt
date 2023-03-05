@@ -1,0 +1,31 @@
+VN-Index giảm sâu và xác nhận cho mẫu hình nến Falling Window trước đó. Rủi ro trên thị trường tăng cao khi dòng tiền thông minh tiếp tục giảm mạnh xuống dưới đường trung bình 20 ngày.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 15/11/2022
+- Thị trường chứng khoán tiếp tục giao dịch tiêu cực trong phiên 15/11/2022. Cụ thể, VN-Index giảm 3.1%, xuống mức 911.90 điểm; HNX-Index giảm 4.18%, xuống còn 175.78 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 589 triệu đơn vị, giảm 1.7% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 11.2%, đạt hơn 58 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 1,176 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 20 tỷ đồng.
+- Đêm qua, thị trường chứng khoán Mỹ có một phiên sụt giảm tương đối. Dow Jones giảm 0.63%, còn 33,536 điểm, S&P 500 giảm 0.89% còn 3,957 điểm, Nasdaq giảm 1.12% còn 11,196 điểm.
+- Thị trường chứng khoán trong nước tiếp tục có phiên sụt mạnh kéo dài đà giảm từ trước đó. VN-Index mở cửa trong sắc đỏ và liên tục nới rộng đà giảm của mình. Chỉ số có lúc chạm sát mức 900 điểm trước khi hồi phục nhẹ trở lại để thu hẹp bớt đà giảm của mình. Tuy nhiên, số lượng cổ phiếu nằm sàn vẫn đang chiếm ưu thế lớn. VN-Index kết phiên sụt mạnh 29.14 điểm, xuống mức 911.9 điểm.
+- VN-Index kết phiên giảm 31.54 điểm (-3.37%), dừng chân ở mức 904.77 điểm. Bên bán chiếm ưu thế vượt trội với 26 mã giảm giá. Trong đó có tới 11 mã nằm sàn bao gồm BID, GVR, PLX, POW…
+- Về mức độ ảnh hưởng, các cổ phiếu thuộc nhóm ngân hàng như BID, VPB, TCB, CTG là những mã có tác động tiêu cực nhất đến VN-Index. Trong khi đó, các mã VIC, HPG, LGC có tác động tích cực nhất. Nổi bật trong đó là VIC khi bật tăng tốt gần 4% và góp hơn 2 điểm tăng cho chỉ số này.
+- Về nhóm ngành, khai khoáng tiếp tục là giảm mạnh và nằm trong nhóm những ngành giảm mạnh nhất thị trường. Hầu hết các ông lớn đều ghi nhận giảm, trong đó, có nhiều mã giảm hết biên độ như PVD, PVS, KSB, PVC… Trong báo cáo hằng tháng, OPEC nêu rõ nhu cầu dầu mỏ của năm 2022 sẽ tăng 2.55 triệu thùng/ngày, tương đương 2.6%, giảm 100,000 thùng/ngày so với dự báo trước đó. Đây là lần thứ 5 OPEC hạ dự báo nhu cầu kể từ tháng Tư năm nay. Kết thúc phiên giao dịch ngày thứ Hai, hợp đồng dầu Brent lùi 3.44 USD (tương đương 3.58%) xuống 92.55 USD/thùng. Hợp đồng dầu WTI mất 3.78 USD (tương đương 4.25%) còn 85.18 USD/thùng.
+- Theo sau ngành khai khoáng, ngành nông - lâm - ngư cũng có phiên giao dịch ảm đạm. Các cổ phiếu như HNG, HAG, VIF, BAF cùng giảm hết biên độ.
+- VN-Index giảm sâu và xác nhận cho mẫu hình nến Falling Window trước đó. Rủi ro trên thị trường tăng cao khi dòng tiền thông minh tiếp tục giảm mạnh xuống dưới đường trung bình 20 ngày.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Tâm lý bi quan chưa dừng lại
+Trong phiên giao dịch ngày 15/11/2022, VN-Index giảm sâu và xác nhận cho mẫu hình nến Falling Window.
+Chỉ số tiếp tục bám vào đường Lower Band của Bollinger Bands nên xu hướng giảm sẽ còn tiếp diễn.
+Mục tiêu của sóng C đã đạt được (tương đương vùng 900-920 điểm). Người viết dự kiến sẽ có rung lắc mạnh tại đây trong thời gian tới.
+
+HNX-Index - Black Marubozu tiếp tục xuất hiện
+Trong phiên giao dịch ngày 15/11/2022, HNX-Index hình thành mẫu hình nến Black Marubozu cho thấy tâm lý nhà đầu tư đang rất bi quan trong ngắn hạn.
+Ngưỡng Fibonacci Projection 61.8% (tương đương vùng 180-182 điểm) vừa mới bị phá vỡ nên sẽ trở thành kháng cự trong thời gian tới.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm sâu dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) vẫn còn ở mức cao.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 15/11/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 15/11/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

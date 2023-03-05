@@ -1,0 +1,23 @@
+Việt Nam chỉ có 5 tuyến cáp quang biển. Khi một vài tuyến đồng thời gặp sự cố, kết nối Internet đi quốc tế sẽ bị ảnh hưởng mà không có các phương án bù lưu lượng.
+Mạng chậm trở thành vấn đề ám ảnh người dùng Việt Nam trong những tuần gần đây. “Trong Tết Nguyên đán, tôi không thể trả lời được các tin nhắn Facebook gửi đến, có những tin nhắn rất quan trọng, làm bạn bè hiểu nhầm”, chị Lệ Thùy (Hà Nội), chia sẻ.
+Trở lại với công việc giảng dạy sau Tết, chị Thùy tiếp tục bị tình trạng mạng chậm, chập chờn cản trở. “Có lúc sử dụng được các công cụ họp trực tuyến, lúc không. Ngoài ra các file bài giảng của tôi có kích thước lớn, lưu trữ trực tuyến và tải về khi cần dùng, nhưng 2 ngày liền tôi không tải được file, thậm chí phải hoãn buổi dạy”, chị Thùy nói.
+Kết nối không ổn định khiến người dùng mạng khó thực hiện công việc đúng kế hoạch, đặc biệt là các tác vụ đòi hỏi lưu lượng cao như thao tác với các file lớn, thu phát trực tiếp nội dung kỹ thuật số. Nguyên nhân là 4 trong số 5 tuyến cáp quang mà các nhà cung cấp dịch vụ Internet (ISP) Việt Nam đang khai thác đã lần lượt gặp sự cố từ cuối năm 2022.
+Do mạng chậm, chập chờn, thao tác với các file nặng có thể kéo dài nhiều giờ đồng hồ. Ảnh: Xuân Sang.
+“Với việc sự cố xảy ra đồng thời trên cả 4 hệ thống cáp biển, việc truy cập Internet quốc tế của người dùng Việt Nam đều bị ảnh hưởng, đặc biệt trong các giờ cao điểm và đối với các hoạt động đòi hỏi băng thông Internet tốc độ cao”, đại diện nhà mạng VNPT trao đổi với Zing.
+Vì sao Việt Nam hay đứt cáp
+Cáp quang biển, hạ tầng cung cấp 99% lưu lượng Internet toàn cầu, có nhiều phân đoạn với cấu tạo khác nhau. Càng ở các khu vực gần bờ, cáp càng được gia cường nhiều hơn, nhưng vẫn thường xuyên gặp sự cố do các hoạt động hàng hải của con người.
+“Mặc dù dày đặc thép gia cường, nhưng nếu bị mỏ neo của một con tàu chở hàng cỡ vài chục nghìn tấn móc phải và rê đi thì sợi cáp đó cũng không khác sợi chỉ”, đại diện Viettel Networks cho biết.
+Ước tính mỗi năm Việt Nam gặp khoảng 10 lần đứt cáp, mỗi lần kéo dài khoảng một tháng và thường chỉ có 3 tuyến cáp quang biển hoạt động đồng thời.
+Cáp quang biển được gia cố bằng nhiều lớp vật liệu, nhưng vẫn dễ bị ảnh hưởng bởi tàu, thuyền. Ảnh: hdblog.
+Sự cố xảy ra dày đặc vì vùng biển Đông Nam của Việt Nam có mức nước tương đối nông, cùng với đó là hoạt động hàng hải nhộn nhịp vào bậc nhất trên thế giới. Khung chế tài của Việt Nam trên biển còn yếu trong việc cấm các tàu neo đậu ở vùng nước có tuyến cáp đi qua, đại diện Viettel Networks giải thích.
+Công ty nghiên cứu viễn thông TeleGeography ước tính hoạt động tàu thuyền gây ra 2/3 các sự cố đứt cáp trên thế giới. Các công ty trong ngành viễn thông không xa lạ với các sự cố này, và sử dụng nhiều tuyến cáp khác nhau để đảm bảo lưu lượng khi xảy ra sự cố, Tim Stronge, Phó chủ tịch nghiên cứu tại TeleGeography, cho biết.
+Thiếu phương án dự phòng do ít tuyến cáp
+Tuy nhiên tình hình thực tế cho thấy các ISP Việt Nam không “dư dả” phương án dự phòng như vậy. “Mức độ đảm bảo về hạ tầng quốc tế phục vụ kết nối internet cho người dùng Việt Nam là thấp trong khu vực, chưa đủ dùng cho doanh nghiệp viễn thông”, theo đánh giá của Viettel Networks.
+Việt Nam có hơn 72 triệu người sử dụng Internet và đang khai thác 5 tuyến cáp gồm SMW3, AAG, IA, APG, AAE-1, ngoài ra có 2 tuyến SJC2 và ADC dự kiến đưa vào khai thác trong năm nay. Trong khi đó, để so sánh, Malaysia có 25.3 triệu người dùng Internet và có 22 tuyến cáp biển, Thái Lan có 36,5 triệu người dùng và có 10 tuyến cáp quang biển.
+Khi xảy ra sự cố, đặc biệt là sự cố đồng thời trên nhiều tuyến cáp, nhà mạng rơi vào thế khó vì không đủ hạ tầng ứng cứu. VNPT đánh giá sự cố như hiện nay là “bất khả kháng” và “ảnh hưởng đến tất các nhà cung cấp dịch vụ Internet của Việt Nam”.
+Quá trình sửa chữa một tuyến cáp quang biển phức tạp và có thể kéo dài nhiều tháng. Ảnh: JT.
+APG sẽ là tuyến cáp được khôi phục đầu tiên trong tháng 3. Tiếp sau đó là tuyến AAG vào đầu tháng 4. Các tuyến IA và AAE-1 vẫn chưa có thời điểm dự kiến khắc phục xong sự cố.
+Viettel Networks cho biết đã đầu tư thêm 30% dung lượng đường truyền quốc tế, và sẵn sàng bổ sung tiếp 400 Gbps trong tháng 2 khi chờ sửa chữa các tuyến cáp biển bị đứt.
+Với VNPT, nhà mạng này chia sẻ đã tối ưu lưu lượng và bổ sung tài nguyên cáp đất để đảm bảo các dịch vụ Facebook, TikTok, YouTube, và các giao dịch chứng khoán tài chính, bảo hiểm, ngân hàng không bị gián đoạn nghiêm trọng.
+Theo ghi nhận của Zing, nhiều người dùng mạng cho biết không được ISP cảnh báo về việc sự cố cáp quang sẽ ảnh hưởng đến kết nối và tốc độ truy cập mạng, hay các phương án đền bù cho khách hàng.
+ZING.VN

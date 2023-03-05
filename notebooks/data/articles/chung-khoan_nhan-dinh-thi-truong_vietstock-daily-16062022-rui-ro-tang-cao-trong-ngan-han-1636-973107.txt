@@ -1,0 +1,31 @@
+Thị trường có phiên giao dịch ảm đạm khi chỉ số giảm hơn 16 điểm. Khối ngoại bán ròng trở lại trên cả hai sàn. Bên cạnh đó, một số chỉ báo cho tín hiệu bán nên rủi ro điều chỉnh trong thời gian vẫn còn cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 15/06/2022
+- Các chỉ số chính cùng giảm điểm trong phiên giao dịch ngày 15/06/2022. Cụ thể, chỉ số VN-Index giảm 1.33%, xuống mức 1,213.93 điểm; HNX-Index giảm 2.35%, dừng chân ở mức 283.25 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 541 triệu đơn vị, tăng 20.75% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 9.79%, đạt hơn 69 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị hơn 182 tỷ đồng, bán ròng trên sàn HNX với giá trị gần 11 tỷ đồng.
+- Tâm lý nhà đầu tư trên thị trường khá bi quan khi chứng khoán Mỹ tiếp tục giảm điểm vào ngày thứ Ba (14/6/2022). Các chỉ số chính trên thị trường chứng khoán Việt Nam theo đó cũng có phiên giao dịch ảm đạm. VN-Index hiện sắc xanh nhẹ đầu phiên rồi liên tục giảm điểm sau đó. Đà giảm này tiếp tục kéo dài sang phiên chiều. Đỉnh điểm, chỉ số có lúc còn mất hơn 35 điểm. Tuy nhiên, lực cầu xuất hiện ở vùng giá thấp đã kéo chỉ số thu hẹp sắc đỏ về cuối phiên. Kết thúc giao dịch, VN-Index giảm 16.38 điểm, xuống còn 1,213.93 điểm.
+- VN30-Index kết phiên giảm 0.64% (-8.07 điểm). Bên bán chiếm ưu thế lớn trong rổ VN30 với 22 mã giảm, 6 mã tăng và 2 mã đứng giá. Giao dịch tiêu cực nhất trong rổ là SSI và GVR khi cùng giảm hết biên độ. Theo sau là các mã PLX, POW, CTG và HPG. Ngược lại, MWG, PNJ và FPT là những cổ phiếu tăng giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, GVR, HPG, GAS và CTG là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Riêng cổ phiếu GVR đã lấy đi gần 2 điểm của chỉ số. Trong khi đó, MWG, SSB, VGC và FPT là những cổ phiếu có ảnh hưởng tích cực nhất đến chỉ số.
+- Các ngành như chứng khoán, bất động sản, ngân hàng tiếp tục gây áp lực lớn thị trường. Trong đó, chứng khoán là ngành giảm mạnh nhất trong phiên khi có tới 9/25 mã giảm sàn, góp mặt có các ông lớn như VND, SSI, HCM, FTS hay VIX. Nhiều cổ phiếu khác cũng sụt giảm mạnh như VCI, MBS, SHS.
+- Điểm sáng trong phiên đến từ nhóm cổ phiếu bán lẻ. Ông lớn MWG tăng tốt 2.93%. Ngoài ra, các cổ phiếu như VGC leo dốc 5.51%, FRT tiến 1.56%, AST hiện sắc xanh nhẹ. Theo số liệu từ Tổng cục Thống kê (GSO), tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng tháng 05/2022 tăng 4.2% so với tháng trước và tăng 22.6% so với cùng kỳ năm trước. Tính chung 5 tháng đầu năm 2022, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng tăng 9.7% (cùng kỳ các năm 2020 giảm 1.6% và năm 2021 tăng 6.1%). Số liệu trên cho thấy sự phục hồi tích cực của nhóm ngành này.
+- Thị trường có phiên giao dịch ảm đạm khi chỉ số giảm hơn 16 điểm. Khối ngoại bán ròng trở lại trên cả hai sàn. Bên cạnh đó, một số chỉ báo cho tín hiệu bán nên rủi ro điều chỉnh trong thời gian vẫn còn cao.
+PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Chỉ báo MACD cho tín hiệu bán
+Trong phiên giao dịch ngày 15/06/2022, VN-Index sụt giảm và điểm giao cắt tử thần (death cross) của nhóm MA trung và dài hạn cho thấy xu hướng giảm dài hạn vẫn đang diễn ra.
+Chỉ báo Stochastic Oscillator và MACD đồng loạt cho tín hiệu bán mạnh nên rủi ro là rất cao.
+Tuy nhiên, khối lượng giao dịch vẫn nằm trên mức 20 ngày chứng tỏ nhà đầu tư chưa rời bỏ thị trường.
+
+HNX-Index - Bollinger Bands đang bung nén
+Trong phiên giao dịch ngày 15/06/2022, HNX-Index giảm điểm với khối lượng sụt giảm cho thấy tâm lý giao dịch khá thận trọng của nhà đầu tư.
+HNX-Index đã phá vỡ hoàn toàn đường Middle của Bollinger Bands và dải này đang bung nén nên xu hướng ngắn hạn đang là điều chỉnh mạnh.
+Do đáy cũ tháng 05/2022 (tương đương vùng 295-300 điểm) đã bị phá vỡ hoàn toàn nên ngưỡng này chuyển từ hỗ trợ thành kháng cự.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Nếu trạng thái này tiếp tục trong phiên tới thì rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trở lại trong phiên giao dịch ngày 15/06/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 15/06/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

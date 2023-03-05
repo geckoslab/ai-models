@@ -1,0 +1,31 @@
+VN-Index tiếp tục có phiên tăng điểm nhưng tình trạng giằng co mạnh vẫn tiếp diễn. Tuy nhiên, khối lượng giao dịch gia tăng thể hiện nhà đầu tư không quá thận trọng trong ngắn hạn.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 17/08/2022
+- Các chỉ số chính giao dịch trái chiều trong phiên ngày 17/08/2022. Cụ thể, VN-Index chỉ nhích nhẹ lên 0.59 điểm, đạt mức 1,275.28 điểm; HNX-Index giảm 0.43 điểm, dừng chân ở mức 302.59 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 712 triệu đơn vị, tăng mạnh 24.45% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX cũng có mức tăng ấn tượng 35.87%, đạt hơn 100 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 48 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 14 tỷ đồng.
+- Thị trường tiếp tục có phiên giao dịch trong trại thái giằng co mạnh dù VN-Index đã có mức giá mở cửa tương đối cao so với phiên trước đó, chỉ số giằng co ở mức trên tham chiếu trong hầu hết thời gian giao dịch. Kết phiên VN-Index gần như không có thay đổi khi chỉ nhích nhẹ 0.59 điểm (+0.05%) và dừng chân ở mức 1,275.28 điểm.
+- VN30-Index tăng 5.3 điểm, lên mức 1,300.4. Trong đó, số mã tăng-giảm khá cân bằng nhau trong rổ VN30 với 14 mã giảm, 13 mã tăng và 3 mã đứng giá. Diễn biến tiêu cực nhất trong rổ là cổ phiếu MWG với mức giảm 1.5%, theo sau là PLX đánh mất 1.4%, còn BID và BVH cùng chung mức giảm 1.2%. Ở chiều ngược lại, PDR có phiên giao dịch bứt phá khi đạt mức tăng gần như kịch trần.
+- Về mức độ ảnh hưởng, VIC, MSN, NVL và PDR là những mã có tác động tích cực nhất đến chỉ số VN-Index. Những cổ phiếu trên góp hơn 3 điểm tăng cho chỉ số này. Trong khi đó, BID, GAS, MWG và HPG là những mã có ảnh hưởng tiêu cực nhất.
+- Sau các những phiên tăng điểm thì ngành vật liệu xây dựng đã có dấu hiệu hụt hơi. Trong đó, nhóm cổ phiếu thép có phiên giao dịch tiêu cực khi các ông lớn đều đã hiện sắc đỏ. Cụ thể, cặp đôi NKG và HSG đều giảm trên 2%, cổ phiếu quốc dân HPG cũng đã giảm 1.92%. Một số trường hợp đặc biệt khác như cổ phiếu AMD nằm trong họ FLC đã nằm sàn, trong khi PTB ngược dòng tăng trần.
+- Nhóm cổ phiếu thịt và chăn nuôi cũng có phiên giao dịch ảm đạm khi các cổ phiếu đầu ngành đều đã giảm điểm như HAG (-3.25%), HNG (-2.74%), DBC(-1.6%). Bên cạnh đó, cổ phiếu dầu khí cũng không mấy khác biệt khi sắc đỏ đã bao trùm với BSR dẫn đầu về mức giảm (-2.81%).
+VN-Index tiếp tục có phiên tăng điểm nhưng tình trạng giằng co mạnh vẫn tiếp diễn. Tuy nhiên, khối lượng giao dịch gia tăng thể hiện nhà đầu tư không quá thận trọng trong ngắn hạn.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Spinning Top xuất hiện
+Trong phiên giao dịch ngày 17/08/2022, VN-Index hình thành mẫu hình nến Spinning Top cho thấy tâm lý nhà đầu tư đang giằng co mạnh khi giá về gần SMA 100 ngày.
+Trong thời gian tới, người viết dự kiến chỉ số sẽ tiếp tục rung lắc. Nếu đường SMA 100 ngày bị phá vỡ hoàn toàn thì đà tăng dài hạn sẽ càng được củng cố.
+Khối lượng giao dịch vượt lên mức trung bình 20 ngày chứng tỏ nhà đầu tư chưa rời bỏ thị trường.
+
+HNX-Index - Khả năng rung lắc vẫn còn
+Các cây nến có thân nhỏ xuất hiện liên tiếp cho thấy tâm lý nhà đầu tư vẫn còn khá phân vân.
+HNX-Index đã đạt tới mục tiêu giá (target price) của mẫu hình Ascending Triangle (tương đương vùng 305-310 điểm) nên sẽ khó có bứt phá trong ngắn hạn.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+Biến động của dòng tiền từ khối ngoại: Khối ngoại quay lại bán ròng trong phiên giao dịch ngày 17/08/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 17/08/2022
+
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

@@ -1,0 +1,30 @@
+VN-Index hình thành mẫu hình nến Long-Legged Doji cho thấy tâm lý nhà đầu tư đang rất bất ổn. Chỉ số không thể phá vỡ vùng kháng cự 1,095-1,125 điểm (tương đương đỉnh cũ tháng 12/2022 và 01/2023) và xuất hiện Rising Wedge là những dấu hiệu cho thấy rủi ro gia tăng mạnh.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 23/02/2023
+- Thị trường chứng khoán giao dịch giằng co trong phiên 23/02/2023. Kết phiên, VN-Index giảm nhẹ 0.06%, về mức 1,053.66 điểm; HNX-Index giảm 0.31%, dừng chân ở mức 209.31 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 636 triệu đơn vị, giảm 17.08% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 27.83%, đạt gần 79 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 681 tỷ đồng, mua ròng trên sàn HNX với giá trị gần 3 tỷ đồng.
+- Sự tiêu cực của thị trường chứng khoán thế giới đã ảnh hưởng đến các nhà đầu tư ở Việt Nam. Các chỉ số chính cùng hiện sắc đỏ sau phiên ATO. VN-Index giảm chừng 4 điểm khi mở cửa. Nhiều cổ phiếu Large Cap giao dịch dưới tham chiếu cùng với khối ngoại bán ròng mạnh đã kéo chỉ số sụt giảm mạnh. Diễn biến tiêu cực còn kéo dài sang phiên chiều. Tuy nhiên, nhiều cổ phiếu Large Cap đảo chiều đã kéo VN-Index về lại sát tham chiếu trong những phút cuối phiên. Kết thức giao dịch, VN-Index chỉ còn giảm nhẹ 0.62 điểm, dừng chân ở mức 1,053.66 điểm.
+- VN30-Index kết phiên giảm nhẹ 0.13 điểm (-0.01%), về mức 1,050.95 điểm. Bên mua chiếm ưu thế về số lượng trong rổ VN30 với 17 mã tăng, 11 mã giảm và 2 mã đứng giá. Trong đó, VIB tăng mạnh nhất với mức tăng 2.4%. Các cổ phiếu ngân hàng lớn khác như BID, VPB, TPB, ACB hay STB đều hiện sắc xanh.
+- Về mức độ ảnh hưởng, MSN, VRE, VHM, GAS là những mã có tác động tiêu cực nhất đến VN-Index. Tính riêng MSN đã lấy đi hơn 1 điểm của chỉ số này. Ở chiều ngược lại, BID, ACB, HPG và TCB là những mã có đóng góp tích cực nhất.
+- Ngành nông lâm ngư là ngành giảm mạnh nhất trong phiên giao dịch. Ảm đạm nhất trong nhóm là SSC và APC khi giảm sàn. Tuy nhiên, hai ông lớn đầu ngành là HAG và BAF vẫn giữ được sắc xanh nhẹ. Các cổ phiếu khá như VIF, NSC, HNG cùng lao dốc mạnh.
+- Ngành chứng khoán lại có phiên giao dịch nổi bật trong thị trường chung. Nhiều cổ phiếu trong đó đang tăng điểm ổn định như SSI, VND, HCM. Chỉ có 1 số ít trong sắc đỏ như VIX (giảm 0.43%) hay EVS (giảm 2.08%). Ngoài ra nhiều cổ phiếu khác như ORS, AGR, APG đứng giá không thay đổi sau phiên.
+- VN-Index hình thành mẫu hình nến Long-Legged Doji cho thấy tâm lý nhà đầu tư đang rất bất ổn. Chỉ số không thể phá vỡ vùng kháng cự 1,095-1,125 điểm (tương đương đỉnh cũ tháng 12/2022 và 01/2023) và xuất hiện Rising Wedge là những dấu hiệu cho thấy rủi ro gia tăng mạnh.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Mẫu hình Long-Legged Doji xuất hiện
+Trong phiên giao dịch ngày 23/02/2023, VN-Index rung lắc dữ dội và xuất hiện mẫu hình Long-Legged Doji. Điều này cho thấy tâm lý nhà đầu tư đang rất bất ổn.
+Chỉ số không thể phá vỡ vùng kháng cự 1,095-1,125 điểm (tương đương đỉnh cũ tháng 12/2022 và 01/2023) và xuất hiện Rising Wedge là những dấu hiệu cho thấy rủi ro gia tăng mạnh.
+
+HNX-Index - Three Black Candles cho thấy tình hình khá xấu
+Trong phiên giao dịch ngày 23/02/2023, HNX-Index tiếp tục giảm điểm mạnh và hình thành mẫu hình nến Three Black Candles cho thấy nhà đầu tư đang bi quan trong ngắn hạn.
+Chỉ số cũng cắt xuống dưới đường SMA 50 ngày cho thấy tình hình đang trở nên tiêu cực hơn trong bối cảnh thị trường không có nhiều thông tin hỗ trợ.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 23/02/2023. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 23/02/2023
+
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

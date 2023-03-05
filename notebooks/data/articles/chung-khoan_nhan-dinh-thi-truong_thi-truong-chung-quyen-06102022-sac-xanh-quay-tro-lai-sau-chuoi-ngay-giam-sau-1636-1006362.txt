@@ -1,0 +1,20 @@
+Kết thúc phiên giao dịch ngày 05/10/2022, toàn thị trường có 89 mã tăng, 29 mã giảm và 39 mã đứng giá. Khối ngoại quay lại mua ròng với tổng mức mua ròng đạt hơn 1 triệu đơn vị.
+I. DIỄN BIẾN THỊ TRƯỜNG CHỨNG QUYỀN
+Kết thúc phiên giao dịch ngày 05/10/2022 toàn thị trường có 89 mã tăng, 29 mã giảm và 39 mã đứng giá.
+Sắc xanh đã quay trở lại với các nhóm chứng quyền sau nhiều phiên giảm sâu như FPT, HPG, KDH, MWG, POW, TCB, VHM, VPB và VRE. Trong đó, các chứng quyền VHM, MBB, VPB và VRE có mức tăng tốt nhất thị trường khi kết phiên với sắc xanh trên 15%.
+Ở chiều ngược lại, sắc đỏ vẫn chi phối các chứng quyền MSN, ACB và VNM. Trong đó nhóm chứng quyền ACB là nhóm kém tích cực nhất khi nhiều mã mất hơn 12%.
+Khối lượng giao dịch toàn thị trường trong phiên hôm nay đạt 30.5 triệu đơn vị, tăng 4.39%; giá trị giao dịch đạt 9.1 tỷ đồng, tăng 39.01% so với phiên trước. Trong đó, CHPG2201 là mã dẫn đầu thị trường về khối lượng, CSTB2215 dẫn đầu về giá trị giao dịch.
+Khối ngoại quay lại mua ròng trong phiên hôm nay với tổng mức mua ròng đạt hơn 1 triệu đơn vị. Trong đó, CHPG2201 và CVHM2213 là hai mã được mua ròng nhiều nhất.
+Công ty Chứng khoán KIS hiện đang là tổ chức phát hành có nhiều chứng quyền nhất thị trường với 64 mã, theo sau là SSI với 28 mã, HSC có 18 mã, VND có 16 mã, MBS có 12 mã, ACBS có 7 mã, VCSC có 7 mã và BSC có 5 mã.
+Nhóm chứng quyền thuộc KIS đang chiếm 45.1% khối lượng giao dịch toàn thị trường, SSI chiếm 25.4%, VND chiếm 11%, HSC chiếm 7%, ACBS chiếm 4.5%, MBS, VCSC và BSC chiếm 7%.
+
+Nguồn: VietstockFinance
+II. ĐỊNH GIÁ CÁC CHỨNG QUYỀN
+Dựa trên phương pháp định giá phù hợp với thời điểm khởi đầu là ngày 06/10/2022, mức giá hợp lý của các chứng quyền đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại chứng quyền.
+Theo định giá trên, CTPB2205 và CPDR2205 hiện là hai mã chứng quyền có mức định giá hấp dẫn nhất.
+Những mã chứng quyền có effective gearing càng cao thì biến động tăng/giảm theo chứng khoán cơ sở thường sẽ càng lớn. Hiện CVNM2204 và CMWG2205 là hai mã chứng quyền có tỷ lệ effective gearing cao nhất thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

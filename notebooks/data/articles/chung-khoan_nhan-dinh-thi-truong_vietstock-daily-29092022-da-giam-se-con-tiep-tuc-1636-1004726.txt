@@ -1,0 +1,30 @@
+VN-Index tiếp tục giảm mạnh gần 23 điểm trong phiên giao dịch và test lại đáy cũ tháng 07/2022. Dòng tiền thông minh rơi xuống dưới đường EMA 20 ngày cho thấy rủi ro đang rất cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 28/09/2022
+- Thị trường chứng khoán tiếp tục giao dịch ảm đạm trong phiên 28/09/2022. Cụ thể, VN-Index kết phiên giảm 1.96%, xuống mức 1,143.62 điểm; HNX-Index giảm 1.24%, xuống còn 252.35 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 497 triệu đơn vị, tăng 19.65% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 34.07%, đạt hơn 61 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị gần 5 tỷ đồng, bán ròng trên sàn HNX với giá trị gần 28 tỷ đồng.
+- Chứng khoán châu Á-Thái Bình Dương giảm mạnh trong ngày 28/09 sau khi S&P 500 lập đáy mới trong năm 2022 và đồng Nhân dân tệ rơi xuống mức yếu nhất kể từ năm 2008. Thị trường chứng khoán trong nước theo đó cũng nối tiếp chuỗi những ngày giao dịch ảm đạm của mình bằng phiên giảm điểm. VN-Index mở cửa ngay trong sắc đỏ và dần nới rộng đà giảm sau đó với bên bán chiếm ưu thế lớn. Đầu phiên chiều, thị trường xuất hiện lực cầu bắt đáy nhưng vẫn không đủ để khiến sắc xanh trở lại. VN-Index sau đó tiếp tục rơi mạnh và kết phiên với mức giảm 22.92 điểm, xuống còn 1,143.63 điểm.
+- Tương tự với thị trường chung, VN30-Index kết phiên giảm 21.8 điểm (-1.84%), về mức 1,160.66 điểm. Sắc đỏ chiếm ưu thế trong rổ VN30 với 25 mã giảm, 1 mã tham chiếu và chỉ 4 mã tăng giá. Trong đó, GAS là cổ phiếu giao dịch tiêu cực nhất khi giảm sát mức giá sàn. Theo sau đó, các mã VIC, VHM, MSN, FPT hay MWG đều có mức giảm mạnh.
+- Về mức độ ảnh hưởng, các mã GAS, VIC, VHM và MSN là những cổ phiếu có tác động tiêu cực nhất khi lấy đi gần 12 điểm của VN-Index. Trong khi đó, VCB, VPB và VRE là những cổ phiếu có tác động tích cực nhất, nhưng mức độ đóng góp là không lớn.
+- Về nhóm ngành, bên bán vẫn tiếp tục chiếm ưu thế ở hầu hết các nhóm ngành. Trong đó, nông - lâm - ngư là một trong những ngành giảm mạnh nhất thị trường. Bộ đôi HAG và HNG cũng cùng nhau lao dốc giảm hết biên độ. Các cổ phiếu có xu hương tăng tương đối tốt trước đó như PAN, LTG và TAR cũng có phiên giảm mạnh. Trong khi PAN giảm sàn, LTG và TAR cùng lao dốc lần lượt ở mức 6.35% và 8.66%.
+- Ông lớn trong nhóm tiện ích là GAS cũng có phiên giảm mạnh 6.73%. Bộ đôi cổ phiếu điện NT2 và VSH cùng giảm hết biên độ. Các cổ phiếu khác như IDC, DTK hay GEG cùng giảm mạnh.
+- VN-Index tiếp tục giảm mạnh gần 23 điểm trong phiên giao dịch và test lại đáy cũ tháng 07/2022. Dòng tiền thông minh rơi xuống dưới đường EMA 20 ngày cho thấy rủi ro đang rất cao.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Falling Window hình thành
+Trong phiên giao dịch ngày 28/09/2022, VN-Index tiếp tục giảm và hình thành mẫu hình nến Falling Window.
+Chỉ số tiếp tục bám vào đường Lower Band của Bollinger Bands và dải này đang bung nén nên xu hướng giảm vẫn còn tiếp diễn.
+Chỉ số đang test lại đáy cũ tháng 07/2022 (tương đương vùng 1,140-1,160 điểm). Nếu vùng này bị thủng thì rủi ro sẽ rất cao trong ngắn hạn.
+
+HNX-Index - Nhà đầu tư đang rất bi quan
+Trong phiên giao dịch ngày 28/09/2022, HNX-Index tiếp tục đi xuống. Những cây nến đỏ xuất hiện liên tục cho thấy tâm lý nhà đầu tư đang rất bi quan.
+Vùng 260-270 điểm (tương đương đáy cũ tháng 06/2022) đã bị thủng hoàn toàn nên mục tiêu mới sẽ là vùng 220-230 điểm.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index đã rơi xuống dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang tăng lên.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 28/09/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 28/09/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

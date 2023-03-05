@@ -1,0 +1,1 @@
+Ngân hàng đồng loạt xin nới ''room'' tín dụng để triển khai hỗ trợ lãi suất 2%

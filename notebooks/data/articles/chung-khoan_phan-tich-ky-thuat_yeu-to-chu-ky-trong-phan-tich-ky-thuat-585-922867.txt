@@ -1,0 +1,25 @@
+Ở trong đời sống, những hiện tượng tự nhiên như thủy triều, mùa vụ trong nông nghiệp, thời tiết,... đều mang tính chu kỳ. Phân tích chu kỳ giúp chúng ta nhận biết được những thời điểm có thể diễn ra trong tương lai của các hiện tượng đó. Thị trường tài chính cũng không nằm ngoài quy luật này.
+Các giai đoạn chu kỳ thị trường
+Khái niệm chu kỳ trong thị trường tài chính thật sự khó có cách giải thích chính xác và có khá nhiều phương pháp nghiên cứu khác nhau. Vì yếu tố chu kỳ bị ảnh hưởng rất lớn bởi tâm lý của nhà đầu tư. Tính chu kỳ trong thị trường được hiểu là những trạng thái, hiện tượng lặp đi lặp lại trong một khoảng thời gian nhất định của giá cổ phiếu hay một chỉ số cụ thể.
+Một chu kỳ thị trường bao gồm 4 giai đoạn chính, đó là giai đoạn tích lũy, giai đoạn tăng giá, giai đoạn tạo đỉnh và phân phối, giai đoạn giảm giá.
+Giai đoạn tích lũy: Giá cổ phiếu hay chỉ số đi ngang tích lũy sau một xu hướng giảm mạnh trước đó. Những nhà đầu tư giá trị cũng như những người chấp nhận rủi ro đầu tiên bắt đầu mua, cho rằng điều tồi tệ nhất đã qua.
+Giai đoạn tăng tốc: Điều này xảy ra khi giá đã ổn định trong một thời gian và giá cổ phiếu hay chỉ số tăng trưởng liên tục, vượt qua các kháng cự tạo nên một xu hướng tăng mạnh. Ở giai đoạn này, giá cổ phiếu được nhiều nhà đầu cơ để ý và mua bán liên tục.
+Giai đoạn tạo đỉnh và phân phối: Đây là giai đoạn mà giá có tăng nhưng không đáng kể. Những thông tin tốt về doanh nghiệp cũng sẽ được công bố cho công chúng biết rõ. Vào lúc này, nhà đầu tư lớn đang dần thoát hàng.
+Xu hướng giảm: Xu hướng giảm xảy ra khi giá cổ phiếu ngừng tăng trưởng. Điều này khiến những nhà đầu tư đặt nghi vấn và liên tục thoát hàng. Trạng thái bán tháo sẽ xuất hiện trên diện rộng.
+
+Nguồn: StockCharts
+Đầu tư sẽ rất hiệu quả nếu năm bắt được chu kỳ tạo đáy
+Cách cơ bản nhất để xác định chu kỳ của một cổ phiếu là tập trung quan sát vào những khoảng thời gian trong quá khứ để nhận biết sự biến đổi của giá trong những khoảng thời gian nhất định. Nếu điều này lặp đi lặp lại nhiều lần trong quá khứ thì độ tin cậy sẽ rất cao và trạng thái này sẽ có khả năng xuất hiện trong tương lai.
+Người viết nhận thấy SNZ tuân thủ theo một chu kỳ tạo đáy khoảng 9-10 tháng. Vào đúng chu kỳ này, giá cổ phiếu SNZ sẽ xuất hiện các đáy quan trọng và sẽ tăng giá khá mạnh ngay sau đó.
+Những vùng đáy kinh điển có thể đến như đáy tháng 07/2018, tháng 04/2019, tháng 01/2020, tháng 10/2020. Giá SNZ cũng đã tăng tốc được một đoạn sau khi tạo đáy thành công vào tháng 7/2021.
+
+Chu kỳ tạo đáy của giá cổ phiếu SNZ. Nguồn: VietstockUpdater
+Công cụ Fibonacci Time Zones
+Không giống như các loại Fibonacci Retracement hay Fibonacci Projection, Fibonacci Time Zones không giúp nhà đầu tư xác định các ngưỡng kháng cự hay hỗ trợ. Công cụ này chủ yếu dùng để xác định thời điểm đảo chiều của giá dựa trên xu hướng hiện hành.
+Thông thường các vạch thời gian (màu xanh) sẽ tương ứng trùng với các đỉnh và các đáy quan trọng. Nếu các vạch của Fibonacci Time Zones đúng càng nhiều trong quá khứ thì càng có cơ sở để tin tưởng vào thời điểm đảo chiều do các vạch sau đó chỉ ra.
+Từ năm 2016, người viết nhận thấy cổ phiếu TDC nhiều lần tạo đáy thành công ở gần các vạch thời gian của Fibonacci Time Zones, gần nhất là các đáy vào tháng 04/2020, tháng 10/2018, 10/2017… Sau khi tạo đáy vào tháng 04/2020, giá cổ phiếu TDC leo dốc mạnh mẽ ngay sau đó.
+Tuy nhiên, trong thực tế thì người viết vẫn nghiêng nhiều hơn về công cụ Cycle Line và Fibonacci Time Zones chủ yếu đóng vai trò phụ trợ. Trường hợp lý tưởng là Cycle Line và Time Zones cùng hội tụ tại một điểm thì đó sẽ là điểm vào hàng cực kỳ lý tưởng cho nhà đầu tư.
+
+Nguồn: VietstockUpdater
+Bộ phận Phân tích Kỹ thuật, Phòng Tư vấn Vietstock
+FILI

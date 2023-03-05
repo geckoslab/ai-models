@@ -1,0 +1,31 @@
+VN-Index tiếp tục phiên giao dịch giằng co với thanh khoản thấp cho thấy sự thận trọng của nhà đầu tư. Khối ngoại tiếp tục bán ròng và chỉ báo Stochastic Oscillator đã hình thành phân kỳ giá xuống 3 đoạn nên rủi ro sụt giảm trong thời gian tới là khá cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 05/09/2022
+- Thị trường chứng khoán giao dịch trái chiều trong phiên 05/09/2022. Cụ thể, VN-Index giảm 0.25%, xuống mức 1,277.35 điểm; HNX-Index tăng 0.31%, dừng chân ở mức 292.82 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 466 triệu đơn vị, tăng nhẹ 0.81% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 5.38%, đạt gần 63 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị hơn 402 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 38 tỷ đồng.
+- Thị trường chứng khoán giao dịch tương đối thận trọng trong phiên giao dịch đầu tuần. Khởi đầu với sắc xanh, nhưng mức tăng của VN-Index là không lớn. Chỉ số giao dịch với biên độ hẹp trước khi có sự sụt giảm vào cuối phiên sáng với lực bán dần chiếm ưu thế hơn ở các nhóm ngành. Sang phiên chiều, thị trường tiếp tục giằng co nhưng là trong sắc đỏ. Kết thúc giao dịch, VN-Index giảm nhẹ 3.16 điểm, tạm dừng chân ở mức 1,277.35 điểm.
+- VN30-Index kết phiên giảm 3.29 điểm (-0.25%), xuống còn 1,298.15 điểm. Bên bán theo đó cũng chiếm ưu thế trong rổ VN30 với 21 mã giảm, 6 mã tăng và 3 mã đứng giá. Trong đó, giao dịch tiêu cực nhất là cổ phiếu MWG khi sụt giảm 2%. Theo sau là các mã thuộc nhóm cổ phiếu ngân hàng như VIB, VCB, VPB hay BID. Ở chiều ngược lại, HPG, VNM và BVH là những mã tăng mạnh nhất rổ.
+- Về mức độ ảnh hưởng, VCB, BID, VPB và MWG là những mã có tác động tiêu cực nhất đến VN-Index. Tính riêng VCB đã lấy đi gần 2 điểm của chỉ số này. Trong khi đó, HPG và VNM là hai cổ phiếu có đóng góp tích cực nhất giúp chỉ số không giảm sâu.
+- Ngoài ngành ngân hàng, bất động sản khu công nghiệp cũng có phiên giao dịch ảm đạm. Trong đó, ITA lao dốc 2.29%, BCM, LHG, IDC, KBC cùng giảm trung bình trên 1%...
+- Nhóm cổ phiếu sắt thép giao dịch ấn tượng khi là một trong những ngành tăng mạnh nhất thị trường. Ngoài đà tăng tốt của HPG, các cổ phiếu khác trong nhóm đều có mức tăng mạnh. Nổi bật có thể kể tới NKG hay TLH cùng hiện sắc tím khi kết phiên. Các mã như POM, SMC, TVN leo dốc hơn 4%.
+- Bên cạnh đó, dầu khí cũng là ngành có đóng góp tương đối tích cực cho thị trường trong phiên. Bộ đôi PVS, PVD tăng lần lượt ở mức 2.16% và 3.86%. PVC tiến tốt ở mức 2.69%, BSR nhích nhẹ lên trên giá tham chiếu.
+- VN-Index tiếp tục phiên giao dịch giằng co với thanh khoản thấp cho thấy sự thận trọng của nhà đầu tư. Khối ngoại tiếp tục bán ròng và chỉ báo Stochastic Oscillator đã hình thành phân kỳ giá xuống 3 đoạn nên rủi ro sụt giảm trong thời gian tới là khá cao.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Thanh khoản duy trì mức thấp
+Trong phiên giao dịch ngày 05/09/2022, VN-Index liên tục hình thành những cây nến có bóng trên dài cho thấy nhà đầu tư đang khá phân vân trong ngắn hạn.
+Chỉ báo Stochastic Oscillator đã hình thành phân kỳ giá xuống 3 đoạn và đã rơi khỏi vùng overbought nên rủi ro khá cao.
+Thêm vào đó, khối lượng giao dịch nằm dưới mức trung bình 20 ngày cho thấy nhà đầu tư đang tỏ ra thận trọng hơn.
+
+HNX-Index - Piercing Line xuất hiện
+Trong phiên giao dịch ngày 05/09/2022, HNX-Index hình thành mẫu hình nến Piercing Line nên rủi ro không quá lớn.
+Chỉ báo MACD đã cho tín hiệu bán và đang ở rất gần ngưỡng 0. Nếu ngưỡng này bị phá vỡ trong những phiên tới thì nhà đầu tư cần thận trọng.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) sẽ được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 05/09/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ càng bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 05/09/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

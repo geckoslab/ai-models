@@ -1,0 +1,21 @@
+Kết thúc phiên giao dịch ngày 09/12/2022, toàn thị trường có 27 mã tăng, 60 mã giảm và 26 mã tham chiếu. Khối ngoại tiếp tục bán ròng với tổng mức bán ròng đạt 0.48 triệu đơn vị.
+I. DIỄN BIẾN THỊ TRƯỜNG CHỨNG QUYỀN
+Kết thúc phiên giao dịch ngày 09/12/2022, toàn thị trường có 27 mã tăng, 60 mã giảm và 26 mã tham chiếu.
+Thị trường chứng quyền giao dịch thận trọng trong phiên cuối tuần, thanh khoản tiếp tục giảm mạnh sau khi nhiều mã chứng quyền đáo hạn. Kết phiên, sắc đỏ áp đảo tại nhiều chứng quyền MBB, MSN, PDR, POW, TCB, VHM, VNM và VRE với mức giảm phổ biến quanh 10%. Ngược lại, sắc xanh tập trung tại các chứng quyền FPT và STB.
+Số lượng chứng quyền toàn thị trường trong phiên 09/12 giảm từ 121 mã xuống còn 113 mã do có 8 mã chứng quyền của VND và KIS hủy niêm yết do đến ngày đáo hạn.
+Khối lượng giao dịch toàn thị trường trong phiên 09/12 đạt 31.17 triệu đơn vị, giảm -16.93%; giá trị giao dịch đạt 10.53 tỷ đồng, giảm -3.43% so với phiên trước. Trong đó, CHPG2221 là mã dẫn đầu thị trường về khối lượng, CSTB2222 dẫn đầu về giá trị giao dịch.
+Khối ngoại tiếp tục bán ròng trong phiên 09/12 với tổng mức bán ròng đạt 0.48 triệu đơn vị. Trong đó, CVJC2203 và CSTB2213 là hai mã bị bán ròng nhiều nhất.
+
+Nguồn: VietstockFinance
+II. THỐNG KÊ THỊ TRƯỜNG
+
+Nguồn: VietstockFinance
+III. ĐỊNH GIÁ CÁC CHỨNG QUYỀN
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 12/12/2022, khung giá hợp lý của các chứng quyền đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại chứng quyền.
+Theo định giá trên, CVPB2211 và CVPB2212 hiện là hai mã chứng quyền có mức định giá hấp dẫn nhất.
+Những mã chứng quyền có effective gearing càng cao thì biến động tăng/giảm theo chứng khoán cơ sở thường sẽ càng lớn. Hiện CFPT2208 và CTPB2206 là hai mã chứng quyền có tỷ lệ effective gearing cao nhất thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

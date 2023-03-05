@@ -1,0 +1,32 @@
+VN-Index có phiên giảm điểm tiêu cực và hình thành cây nến đỏ dài. Bên cạnh đó, dòng tiền thông minh tiếp tục rơi sâu xuống dưới đường EMA 20 ngày, điều này cho thấy rủi ro trên thị trường còn khá cao.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 04/10/2022
+- Thị trường chứng khoán giao dịch ảm đạm trong phiên 04/10/2022. Cụ thể, VN-Index giảm 0.76%, xuống mức 1,078.14 điểm; HNX-Index giảm 1.07%, xuống còn 235.61 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt gần 514 triệu đơn vị, tăng nhẹ 2.38% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX giảm 6.71%, đạt hơn 56 triệu đơn vị.
+- Khối ngoại bán ròng trên sàn HOSE với giá trị hơn 472 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 9 tỷ đồng.
+- Vài tháng qua, những lời đồn xoay quanh tương lai của Credit Suisse đã râm ran trên thị trường, trong giới doanh nghiệp và cả giới chính trị. Nếu Credit Suisse lâm nguy, giới đầu tư lo ngại sẽ xảy ra một cú sốc tương tự với vụ phá sản của Lehman Brothers trong năm 2008. Thậm chí, có thể châm ngòi cho một trong những cuộc khủng hoảng tài chính, kinh tế nghiêm trọng nhất kể từ cuộc Đại Suy thoái. Trong ngày 03/10, khoản phí mua hợp đồng hoán đổi tín dụng (CDS) của Credit Suisse tăng lên mức kỷ lục, khi ngân hàng Thụy Sỹ này thất bại trong nỗ lực xoa dịu thị trường. Hiện các trader và nhà đầu tư đang gấp rút bán cổ phiếu, trái phiếu của Credit Suisse, đồng thời chuyển sang mua CDS - một công cụ phòng vệ rủi ro tài chính nếu công ty cơ sở bị vỡ nợ. Điều này đẩy khoản phí CDS của Credit Suisse lên cao hơn.
+- Tiếp nối sự sụt giảm mạnh trước đó, thị trường chứng khoán tiếp tục giảm điểm tương đối tiêu cực. VN-Index mở cửa tăng hơn 10 điểm và tiến sát mốc 1,100 điểm với tâm lý bi quan giảm bớt trong đầu phiên giao dịch sáng nay, khi chứng khoán thế giới có sự hồi phục mạnh mẽ. Tuy nhiên, đà hồi phục này lại suy yếu dần sau đó khi nhiều cổ phiếu Large Cap quay đầu giảm giá. VN-Index nhanh chóng giảm lại xuống dưới tham chiếu. Thị trường có sự khởi sắc ở đầu phiên chiều nhưng lại tiếp tục sụt giảm sau đó. VN-Index kết phiên giảm 8.3 điểm, xuống còn 1,078.14 điểm.
+- VN30-Index kết phiên giảm 4.28 điểm (-0.39%), xuống còn 1,097.72 điểm. Rổ VN30 giao dịch phân hóa với 15 mã tăng, 14 mã giảm và 1 mã đứng giá. Giảm mạnh nhất trong rổ là GVR khi lao dốc 6.2%, theo sau là các mã HPG, CTG, MSN. Ở chiều ngược lại, SAB, VIC, VJC hay MWG là những cổ phiếu tăng giá mạnh nhất rổ.
+- Về mức độ ảnh hưởng, các cổ phiếu HPG, MSN, GVR, CTG và BID có tác động tiêu cực nhất đến VN-Index. Trong khi đó, VIC, SAB, VCB và MWG là những mã có tác động tích cực nhất. Tính riêng VIC đã góp gần 1.5 điểm cho chỉ số này.
+- Họ cổ phiếu Vingroup gồm VIC, VRE và VHM hiện sắc xanh tích cực trong phiên giao dịch. Trong khi VIC và VRE cùng tăng hơn 2%, mã VHM cũng có mức tăng nhẹ lên trên giá tham chiếu.
+- Cùng với đó, nhóm vận tải kho bãi cũng giao dịch sôi động khi các ông lớn hàng không như VJC và ACV tiến tốt lần lượt ở mức 2.64% và 1.65%. Nổi bật trong phiên còn có các mã STG và PDN tăng hết biên độ, HAH bứt phá 6.41%, TMS, VSC, NCT tăng hơn 3%, GMD tiến 2.42%...
+- Ngược lại, chứng khoán tiếp tục là một trong những ngành giảm mạnh nhất thị trường. Trong đó, BSI và ORS giảm sàn, VCI và HCM lao dốc hơn 6%, VND sụt 5.52%, SSI giảm 3.52%...
+- VN-Index có phiên giảm điểm tiêu cực và hình thành cây nến đỏ dài. Bên cạnh đó, dòng tiền thông minh tiếp tục rơi sâu xuống dưới đường EMA 20 ngày, điều này cho thấy rủi ro trên thị trường còn khá cao.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Tiếp tục hướng về vùng 1,045-1,050 điểm
+Trong phiên giao dịch ngày 04/10/2022, VN-Index tiếp tục giảm và hình thành cây nến đỏ dài cho thấy sự bi quan vẫn còn.
+Tiếp tục bám vào đường Lower Band của Bollinger Bands và dải này vẫn bung nén mạnh nên xu hướng giảm đang chi phối thị trường.
+Mục tiêu tiếp theo của chỉ số là ngưỡng Fibonacci Retracement 161.8% (tương đương vùng 1,045-1,050 điểm).
+
+HNX-Index - Xu hướng giảm đang rất mạnh
+Trong phiên giao dịch ngày 04/10/2022, HNX-Index xuất hiện mẫu hình nến gần giống Inverted Hammer và tiếp tục đi xuống.
+Vùng 260-270 điểm (tương đương đáy cũ tháng 06/2022) đã bị thủng hoàn toàn và ADX đang ở mức cao cho thấy đà giảm rất mạnh. Mục tiêu mới sẽ là vùng 220-230 điểm.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index đã rơi sâu xuống dưới đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) đang tăng lên.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại bán ròng trong phiên giao dịch ngày 04/10/2022. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bi quan hơn.
+II. THỐNG KÊ THỊ TRƯỜNG NGÀY 04/10/2022
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

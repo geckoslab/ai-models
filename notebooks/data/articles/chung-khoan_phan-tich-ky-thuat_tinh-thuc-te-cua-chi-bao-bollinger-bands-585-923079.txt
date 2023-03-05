@@ -1,0 +1,25 @@
+Dải Bollinger Bands được xem là một trong những công cụ phổ biến nhất trong giới đầu tư. Trạng thái bung nén sau giai đoạn “thắt cổ chai” được giới phân tích kỹ thuật đánh giá mang lại hiệu quả thực tế rất cao.
+John Bollinger - Nhà đầu tư được nể trọng ở cả khía cạnh học thuật và đầu tư thực tế
+John Bollinger là người sáng lập và chủ tịch của Bollinger Capital Management. Đây là một công ty chuyên cung cấp dịch vụ quản lý quỹ đầu tư và phát triển những nghiên cứu độc quyền cho các tổ chức, cá nhân. Tuy nhiên, nếu chỉ dừng lại tại đây thì vẫn chưa đủ để ông dành được sự tôn trọng của Wall Street. Ông được biết đến bởi những yếu tố khác.
+Thứ nhất, ông đạt được cả hai chứng chỉ CFA (Chartered Financial Analyst) và CMT (Chartered Market Technician). Ông là chuyên gia phân tích tài chính đầu tiên trên thế giới đạt được cả hai chứng chỉ này. Đây là điều gây nên sự chú ý của các nhà phân tích khác vì dân phân tích cơ bản và phân tích kỹ thuật thường hay xung khắc cũng như có những chiến lược đối lập nhau. Điều này dẫn đến một thực trạng là hiếm có ai chịu bỏ nhiều thời gian, công sức ra để học hỏi kiến thức của cả hai lĩnh vực này một cách bài bản.
+Kể từ sau khi John Bollinger lấy được cả hai chứng chỉ này và ứng dụng thành công chúng vào thực tế thì ngày càng có nhiều chuyên gia tài chính của Wall Street tìm học và đạt được cả hai bằng này. Họ nhận ra rằng mỗi loại đều có những điểm mạnh riêng và tốt nhất là nên nghiên cứu cả hai để làm tăng khả năng thành công của mình.
+Thứ hai, ông nghiên cứu và phát minh ra Bollinger Bands. Công cụ này đã trở nên quen thuộc và gần như mặc dịnh trong tất cả các phần mềm phân tích kỹ thuật hiện nay.
+
+Nguồn: Livecoins
+Các bộ phận cấu thành của dải Bollinger Bands
+Dải Bollinger Bands là một công cụ có sự kết hợp giữa đường trung bình động (Moving Average) và độ lệch chuẩn. Công cụ này gồm có 3 bộ phận cấu thành: đường Middle, đường Upper Band và đường Lower Band
+Trung bình động (Moving Average) là một chỉ báo thể hiện giá trị trung bình của giá chứng khoán trong một khoảng thời gian. Số kỳ được giới phân tích thường sử dụng là 20 ngày. Ở những cổ phiếu khác nhau hoặc từng thị trường khác nhau số kỳ có thể thay đổi để mang lại hiệu quả cao hơn.
+Dải trên (Upper Band): dải trên thường được tính bằng cách lấy đường trung bình cộng 2 lần độ lệch chuẩn. Dải này có vị trí nằm trên đường trung bình 20 ngày.
+Dải dưới (Lower Band): dải dưới thường được tính bằng cách lấy đường trung bình trừ 2 lần độ lệch chuẩn. Dải này có vị trí nằm dưới đường trung bình 20 ngày.
+Cách sử dụng hiệu quả
+Đường Middle của dải Bollinger Bands được sử dụng như một đường trung bình thuần túy. Trong ngắn hạn, nếu giá vượt lên trên đường này tín hiệu mua sẽ xuất hiện. Ngược lại, tín hiệu bán sẽ được hình thành khi giá cắt xuống dưới đường này. Tuy nhiên, do đường trung bình động là một chỉ báo cho tín hiệu trễ, nên nhà đầu tư cần lưu ý là chỉ báo này sẽ cho tín hiệu nhiễu khi thị trường đi ngang.
+Bên cạnh đó, đây cũng sẽ là hỗ trợ hoặc kháng cự di động trong ngắn hạn của cổ phiếu. Nếu đường này vẫn được giữ vững thì xu hướng trước đó vẫn sẽ được tiếp diễn.
+
+Dải Bollinger Bands liên tục làm hỗ trợ hoặc kháng cự di động của giá cổ phiếu HAX trong ngắn hạn.Nguồn: VietstockUpdater
+Một điều cần lưu ý khi sử dụng dải Bollinger Bands là trạng thái mở rộng hay thu hẹp của công cụ này. Hiện tượng “thắt nút cổ chai” được hiểu là khi đường Upper và đường Lower của dải này co thắt lại hoặc gần như đi ngang. Điều này cho thấy giá cổ phiếu đang trong xu hướng sideway và sẽ giằng co mạnh trọng một khoảng thời gian.
+Tuy nhiên, khi trạng thái co thắt này kết thúc, dải này bung nén mạnh với khối lượng giao dịch tăng cao thì dự báo một xu hướng mạnh sẽ được tiếp nối. Xu hướng tiếp theo là tăng hay giảm phụ thuộc vào khi đó giá đang bám sát vào đường Upper Band hay đường Lower Bands.
+Vào giữa tháng 12/2020, giá cổ phiếu KBC bắt đầu bung nén mạnh với khối lượng giao dịch tăng cao hơn giai đoạn trước đó. Ngay sau đó giá liên tục tăng mạnh và bám sát vào đường Upper Band cho đến gần cuối tháng 01/2021.
+
+Nguồn: VietstockUpdater
+Bộ phận Phân tích Kỹ thuật, Phòng Tư vấn Vietstock
+FILI

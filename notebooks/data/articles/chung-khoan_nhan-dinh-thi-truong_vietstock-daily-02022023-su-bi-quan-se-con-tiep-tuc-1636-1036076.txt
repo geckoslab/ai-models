@@ -1,0 +1,30 @@
+VN-Index giảm mạnh và hình thành mẫu hình nến Bearish Engulfing cho thấy sự bi quan của nhà đầu tư đang quay trở lại.
+I. PHÂN TÍCH THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ NGÀY 01/02/2023
+- Thị trường chứng khoán giảm điểm mạnh trong phiên 01/02/2023. Kết phiên, VN-Index giảm 3.17%, xuống mức 1,075.97 điểm; HNX-Index giảm 2.89%, dừng chân ở mức 216.01 điểm.
+- Khối lượng khớp lệnh trên HOSE đạt hơn 974 triệu đơn vị, tăng 49.04% so với phiên giao dịch trước. Khối lượng khớp lệnh trên HNX tăng 49.11%, đạt hơn 129 triệu đơn vị.
+- Khối ngoại mua ròng trên sàn HOSE với giá trị hơn 93 tỷ đồng, mua ròng trên sàn HNX với giá trị hơn 39 tỷ đồng.
+- Thị trường chứng khoán mở cửa giao dịch với sắc xanh tương đối tích cực. VN-Index tăng hơn 5 điểm sau phiên ATO và duy trì sắc xanh này trong phần lớn thời gian của phiên sáng. Tín hiệu tiêu cực xuất hiện trước khi bước vào giờ nghỉ trưa. Nhóm cổ phiếu ngân hàng không thể giữ được nhịp tăng, nhiều cổ phiếu quay đầu giảm đã kéo VN-Index xuống dưới tham chiếu. Tình hình trở nên ảm đạm hơn trong phiên chiều. Lực bán mạnh xuất hiện trên thị trường khiến VN-Index lao dốc giảm sâu. Kết thúc giao dịch VN-Index sụt 35.21 điểm, xuống mức 1,075.97 điểm.
+- VN30-Index kết phiên giảm 36.98 điểm (-3.29%), xuống mức 1,088.09 điểm. Bên bán chiếm ưu thế hơn trong rổ VN30 với 23 mã giảm và 7 mã tăng giá. Giao dịch tiêu cực nhất rổ là GVR khi giảm hết biên độ. Theo sau là các mã SSI, VPB, VHM. Ở chiều ngược lại, NVL, HDB và MWG là những cổ phiếu tăng giá mạnh nhất.
+- Về mức độ ảnh hưởng, VCB, VHM, BID và MSN là những cổ phiếu có tác động tiêu cực nhất đến VN-Index. Trong khi đó, HDB, MWG và SBT là những cổ phiếu có ảnh hưởng tiêu cực nhất, nhưng mức độ đóng góp là không cao.
+- Các ngành như chứng khoán, khai khoáng hay vật liệu xây dựng là những ngành giảm mạnh nhất thị trường trong phiên. Các cổ phiếu lớn đầu ngành đều sụt giảm sâu như PVD (-6.19%), PVS (-6.25%), SSI (-6.71%)…
+- Ông lớn trong ngành thực phẩm đồ uống VNM là một trong số ít các cổ phiếu hiện sắc xanh. Cùng với đó, nhóm mía đường có phiên bật tăng tốt. Nổi bật trong đó là SBT, LSS và KTS cùng bứt phá hết biên độ. Theo hiệp hội các nhà máy sản xuất đường tại Ấn Độ (ISMA), sản lượng đường trong niên vụ 2022/23 tại Ấn Độ, quốc gia sản xuất lớn thứ 2 thế giới dự báo sẽ giảm 7% so với kỳ vọng trước đó, xuống còn 34 triệu tấn do ảnh hưởng tiêu cực từ mưa lớn khiến hoạt động sản xuất gián đoạn. Cùng với đó, công ty phân tích Green Pool mới đây đã đưa ra dự báo sản lượng đường toàn cầu sẽ rơi vào mức thâm hụt 1.01 triệu bao, chấm dứt chuỗi thặng dư 3 niên vụ liên tiếp, điều này càng củng cố cho những lo ngại về thiếu hụt nguồn cung, từ đó tạo đà giúp giá bật tăng.
+- VN-Index giảm mạnh và hình thành mẫu hình nến Bearish Engulfing cho thấy sự bi quan của nhà đầu tư đang quay trở lại.
+II. PHÂN TÍCH KỸ THUẬT
+Phân tích Xu hướng và Dao động giá
+VN-Index - Bearish Engulfing hình thành
+Trong phiên giao dịch ngày 01/02/2023, VN-Index giảm điểm mạnh và hình thành mẫu hình nến Bearish Engulfing cho thấy tâm lý bi quan của nhà đầu tư.
+Chỉ báo MACD đảo chiều mạnh và sắp cho bán trở lại. Nếu tín hiệu này xuất hiện thì tình hình sẽ chuyển biến xấu hơn.
+
+HNX-Index - Stochastic Oscillator cho tín hiệu bán
+Trong phiên giao dịch ngày 01/02/2023, HNX-Index đứt mạch chuỗi tăng điểm cho thấy áp lực bán mạnh đã quay trở lại.
+Chỉ số vẫn duy trì dưới đường SMA 100 ngày nên rủi ro vẫn còn. Dự kiến áp lực bán sẽ còn hiện diện tại đây trong những phiên tới.
+Chỉ báo Stochastic Oscillator cũng đã cho bán trở lại trong vùng overbought nên rủi ro điều chỉnh đang tăng lên.
+
+Phân tích Dòng tiền
+Biến động của dòng tiền thông minh: Chỉ báo Negative Volume Index của VN-Index nằm trên đường EMA 20 ngày. Vì vậy, rủi ro sụt giảm bất ngờ (thrust down) được giảm thiểu.
+
+Biến động của dòng tiền từ khối ngoại: Khối ngoại mua ròng trong phiên giao dịch ngày 01/02/2023. Nếu nhà đầu tư nước ngoài duy trì hành động này trong những phiên tới thì tình hình sẽ bớt bi quan hơn.
+III. THỐNG KÊ THỊ TRƯỜNG NGÀY 01/02/2023
+
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

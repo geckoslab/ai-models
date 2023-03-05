@@ -1,0 +1,39 @@
+Có lẽ nhà đầu tư dù ít kinh nghiệm hay đã dày dặn kinh nghiệm đầu tư đều đã sử dụng qua chỉ số P/E để định giá cho cổ phiếu của mình. Tuy nhiên, không phải ai cũng hiểu kỹ về chỉ số P/E, do đó khi sử dụng vào thực tế đầu tư lại không đem lại kết quả tốt như mong muốn.
+
+Nguồn: Shutterstock
+Chỉ số P/E được tính như thế nào?
+Chỉ số P/E hay viết đầy đủ sẽ là Price / Earning per share. Ở đây Price tức là giá trị thị trường của cổ phiếu.
+Earnings per share (EPS) là lợi nhuận ròng trên một cổ phiếu của doanh nghiệp. EPS được tính theo công thức:
+
+P/E ở trên là cách tính hay dùng. Trên thực tế, nhà đầu tư còn gặp phải chỉ số P/E trailing và P/E forward (hay còn được gọi dưới cái tên Leading P/E hay Prospective P/E). Với P/E trailing, nhà đầu tư sẽ sử dụng EPS của 12 tháng gần nhất. Trong khi đó, P/E forward lại sử dụng EPS dự phóng cho năm tiếp theo. Với P/E trailing và P/E forward, phần tử số vẫn sử dụng giá thị trường của cổ phiếu như công thức gốc ban đầu.
+
+Thông thường, với doanh nghiệp đang phát triển tốt. P/E forward sẽ nhỏ hơn P/E bình thường của doanh nghiệp ấy. Lý do là tại vì khi lợi nhuận doanh nghiệp được kỳ vọng sẽ tiếp tục tăng trưởng, EPS cho năm tiếp theo sẽ cao hơn EPS của năm trước đó. Kết quả là P/E forward cho ra giá trị thấp hơn. Ngược lại, với các doanh nghiệp đang gặp khó khăn, nhà đầu tư kỳ vọng lợi nhuận cho năm sau sẽ bị thu hẹp thì P/E forward sẽ cho ra giá trị lơn hơn P/E năm nay của doanh nghiệp.
+P/E forward còn đặc biệt hữu dụng khi doanh nghiệp sắp trải qua một thay đổi lớn trong mô hình kinh doanh, chẳng hạn như sáp nhập công ty mới. Lợi nhuận ròng của doanh nghiệp sẽ có biến động lớn và lệch xa khỏi giá trị trong quá khứ. Do vậy, P/E forward sẽ giúp nhà đầu tư hình dung rõ hơn về mức định giá của doanh nghiệp sau khi quá trình tái cấu trúc sẽ như thế nào.
+P/E cao có phải là xấu?
+P/E cao hay thấp là tốt cho đầu tư có lẽ là một câu hỏi rất hay được nhà đầu tư mới quan tâm. Thông thường, P/E thấp hơn giá trị trung bình của ngành sẽ là một khoản đầu tư hời, giá thấp và hợp lý cho đầu tư dài hạn. Tuy nhiên, P/E thấp còn hàm ý rằng nhà đầu tư không kỳ vọng nhiều vào cổ phiếu đó. Có thể là ngành không hấp dẫn, triển vọng tăng trưởng không tích cực hay đơn giản là mã cổ phiếu ấy chưa được nhà đầu tư quan tâm. Do vậy, P/E thấp hơn trung bình ngành là điều kiện cần với nhà đầu tư theo quan điểm đầu tư giá trị nhưng chưa phải là điều kiện đủ. Ngoài chỉ số P/E thấp, nhà đầu tư còn phải phân tích nhiều yếu tố nền tảng kinh doanh để có thể đánh giá đó là công ty thực sự tốt hay không.
+Tương tự như vậy, P/E cao cũng không hẳn là mắc. Nhà đầu tư có thể nhận thấy hiện tượng mức P/E cao ở các cổ phiếu tăng trưởng nhanh (như cổ phiếu công nghệ), cổ phiếu đầu ngành và được sự quan tâm của nhiều người. P/E cao còn phản ánh vào kỳ vọng tăng trưởng mạnh mẽ của doanh nghiệp trong tương lai.
+Ví dụ: Trường hợp của CTCP Sữa Việt Nam (HOSE: VNM). P/E của VNM trong quá khứ thường xuyên giao dịch cao hơn mức 20, tại nhiều thời điểm P/E của công ty này còn có lúc lên quanh mức 25-30. Tuy vậy, tốc độ tăng trưởng doanh thu của VNM cùng lúc đó lại liên tục được neo giữ trên mức 20%. Triển vọng tăng trưởng của VNM tại thời điểm này là rất tốt do đó P/E được nhà đầu tư chấp nhận ở mức cao là có thể hiểu được. Tuy vậy, từ 2017 trở về đi, khi mà công ty cho thấy sự chững lại về mặt kinh doanh, giá cổ phiếu đã có nhiều đợt sụt giảm và đi ngang suốt thời gian qua.
+
+Nguồn: VietstockFinance
+Nhà đầu tư cũng cần coi thử xem ROE có bị giảm dần qua các năm hay không. Nếu có thì giá cũng khó mà tăng được cho dù các chỉ số đều ở mức lý tưởng vì doanh nghiệp đang tự thụt lùi so với chính nó. VNM đang bị hiện tượng này. Dù EPS và ROE đều rất cao (hơn 40%) nhưng lại giảm đều trong 4-5 năm gần đây khiến nhiều nhà đầu tư cảm thấy thất vọng.
+
+Nguồn: VietstockFinance
+Có thể ví von một cách hình tượng thế này. Cả hai học sinh A và B đều có học lực khá. Tuy nhiên, học sinh A rơi từ mức giỏi năm ngoái xuống khá vào năm nay. Học sinh B thì tăng từ mức trung bình lên khá. Vậy thì học sinh B sẽ được đánh giá cao hơn. Cổ phiếu cũng tương tự như vậy.
+Điểm mạnh và điểm yếu của P/E
+Ưu điểm:
+- Lợi nhuận ròng là một trong những yếu tố quan trọng hàng đầu dẫn dắt giá trị của cổ phiếu.
+- EPS được tính toán sẵn trên nhiều trang về dữ liệu, do vậy nhà đầu tư hầu như không phải tính toán gì khi muốn sử dụng chỉ số P/E. Ngoài ra, việc so sánh ngang cũng đơn giản hơn so với các chỉ số ít thông dụng khác như EV/EBITDA.
+Nhược điểm:
+- P/E không xét đến cấu trúc tài sản của doanh nghiệp.
+- Sự biến động giá mạnh của cổ phiếu trong ngắn hạn có thể làm P/E biến động khó lường theo.
+- P/E thường được tính dưới dạng quá khứ, với chỉ số P/E trailing (tức dùng lợi nhuận đã thực hiện được). Tuy nhiên, P/E sẽ có giá trị hơn khi sử dụng với EPS dự phóng trong tương lại.
+- P/E cần phải điều chỉnh đối với cổ phiếu có tính chu kỳ. Với cổ phiếu đang trạng thái bùng nổ về lợi nhuận nhưng kết quả này chỉ duy trì trong ngắn hạn, P/E đòi hỏi nhà đầu tư phải có sự điều chỉnh phù hợp để định giá chính xác.
+Ứng dụng thực tế vào định giá DPM
+Định giá sau đây được người viết thực hiện vào tháng 07/2021. Giá DPM tại thời điểm định giá giao động 20,000-22,000 đồng/cp.
+Để thực hiện định giá theo P/E, điều đầu tiên cần làm là tìm danh sách các công ty tương đương trên thị trường. Sau đó, tổng hợp giá trị P/E của các công ty này. Ta có bảng danh sách như ở bên dưới. Kết quả mong muốn từ bảng này là kết quả trung vị P/E của toàn ngành. Theo đó, P/E trung vị tại thời điểm định giá ở mức 12.85.
+
+Nguồn: VietstockFinance
+EPS dự phóng của DPM khi kết thúc năm 2021 ở mức 2,453 đồng/cp. Dựa vào P/E trung vị ngành, giá trị cổ phiếu của DPM cho ra mức 31,521 đồng/cp. Giá cổ phiếu sau đó liên tục bứt phá mạnh và thậm chí còn vượt cả mức giá mục tiêu. Điều này đã đem lại lợi nhuận lớn cho các nhà đầu tư.
+
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI

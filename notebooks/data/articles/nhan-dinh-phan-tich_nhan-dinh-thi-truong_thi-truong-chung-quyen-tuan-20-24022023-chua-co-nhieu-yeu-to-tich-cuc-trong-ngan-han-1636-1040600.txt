@@ -1,0 +1,20 @@
+Kết thúc phiên giao dịch ngày 17/02/2023, toàn thị trường có 21 mã tăng, 40 mã giảm và 32 mã tham chiếu. Khối ngoại tiếp tục mua ròng với tổng mức mua ròng đạt 0.29 triệu đơn vị.
+I. DIỄN BIẾN THỊ TRƯỜNG CHỨNG QUYỀN
+Kết thúc phiên giao dịch ngày 17/02/2023, toàn thị trường có 21 mã tăng, 40 mã giảm và 32 mã tham chiếu.
+Ở chiều giảm, thị trường ghi nhận sắc đỏ nhẹ ở các nhóm chứng quyền FPT, HPG, MBB, VNM và VPB với mức giảm quanh 5%. Chiều ngược lại, sắc xanh tập trung tại hai nhóm chứng quyền STB, VIB và VRE. Trong đó, nhóm chứng quyền STB có mức tăng khá trên 10%, nhóm chứng quyền VIB và VRE tăng nhẹ quanh 5%.
+Khối lượng giao dịch toàn thị trường trong phiên 17/02 đạt 15.27 triệu đơn vị, tăng 3.18%; giá trị giao dịch đạt 7.05 tỷ đồng, giảm -4.47% so với phiên 16/02. Trong đó, CHPG2227 là mã dẫn đầu thị trường về khối lượng và giá trị giao dịch.
+Khối ngoại tiếp tục mua ròng trong phiên 17/02 với tổng mức mua ròng đạt 0.29 triệu đơn vị. Trong đó, CSTB2215 và CSTB2222 là hai mã được mua ròng nhiều nhất.
+
+Nguồn: VietstockFinance
+II. THỐNG KÊ THỊ TRƯỜNG
+
+Nguồn: VietstockFinance
+III. ĐỊNH GIÁ CÁC CHỨNG QUYỀN
+Dựa trên phương pháp định giá hợp lý với thời điểm khởi đầu ngày 20/02/2023, khung giá hợp lý của các chứng quyền đang được giao dịch trên thị trường được thể hiện như sau:
+
+Nguồn: VietstockFinance
+Lưu ý: Chi phí cơ hội trong mô hình định giá được điều chỉnh để phù hợp với thị trường Việt Nam. Cụ thể, lãi suất tín phiếu phi rủi ro (tín phiếu Chính phủ) sẽ được thay thế bằng lãi suất tiền gửi trung bình của các ngân hàng lớn với sự hiệu chỉnh kỳ hạn phù hợp với từng loại chứng quyền.
+Theo định giá trên, CMSN2214 và CTPB2204 hiện là hai mã chứng quyền có mức định giá hấp dẫn nhất.
+Những mã chứng quyền có effective gearing càng cao thì biến động tăng/giảm theo chứng khoán cơ sở thường sẽ càng lớn. Hiện CFPT2211 và CVPB2213 là hai mã chứng quyền có tỷ lệ effective gearing cao nhất thị trường.
+Bộ phận Phân tích Kinh tế & Chiến lược Thị trường, Phòng Tư vấn Vietstock
+FILI

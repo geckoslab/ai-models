@@ -1,0 +1,76 @@
+Hành vi gian lận trong BCTC đang ngày càng trở nên tinh vi hơn, các yếu tố tác động đến hành vi gian lận tài chính cũng trở nên đa dạng hơn. Việc sử dụng các mô hình đánh giá gian lận sẽ giúp xác nhận được mức độ gian lận trong BCTC của doanh nghiệp. Đây là công cụ đắc lực hỗ trợ cho giới đầu tư đánh giá mức độ tin cậy BCTC doanh nghiệp nhằm hạn chế tối đa rủi ro trong đầu tư.
+Mô hình F-score là gì?
+Giáo sư Patricia Dechow là một trong những người hiếm hoi trên thế giới đạt được giải thưởng danh giá American Accounting Association Award đến hai lần vào năm 2010 và 2015 cho những nghiên cứu chuyên sâu trong lĩnh vực kế toán của mình. Ít có người phụ nữ nào thành công trong lĩnh vực này đến như vậy.
+Bà và Giáo sư Richard Sloan tại Đại học California giới thiệu Mô hình F-Score vào năm 2011, đây là một công cụ đánh giá rủi ro gian lận chung trên báo cáo tài chính của các doanh nghiệp. Mô hình này là biện pháp giúp nhà đầu tư nhận ra khả năng gian lận trên báo cáo tài chính với xác suất cao hơn đáng kể từ dữ liệu tối đa ba năm gần nhất.
+Kể từ đó, mô hình này trở thành một trong những tiêu chuẩn hàng đầu để đánh giá mức độ tin cậy báo cáo tài chính của các doanh nghiệp niêm yết trên thị trường chứng khoán Mỹ nói riêng và thế giới nói chung.
+
+Giáo sư Patricia Dechow. Nguồn: University of Southern California
+Công thức tính
+Predicted value = - 7.893 + 0.790 x RSST + 2.518 x ΔREC + 1.191 x ΔINV + 1.979 x SOFTASSETS + 0.171 x ΔCASHSALES - 0.932 x ΔROA + 1.029 x ISSUE
+
+Trong đó: Unconditional probability là số công ty có gian lận tài chính chia cho tổng số công ty. Số liệu này được công bố trong nghiên cứu gốc của tác giả năm 2011.
+Có thể nhận thấy trong mô hình này có thể chia thành nhóm chính:
+Loại 1 gồm các biến liên quan đến chất lượng các khoản kế toán dồn tích (accrual quality): RSST, ΔREC, ΔINV, SOFTASSETS, ΔCASHSALES.
+Loại 2 là biến liên quan đến hiệu quả tài chính: ΔROA.
+Loại 3 là biến liên quan đến việc phát hành thêm cổ phiếu nhằm nâng vốn: ISSUE.
+Chi tiết các biến số
+RSST (Biến liên quan đến chất lượng kế toán dồn tích)
+Công thức tính:
+
+Trong đó:
+WC = (Tài sản ngắn hạn - Tiền - Đầu tư ngắn hạn) - (Nợ ngắn hạn - Vay ngắn hạn)
+NCO = (Tổng tài sản - Tài sản ngắn hạn - Đầu tư vào Công ty con, công ty liên kết) - (Nợ phải trả - Nợ ngắn hạn - Vay dài hạn)
+FIN = (Đầu tư ngắn hạn + Đầu tư dài hạn) - (Vay dài hạn + Vay ngắn hạn + Cổ phiếu ưu đãi)
+(Các chỉ số được lấy trực tiếp trong bảng cân đối kế toán của doanh nghiệp)
+Hiện nay, có hai loại cơ sở để hạch toán kế toán đó là cơ sở tiền mặt và cơ sở dồn tích. Theo quy định của các chuẩn mực kế toán đều thống nhất sử dụng cơ sở dồn tích là cơ sở chính thức để ghi nhận các giao dịch kinh tế phát sinh. Điều này tạo kẽ hở để các nhà quản lý có thể điều tiết lợi nhuận thông qua các nghiệp vụ kế toán không liên quan trực tiếp đến dòng tiền thực tế phát sinh và nhận được trong kỳ.
+Việc mổ xẻ các khoản điều chỉnh dồn tích sẽ giúp cung cấp cho nhà đầu tư cái nhìn cụ thể hơn về tình hình kinh doanh của doanh nghiệp và qua đó giúp phát hiện sớm những dấu hiệu cho thấy hành vi thao túng BCTC của các nhà quản lý.
+Theo lập luận của tác giả biến RSST tăng sẽ làm tăng khả năng BCTC có gian lận. Những doanh nghiệp có chất lượng kế toán dồn tích thấp sẽ có thể linh hoạt hơn trong việc tháo túng số liệu trên báo cáo kết quả kinh doanh.
+ΔREC (Biến động phải thu khách hàng)
+Công thức tính: ΔREC = Δ Nợ phải thu khách hàng / Tổng tài sản bình quân
+(Các chỉ số sử dụng được lấy trong bảng cân đối kế toán)
+Biến động tăng khoản phải thu của khách hàng sẽ giúp cải thiện doanh thu của doanh nghiệp trong năm đó. Tuy doanh nghiệp chưa thực sự thu được tiền, nhưng họ hoàn toàn có thể ghi nhận doanh thu cho kỳ kinh doanh đó. Trong thực tế, đây là cách được sử dụng nhiều bởi các nhà quản lý nhằm đạt được mục tiêu doanh thu lợi nhuận đề ra. Và vì khi đạt được mục tiêu ấy, các nhà quản lý sẽ nhận được mức lương thưởng tương xứng. Do vậy, theo lập luận của tác giả, biến ΔREC tăng sẽ làm tăng khả năng BCTC có gian lận tài chính.
+ΔINV (Biến động hàng tồn kho trên tổng tài sản)
+Công thức tính: ΔINV = Δ Hàng tồn kho / Tổng tài sản bình quân
+(Các chỉ số được lấy trong bảng cân đối kế toán)
+Chuẩn mực kế toán cho phép người quản lý lựa chọn phương pháp xác định giá hàng tồn kho. Mỗi cách tính giá trị hàng tồn kho khác nhau sẽ ảnh hưởng đến giá trị hàng tồn kho cuối kỳ, giá vốn hàng bán và ảnh hưởng trực tiếp đến lợi nhuận biên trong kỳ.
+Điều này có nghĩa là các nhà quản lý hoàn toàn có thể điều chỉnh lợi nhuận theo mong muốn thông qua việc lựa chọn phương pháp tính toán cho hàng tồn kho. Ngoài ra, theo chuẩn mực kế toán, hàng tồn kho phải được ghi nhận thấp hơn giá gốc và giá trị thuần có thể thực hiện được. Khi giá trị thuần có thể thực hiện được thấp hơn giá trị ban đầu thì hàng tồn kho phải được trích lập dự phòng giảm giá. Trích lập dự phòng giảm giá cũng là một công cụ để giúp nhà quản lý điều tiết lợi nhuận trong kỳ kinh doanh.
+Theo lập luận của tác giả, biến ΔINV tăng thì khả năng BCTC có gian lận là cao hơn.
+SOFTASSETS (Tỷ trọng Softassets trên tổng tài sản)
+Công thức tính: SOFTASSETS = (Tổng tài sản - TSCĐ hữu hình - Tiền & các khoản tương đương tiền) / Tổng tài sản
+(Các chỉ số được lấy trong bảng cân đối kế toán)
+Softassets được định nghĩa là các loại tài sản không phải là tiền, các khoản tương đương tiền và tài sản hữu hình. Tỷ trọng Softassets cao, các nhà quản lý sẽ có thêm những thủ thuật để thực hiện điều chỉnh lợi nhuận trong ngắn hạn. Có thể kể đến như việc lựa chọn các phương pháp khấu hao và thời gian khấu hao theo cách có lợi nhất.
+Theo lập luận của tác giả, biến Softassets cao thì khả năng BCTC có gian lận là cao hơn.
+ΔCASHSALES (Biến động tỷ trọng doanh thu thu được bằng tiền)
+Công thức tính: ΔCASHSALES = (Doanh thu thuần t - Nợ phải thu khách hàng t) / Doanh thu thuần t - (Doanh thu thuần t-1 - Nợ phải thu khách hàng t-1) / Doanh thu thuần t-1
+(Các chỉ số được lấy trong bảng cân đối kế toán, báo cáo kết quả kinh doanh)
+Theo tác giả, một doanh nghiệp hoạt động tốt thì doanh thu thực tế thu được bằng tiền nên có cùng mức tăng với sự gia tăng của các khoản phải thu. Nếu một doanh nghiệp có sự gia tăng đáng kể về khoản phải thu trong kỳ kinh doanh, trong khi dòng tiền thực nhận lại thấp hơn đáng kể thì khả năng doanh nghiệp có những tác động nhất định nhằm làm đẹp kết quả kinh doanh. Một số chính sách điển hình có thể kể đến như nới lỏng chính sách bán hàng của doanh nghiệp, thay đổi hạn mức thanh toán, thời hạn thanh toán, tăng tỷ lệ chiết khấu, tăng khuyến mãi…
+Ngoài ra, một số doanh nghiệp có thể sẽ ghi tăng doanh thu cho dù chưa đủ điều kiện ghi nhận doanh thu theo quy định hiện hành. Điển hình như các doanh nghiệp liên quan đến ngành xây dựng, bất động sản hoặc các dự án có nhiều giai đoạn, khi ấy việc ước tính doanh thu sẽ ảnh hưởng nhiều hơn bởi các yếu tố chủ quan. Dù việc ước tính phải dựa trên cơ sở hợp lý nhưng thực tế, các ước tính này có thể chênh nhau khá đáng kể.
+Theo tác giả, biến ΔCASHSALES tăng thì khả năng BCTC có gian lận sẽ cao hơn.
+ΔROA (Biến động tỷ suất sinh lời trên tổng tài sản)
+Công thức tính: ΔROA = (Lợi nhuận sau thuế t / Tổng tài sản bình quân t) - (Lợi nhuận sau thuế t-1 / Tổng tài sản bình quân t-1)
+(Các chỉ số sử dụng được lấy trong bảng cân đối kế toán, báo cáo kết quả kinh doanh)
+ROA giúp đánh giá hiệu quả hoạt động của doanh nghiệp. Một doanh nghiệp liên tục cải thiện hiệu quả kinh doanh, làm ăn tốt lên sẽ ít có động lực gian lận tài chính hơn.
+Do đó, theo tác giả, biến ΔROA tăng sẽ làm giảm nguy cơ BCTC có gian lận.
+ISSUE (Phát hành cổ phiếu trong năm)
+Công thức tính: ISSUE Có giá trị bằng 1 nếu trong năm có phát hành chứng khoán
+(Có thể xem trên báo cáo tài chính và các nghị quyết được thông qua về việc phát hành thêm cổ phiếu trong thời gian tới của doanh nghiệp)
+Một trong những động lực để nhà quản trị thực hiện hành vi thao túng trên BCTC đó là duy trì một mức giá cổ phiếu cao. Để mức giá cổ phiếu cao, các số liệu trên báo cáo tài chính doanh nghiệp phải đủ tốt để thu hút sự quan tâm của nhà đầu tư. Với các doanh nghiệp đang gặp khó khăn nhất định, giá cổ phiếu ở mức cao sẽ đem lại nhiều lợi thế cho họ. Khi đó, doanh nghiệp sẽ rất tích cực phát hành thêm cổ phiếu để có thêm vốn để cải thiện tình hình kinh doanh của mình.
+Theo tác giả, khả năng có gian lận trên BCTC sẽ cao hơn nếu doanh nghiệp có phát hành thêm cổ phiếu.
+Phân tích kết quả
+Điểm F > 2.45: Khả năng doanh nghiệp có nguy cơ gian lận trong BCTC là rất cao.
+Điểm 2.45 > F > 1.85: Khả năng doanh nghiệp có nguy cơ gian lận trong BCTC là cao.
+Điểm 1.85 > F > 1: Khả năng doanh nghiệp có nguy cơ gian lận trong BCTC ở mức trung bình.
+Điểm F < 1: Khả năng gian lận trong BCTC là thấp.
+Ứng dụng thực tế
+Người viết lấy ví dụ về CTCP Hùng Vương (UPCoM: HVG). Vào giai đoạn 2008-2014, HVG có thể xem là doanh nghiệp cực kỳ tiềm năng khi kết quả kinh doanh của doanh nghiệp này liên tục tăng trưởng tốt. Tuy nhiên, kể từ 2016 cho tới nay, doanh nghiệp cho thấy sự đi xuống đáng kể về mặt kinh doanh. Doanh nghiệp này liên tục ghi nhận khoảng lỗ lớn. Và điều đáng lo ngại hơn cả cho nhà đầu tư là việc HVG liên tục cho thấy có sự chênh lệch lớn giữa báo cáo tự lập và báo cáo sau kiểm toán.
+Năm 2016, lợi nhuận sau thuế của HVG sau kiểm toán âm 49 tỷ đồng, chênh lệch lớn so với mức lợi nhuận doanh nghiệp tự ghi nhận là dương hơn 309 tỷ đồng. Các khoảng chênh này không những không có xu hướng mất đi mà mức chênh lệch ngày một lớn hơn cho những năm kinh doanh sau này.
+Ngày 12/07/2017, doanh nghiệp được biết đến với mặt hàng cá tra này đã bị xử phạt nặng từ Ủy Ban Chứng Khoán nhà nước do công bố thông tin sai lệch và không công bố thông tin đúng thời hạn. Năm 2018, nhà đầu tư lại một lần nữa bất ngờ trước khoản lỗ được điều chỉnh nâng lên hơn 10 lần, từ mức âm 63 tỷ đồng lên mức 705 tỷ đồng. Năm 2020, HVG lại tiếp tục bị công ty kiểm toán điều chỉnh tăng mạnh các khoản lỗ do các khoản chi phí được công ty lập ra thấp hơn con số thực tế.
+
+Nguồn: VietstockFinance
+Người viết đã cho tính toán chỉ số F-score từ các số liệu tài chính của HVG từ năm 2010-2019. Kết quả là năm 2015, chỉ số F-score chứng kiến sự tăng vọt (rủi ro gian lận tài chính đột ngột tăng mạnh). Con số được tính ra ở mức 4.32, nếu đối chiếu theo nghiên cứu của tác giả, HVG tại thời điểm tính toán cho thấy khả năng có gian lận tài chính ở mức rất cao. Các biến ΔREC và ΔINV đều có những biến động đáng ngờ trong năm 2015 so với năm 2014. Cùng với đó là việc CTCP Hùng Vương (UPCoM: HVG) đã phát hành thêm cổ phiếu vào đầu năm 2015 cũng làm tăng thêm những nghi ngờ cho những ai theo dõi quá trình hoạt động của công ty này.
+Có thể thấy, mô hình F-score đã thành công phần nào ở trường hợp của HVG trong việc cho ra báo hiệu sớm về khả năng xảy ra những gian lận tài chính. Trên sàn giao dịch, sau khi tạo đỉnh vào khoảng thời gian cuối năm 2014 thì giá cổ phiếu HVG cũng bắt đầu sụt giảm liên tục sau đó.
+Rõ ràng, các kinh nghiệm cũ cho chúng ta những bài học quý giá để đối diện với giai đoạn mới của thị trường trong năm 2022 vốn được dự báo là sẽ đầy chông gai. Tình trạng “vàng thau lẫn lộn” sẽ phần nào được khắc phục nếu nhà đầu tư nắm vững và áp dụng thuần thục mô hình này vào thực tế.
+
+Nguồn: https://stockchart.vietstock.vn/
+Bộ phận Phân tích Doanh nghiệp, Phòng Tư vấn Vietstock
+FILI
